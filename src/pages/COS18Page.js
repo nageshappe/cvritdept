@@ -45,7 +45,12 @@ const COS18Page = () => {
             "CO 2: Modularize a problem and implement the solution using basic programming concepts, control statements and functions.",
             "CO 3: Evaluate the use of macros and implement solutions to complex problems using recursion and homogeneous data types.",
             "CO 4: Implement pointers for problems of relevance and use different dynamic memory allocation methods.",
-            "CO 5: Design and implement appropriate user defined structures to a given problem definition and apply various functions for processing files."]
+            "CO 5: Design and implement appropriate user defined structures to a given problem definition and apply various functions for processing files."],
+        "Environmental Science": ["CO 1: Define the concepts of ecosystem and emphasize the importance of biodiversity and its conservation.",
+            "CO 2: Gain knowledge on natural resources and advantages and disadvantages on renewable energy sources and technologies.",
+            "CO 3: Develop awareness on pollution control technologies and global atmospheric changes.",
+            "CO 4: Emphasize the importance of Environmental impact assessment and green technologies.",
+            "CO 5: Understand about Environmental legislation and the concept of Sustainable development."]
     };
 
     const handleYearClick = (year) => {

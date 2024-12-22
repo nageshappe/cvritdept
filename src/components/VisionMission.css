@@ -43,9 +43,14 @@
 .main-content h1,
 .main-content p {
   color: #2c3e50;
+  text:
 }
 
 .main-content ul {
   padding-left: 20px;
   color: #34495e;
+}
+table, th, td {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 10pt;
 }

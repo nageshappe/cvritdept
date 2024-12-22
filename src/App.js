@@ -11,6 +11,10 @@ import PEOsPage from './pages/PEOsPage';
 import POsPage from './pages/POsPage';
 import COsPage from './pages/COsPage';
 import COS18Page from './pages/COS18Page';
+import PatentsPage from './pages/PatentsPage';
+import PublicationsPage from './pages/PublicationsPage';
+import FDPsPage from './pages/FDPsPage';
+import ConferencesPage from './pages/ConferencesPage';
 function App() {
   return (
     <Router basename='/'>
@@ -29,6 +33,11 @@ function App() {
               <Route path="/pos" element={<POsPage/>} />
               <Route path="/cos" element={<COsPage/>} />
               <Route path="/cos18" element={<COS18Page/>} />
+              
+              <Route path="/patents" element={<PatentsPage/>} />
+              <Route path="/publications" element={<PublicationsPage/>} />
+              <Route path="/fdps" element={<FDPsPage/>} />
+              <Route path="/conferences" element={<ConferencesPage/>} />
             </Routes>
           </div>
         </div>

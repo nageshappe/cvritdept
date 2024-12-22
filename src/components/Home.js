@@ -9,7 +9,7 @@ const Home = () => {
         <h1>Welcome to the Department of Engineering</h1>
         <p>Your path to excellence in engineering education and research</p>
       </header>
-
+       <img src="/images/groupphoto.jpeg" width="100%" height="50%"></img>
       {/* About Section */}
       <section className="home-about">
         <h2>About Us</h2>
