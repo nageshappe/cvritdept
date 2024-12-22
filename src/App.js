@@ -13,7 +13,7 @@ import COsPage from './pages/COsPage';
 import COS18Page from './pages/COS18Page';
 function App() {
   return (
-    <Router>
+    <Router basename='/'>
       <h1>Department of Information Technology</h1>
       <div className="App">
         <Navbar />
