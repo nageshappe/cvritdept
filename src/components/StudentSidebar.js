@@ -7,19 +7,19 @@ function ResearchSidebar() {
     <div className="sidebar">
             <ul>
               <li>
-                <Link to="/research">Research & Publications</Link>
+                <Link to="/ingenuity">Ingenuity</Link>
+              </li>
+              {/* <li>
+                <Link to="/nitygrity">NITyGrITy</Link>
               </li>
               <li>
-                <Link to="/fdps">FDP's</Link>
+                <Link to="/digitalliterati">Digital Literati</Link>
+              </li> */}
+              <li>
+                <Link to="/workshops">Student Workshops</Link>
               </li>
               <li>
-                <Link to="/publications">Publication's</Link>
-              </li>
-              <li>
-                <Link to="/conferences">Conference's</Link>
-              </li>
-              <li>
-                <Link to="/patents">Patents</Link>
+                <Link to="/guestlectures">GuestLectures</Link>
               </li>
             </ul>
           </div>

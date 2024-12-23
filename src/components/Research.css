@@ -1,0 +1,9 @@
+button{
+    margin-right: 10px;
+  }
+  
+  button.active {
+    background-color:aqua; /* Blue background for the active button */
+    color: white;  /* White text color */
+    font-weight: bold; /* Make text bold */
+  }

@@ -1,0 +1,37 @@
+{"guestlectures":{"2023":[
+    {
+      "SNO": 1,
+      "Description": "Breaking Boundaries: Innovations in Engineering",
+      "Dates": "28th March 2024",
+      "Resource Persons": "Dr. R Seetha Ramaiah, Professor, IT Dept",
+      "Banner": "National Digital Library of India",
+      "Place": "Dept of IT, CVRCE"
+    },
+    {
+      "SNO": 2,
+      "Description": "Exploring Power of Spring Boot",
+      "Dates": "17th Oct. 2023",
+      "Resource Persons": "Mr Anil Kumar Banti, Technical Lead, HCL Technologies",
+      "Banner": "Department of IT",
+      "Place": "CVRCE"
+    }
+  ],
+  "2022":[
+    {
+        "SNO": 1,
+        "Description": "Natural Language Processing (NDLI Tech Talk)",
+        "Dates": "29th  March 2023",
+        "Resource Persons": "Mr. Swayam Prakash, Advisor-Consultant, Allmact Management Pvt Ltd.",
+        "Banner": "Department of IT",
+        "Place": "CVRCE"
+      },
+      {
+        "SNO": 2,
+        "Description": "Mapping a Profession",
+        "Dates": "27th August 2022",
+        "Resource Persons": "Dr. H.K.Mohanty, Emeritus Professor , CSE",
+        "Banner": "Department of IT",
+        "Place": "CVRCE"
+      }
+  ]
+}}

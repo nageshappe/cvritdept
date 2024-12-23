@@ -1,6 +1,6 @@
 
 import React from 'react';
-
+import facultyData from "./facultyprofiles.json"
 function FacultyPage() {
   return (
     <div>
@@ -17,6 +17,18 @@ function FacultyPage() {
             </tr>
         </thead>
         <tbody>
+            {facultyData.map((faculty,index)=>(
+              <tr key={index}>
+                <td>{index+1}</td>
+                <td><img src={faculty['img']} width="100px" height="100px"/></td>
+                <td>{faculty['Faculty Name']}</td>
+                <td>{faculty['Position']}</td>
+                <td>{faculty['Qualifications']}</td>
+                <td><a href={faculty['Profile Link']} target='_blank'>Profile</a></td>
+              </tr>  
+            ))}
+        </tbody>
+        {/* <tbody>
             <tr>
                 <td>1</td>
                 <td><img src=""/></td>      
@@ -155,7 +167,7 @@ function FacultyPage() {
                 <td>M.Tech.,</td>
                 <td><a href="#" class="btn btn-primary">View Profile</a></td>
             </tr>
-        </tbody>
+        </tbody> */}
     </table>
 
     </div>

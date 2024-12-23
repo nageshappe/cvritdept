@@ -9,16 +9,22 @@ import Home from './components/Home';
 import './App.css';
 import PEOsPage from './pages/PEOsPage';
 import POsPage from './pages/POsPage';
-import COsPage from './pages/COsPage';
+import CourseOutcomes from './pages/COsPage';
 import COS18Page from './pages/COS18Page';
 import PatentsPage from './pages/PatentsPage';
 import PublicationsPage from './pages/PublicationsPage';
 import FDPsPage from './pages/FDPsPage';
 import ConferencesPage from './pages/ConferencesPage';
+import Footer from './components/footer';
+import StudentPage from './pages/StudentPage';
+import IngenuityPage from './pages/IngenuityPage';
+import NityGrityPage from './pages/NityGrityPage';
+import StudentWorkshopsPage from './pages/StudentWorkshopsPage';
+import GuestLecturesPage from './pages/GuestLecturesPage';
+
 function App() {
   return (
     <Router basename='/'>
-      <h1>Department of Information Technology</h1>
       <div className="App">
         <Navbar />
         <div className="main-layout">
@@ -31,17 +37,25 @@ function App() {
               
               <Route path="/peos" element={<PEOsPage/>} />
               <Route path="/pos" element={<POsPage/>} />
-              <Route path="/cos" element={<COsPage/>} />
+              <Route path="/cos" element={<CourseOutcomes/>} />
               <Route path="/cos18" element={<COS18Page/>} />
               
               <Route path="/patents" element={<PatentsPage/>} />
               <Route path="/publications" element={<PublicationsPage/>} />
               <Route path="/fdps" element={<FDPsPage/>} />
               <Route path="/conferences" element={<ConferencesPage/>} />
+
+              <Route path="/student" element={<StudentPage/>} />
+              <Route path="/ingenuity" element={<IngenuityPage/>} />
+              <Route path="/nitygrity" element={<NityGrityPage/>} />
+              <Route path="/workshops" element={<StudentWorkshopsPage/>} />
+              <Route path="/guestlectures" element={<GuestLecturesPage/>} />
+
             </Routes>
           </div>
         </div>
       </div>
+      {/* <Footer/> */}
     </Router>
   );
 }

@@ -1,54 +1,58 @@
 import React, { useState } from 'react';
-
+import papers from './conferences.json'
+import ResearchSidebar from '../components/ResearchSidebar';
 const ConferencesPage = () => {
-  const conferences = {
-    2023: [
-      { name: 'International Conference on AI', location: 'Singapore', date: 'Feb 2023' },
-      { name: 'National Data Science Conference', location: 'New Delhi', date: 'April 2023' },
-    ],
-    2022: [
-      { name: 'Blockchain Summit', location: 'London', date: 'May 2022' },
-      { name: 'Global IoT Conference', location: 'Tokyo', date: 'Sept 2022' },
-    ],
-    // More conferences year-wise
-  };
+    const [selectedYear, setSelectedYear] = useState(Object.keys(papers.papers)[0]);
+    const filteredPapers = papers.papers[selectedYear] || []
 
-  const [selectedYear, setSelectedYear] = useState(Object.keys(conferences)[0]);
+    return (
+        <div className="main-page">
+            <ResearchSidebar />
 
-  return (
-    <div className="conferences-page">
-      <h1>Conferences</h1>
 
-      <div className="year-selector">
-        {Object.keys(conferences).map((year) => (
-          <button key={year} onClick={() => setSelectedYear(year)}>
-            {year}
-          </button>
-        ))}
-      </div>
+            <div className='main-content'>
+                <div className="year-selector">
+                    {Object.keys(papers.papers).map((year) => (
+                        <button className="btn btn-info" key={year} onClick={() => setSelectedYear(year)}>
+                            {year}
+                        </button>
 
-      <h2>{selectedYear} Conferences</h2>
+                    ))}
+                </div>
+                <h2 align="center">{selectedYear} Conferences</h2>
+      
+                <table className='table table-bordered'>
+                    <thead>
+                        <tr>
+                            <th>S.No</th>
+                            <th>Faculty Name</th>
+                            <th>Conference Name</th>
+                            <th>Year & Month</th>
+                            <th>Volumne No.</th>
+                            <th>Title</th>
+                            <th>Authors</th>
+                            <th>Indexing</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {filteredPapers.map((conf, index) => (
+                            <tr key={index}>
+                                <td>{conf["S.No"]}</td>
+                                 <td>{conf["Faculty Name"]}</td>
+                                 <td>{conf["Conference Name"]}</td>
+                                 <td>{conf["Year & Month of Publication"]}</td>
+                                 <td>{conf["Volume No., Issue No., Pages"]}</td>
+                                 <td>{conf["Title"]}</td>
+                                 <td>{conf["Authors"]}</td>
+                                 <td>{conf["Indexing"]}</td>
+                            </tr>
+                        ))}
+                    </tbody>
+                </table>
+            </div>
 
-      <table>
-        <thead>
-          <tr>
-            <th>Conference Name</th>
-            <th>Location</th>
-            <th>Date</th>
-          </tr>
-        </thead>
-        <tbody>
-          {conferences[selectedYear].map((conf, index) => (
-            <tr key={index}>
-              <td>{conf.name}</td>
-              <td>{conf.location}</td>
-              <td>{conf.date}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </div>
-  );
+        </div>
+    );
 };
 
 export default ConferencesPage;

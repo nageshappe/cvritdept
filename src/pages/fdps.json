@@ -1,0 +1,1428 @@
+{
+    "faculty_workshops":{"2024": [
+      {
+        "S.No": 1,
+        "Name_of_the_Faculty": "Dr. Bipin Bihari Jayasingh",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Generative AI",
+        "Organizing_Institute": "E&ICT Academy",
+        "Duration_(dates)": "21-08-2024 to 06-09-2024"
+      },
+      {
+        "S.No": 2,
+        "Name_of_the_Faculty": "Dr. Bipin Bihari Jayasingh",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Effective Machine Learning based System for Classification and Prediction of DDoS Attacks",
+        "Organizing_Institute": "ICAIN",
+        "Duration_(dates)": "24th-25th September 2024"
+      },
+      {
+        "S.No": 3,
+        "Name_of_the_Faculty": "Mr. Sengathir Janakiraman",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Recent Trends in Computing",
+        "Organizing_Institute": "Vishwakarma Institute of Technology",
+        "Duration_(dates)": "8th-13th July 2024"
+      },
+      {
+        "S.No": 4,
+        "Name_of_the_Faculty": "Mr. Sengathir Janakiraman",
+        "Name_of_the_Conference/FDP/Workshop_attended": "An unequal cluster-based routing mechansim using lyrebird optimization algorthim to ach ICRTC",
+        "Organizing_Institute": "ICRTC",
+        "Duration_(dates)": "5th-6th July 2024"
+      },
+      {
+        "S.No": 5,
+        "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+        "Name_of_the_Conference/FDP/Workshop_attended": "AI And Gen AI with Industry Application",
+        "Organizing_Institute": "MIT Academy of Engineering",
+        "Duration_(dates)": "16th-22nd July 2024"
+      },
+      {
+        "S.No": 6,
+        "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+        "Name_of_the_Conference/FDP/Workshop_attended": "NVIDIA-AI Hardware",
+        "Organizing_Institute": "Pantech e Learning Pvt Ltd",
+        "Duration_(dates)": "15th July - 5th Aug 2024"
+      },
+      {
+        "S.No": 7,
+        "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Data Science and Applications",
+        "Organizing_Institute": "Malaviya National Institute of Technology",
+        "Duration_(dates)": "17th-19th July 2024"
+      },
+      {
+        "S.No": 8,
+        "Name_of_the_Faculty": "Mrs. Swathi Agarwal",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Generative AI",
+        "Organizing_Institute": "E&ICT Academy",
+        "Duration_(dates)": "21-08-2024 to 06-09-2024"
+      },
+      {
+        "S.No": 9,
+        "Name_of_the_Faculty": "Shankerpally Swetha",
+        "Name_of_the_Conference/FDP/Workshop_attended": "AI And Gen AI with Industry Application",
+        "Organizing_Institute": "MIT Academy of Engineering",
+        "Duration_(dates)": "16th-22nd July 2024"
+      },
+      {
+        "S.No": 10,
+        "Name_of_the_Faculty": "M Bhagavanthu",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning and Artificial Intelligence",
+        "Organizing_Institute": "ExcelR Edtech Pvt. Ltd.",
+        "Duration_(dates)": "12th Aug to 19th Aug 2024"
+      },
+      {
+        "S.No": 11,
+        "Name_of_the_Faculty": "M Bhagavanthu",
+        "Name_of_the_Conference/FDP/Workshop_attended": "EXPLORING COMPUTATIONAL INTELLIGENCE (ONLINE)",
+        "Organizing_Institute": "VIT-AP University",
+        "Duration_(dates)": "16th-20th July 2024"
+      },
+      {
+        "S.No": 12,
+        "Name_of_the_Faculty": "Ms. T Aruna Reddy",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Generative AI",
+        "Organizing_Institute": "E&ICT Academy",
+        "Duration_(dates)": "21-08-2024 to 06-09-2024"
+      },
+      {
+        "S.No": 13,
+        "Name_of_the_Faculty": "Badepally Mallaiah",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning and Artificial Intelligence",
+        "Organizing_Institute": "ExcelR Edtech Pvt. Ltd.",
+        "Duration_(dates)": "12th Aug to 19th Aug 2024"
+      },
+      {
+        "S.No": 14,
+        "Name_of_the_Faculty": "Badepally Mallaiah",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Transforming Education: Integrating OBE and NEP 2020",
+        "Organizing_Institute": "CVR College of Engineering",
+        "Duration_(dates)": "22 July to 2 August 2024"
+      }
+    ],"2023":[{
+        "S.No": 1,
+        "Name_of_the_Faculty": "Dr. Bipin Bihari Jayasingh",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Emerging Smart Computing and Informatics",
+        "Organizing_Institute": "AISSMS(IEEE)",
+        "Duration_(dates)": "5th-7th March 2024"
+      },
+      {
+        "S.No": 2,
+        "Name_of_the_Faculty": "Dr. Bipin Bihari Jayasingh",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Evaluation of the Deep Belief network for Dimensionality Reduction in Hospital Readmissions of Patents-2019",
+        "Organizing_Institute": "New Horizon college of Engineering",
+        "Duration_(dates)": "22nd-23rd September 2023"
+      },
+      {
+        "S.No": 3,
+        "Name_of_the_Faculty": "Dr. MALLAREDDY ADUDHODLA",
+        "Name_of_the_Conference/FDP/Workshop_attended": "MIWAI 2023",
+        "Organizing_Institute": "CVR College of Engineering",
+        "Duration_(dates)": "21-22 July 2023"
+      },
+      {
+        "S.No": 4,
+        "Name_of_the_Faculty": "Dr. MALLAREDDY ADUDHODLA",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Data Science(ML&AI)",
+        "Organizing_Institute": "E & ICT Academy, IITK",
+        "Duration_(dates)": "29th April-3rd May 2024"
+      },
+      {
+        "S.No": 5,
+        "Name_of_the_Faculty": "Dr. MALLAREDDY ADUDHODLA",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Securing Blockchain Applications",
+        "Organizing_Institute": "CVR-CSI",
+        "Duration_(dates)": "22nd-26th april 2024"
+      },
+      {
+        "S.No": 6,
+        "Name_of_the_Faculty": "Dr. MALLAREDDY ADUDHODLA",
+        "Name_of_the_Conference/FDP/Workshop_attended": "BLOCKCHAIN TECHNOLOGY",
+        "Organizing_Institute": "JNTUH",
+        "Duration_(dates)": "18th-22nd December, 2023."
+      },
+      {
+        "S.No": 7,
+        "Name_of_the_Faculty": "Dr. MALLAREDDY ADUDHODLA",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Cyber Security & Forensics",
+        "Organizing_Institute": "JNTUH",
+        "Duration_(dates)": "28-08-2023 to 23-09-2023"
+      },
+      {
+        "S.No": 8,
+        "Name_of_the_Faculty": "Dr. MALLAREDDY ADUDHODLA",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Artificial Intelligence and Machine Learning",
+        "Organizing_Institute": "ExcelR",
+        "Duration_(dates)": "26th Dec to 30th Dec 2023"
+      },
+      {
+        "S.No": 9,
+        "Name_of_the_Faculty": "Dr. MALLAREDDY ADUDHODLA",
+        "Name_of_the_Conference/FDP/Workshop_attended": "ChatGPT and Prompt Engineering",
+        "Organizing_Institute": "ExcelR",
+        "Duration_(dates)": "18 th Dec to 22nd Dec 2023"
+      },
+      {
+        "S.No": 10,
+        "Name_of_the_Faculty": "Mr. Sengathir Janakiraman",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning Applications for Engineers",
+        "Organizing_Institute": "CBIT",
+        "Duration_(dates)": "3rd-7th June 2024"
+      },
+      {
+        "S.No": 11,
+        "Name_of_the_Faculty": "Mr. Sengathir Janakiraman",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Wild Horse Optimization Algorthim-based Energy Efficient Task Scheduling for Fog Computing Environment",
+        "Organizing_Institute": "ICMIB",
+        "Duration_(dates)": "29th-31st March 2024"
+      },
+      {
+        "S.No": 12,
+        "Name_of_the_Faculty": "Mr. Sengathir Janakiraman",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Data Science Mastery",
+        "Organizing_Institute": "VNR VJIET",
+        "Duration_(dates)": "5th-10th Feb 2024"
+      },
+      {
+        "S.No": 13,
+        "Name_of_the_Faculty": "Mr. Sengathir Janakiraman",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Deep Leaming and IOT Driven Smart Applications",
+        "Organizing_Institute": "MLRIT",
+        "Duration_(dates)": "24th 29th June 2024"
+      },
+      {
+        "S.No": 14,
+        "Name_of_the_Faculty": "Dr. Sarangam Kodati",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Natural Language Processing",
+        "Organizing_Institute": "VNR VIET",
+        "Duration_(dates)": "13th-17th February 2023"
+      },
+      {
+        "S.No": 15,
+        "Name_of_the_Faculty": "Dr. Sarangam Kodati",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Data Visualization",
+        "Organizing_Institute": "VNR Vignana Jyothi Institute of Engineering and Technology",
+        "Duration_(dates)": "29/Jan/2024-03/Feb/2024"
+      },
+      {
+        "S.No": 16,
+        "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Recent Trends on Research Methodologies, Tools and Techniques",
+        "Organizing_Institute": "KG college of Arts and Science",
+        "Duration_(dates)": "10th-15th July 2023"
+      },
+      {
+        "S.No": 17,
+        "Name_of_the_Faculty": "Mr. Ch V S Satyamurthy",
+        "Name_of_the_Conference/FDP/Workshop_attended": "AI-driven Innovation: Empowering Start-Ups with Python and Data Science",
+        "Organizing_Institute": "Shri Vishnu Engineering College for Women",
+        "Duration_(dates)": "20th-25th May, 2024."
+      },
+      {
+        "S.No": 18,
+        "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Building Advanced Data Analytics Applications with Cloud",
+        "Organizing_Institute": "Next Gen Employability Program",
+        "Duration_(dates)": "11th-15th December 2023"
+      },
+      {
+        "S.No": 19,
+        "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Visual Intelligence: Exploring Image Processing and Computer Vision",
+        "Organizing_Institute": "CVR College of Engineering",
+        "Duration_(dates)": "26th-30th March 2024"
+      },
+      {
+        "S.No": 20,
+        "Name_of_the_Faculty": "Mr. Ch V S Satyamurthy",
+        "Name_of_the_Conference/FDP/Workshop_attended": "Innovative Teaching Methodology-A creative Pedagogy",
+        "Organizing_Institute": "DY Patil College of Engineering, Akurdi",
+        "Duration_(dates)": "31st July 2023 to 4th August"},{
+            "S.No": 21,
+            "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Distributed Ledger Technology",
+            "Organizing_Institute": "BVRIT HYDERABAD College of Engineering for Women",
+            "Duration_(dates)": "4th-11th December 2023"
+          },
+          {
+            "S.No": 22,
+            "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Power of Visualization in Analytics",
+            "Organizing_Institute": "DY Patil College of Engineering, Akurdi",
+            "Duration_(dates)": "16th-21st Aug, 2023"
+          },
+          {
+            "S.No": 23,
+            "Name_of_the_Faculty": "Mr. Ch V S Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning",
+            "Organizing_Institute": "DY Patil College of Engineering, Akurdi",
+            "Duration_(dates)": "10th-14th July 2023"
+          },
+          {
+            "S.No": 24,
+            "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Generative AI and ChatGPT",
+            "Organizing_Institute": "ExcelR",
+            "Duration_(dates)": "15th Nov 2023 to 4th Dec 2023"
+          },
+          {
+            "S.No": 25,
+            "Name_of_the_Faculty": "Mr. Ch V S Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Artificial Intelligence and Machine Learning",
+            "Organizing_Institute": "ExcelR",
+            "Duration_(dates)": "26th-30th Dec 2023"
+          },
+          {
+            "S.No": 26,
+            "Name_of_the_Faculty": "Mr. Ch V S Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "NLP, ChatGPT and Prompt Engineering",
+            "Organizing_Institute": "ExcelR",
+            "Duration_(dates)": "18th Dec 2023 to 9th Jan 2024"
+          },
+          {
+            "S.No": 27,
+            "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Big Data Analytics",
+            "Organizing_Institute": "ExcelR",
+            "Duration_(dates)": "4th-15 th Dec 2023"
+          },
+          {
+            "S.No": 28,
+            "Name_of_the_Faculty": "Mr. Ch V S Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "ChatGPT and Prompt Engineering",
+            "Organizing_Institute": "ExcelR",
+            "Duration_(dates)": "18 th Dec to 22nd Dec 2023"
+          },
+          {
+            "S.No": 29,
+            "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Business Analytics",
+            "Organizing_Institute": "ExcelR",
+            "Duration_(dates)": "5th-9th Feb 2024"
+          },
+          {
+            "S.No": 30,
+            "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Data Visualization Using Tableau",
+            "Organizing_Institute": "Mohan Babu University",
+            "Duration_(dates)": "1st to 5th April, 2024"
+          },
+          {
+            "S.No": 31,
+            "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "GenAl and Prompt Engineering using Microsoft Copilot",
+            "Organizing_Institute": "Saraswati College of Engineering & CMR College of Engineering & Technology",
+            "Duration_(dates)": "15th-19th April 2024"
+          },
+          {
+            "S.No": 32,
+            "Name_of_the_Faculty": "Mr. Ch V S Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Emerging Technologies",
+            "Organizing_Institute": "TCS (Tata Consultancy Services)",
+            "Duration_(dates)": "11th-15th Dec 2023"
+          },
+          {
+            "S.No": 33,
+            "Name_of_the_Faculty": "Mr. Ch V S Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Cloud Infrasturcture (AWS)",
+            "Organizing_Institute": "JNTUK",
+            "Duration_(dates)": "21st-25th August 2023"
+          },
+          {
+            "S.No": 34,
+            "Name_of_the_Faculty": "Mr. Ch VS Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Generative Artificial Intelligence and Machine Learning",
+            "Organizing_Institute": "Sandip Institute of Engineering and Management, Nashik",
+            "Duration_(dates)": "21st 25th May 2024"
+          },
+          {
+            "S.No": 35,
+            "Name_of_the_Faculty": "Mr. Ch V S Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Natural Language Processing",
+            "Organizing_Institute": "Pantech e Learning Pvt Ltd",
+            "Duration_(dates)": "10th-30th April 2024"
+          },
+          {
+            "S.No": 36,
+            "Name_of_the_Faculty": "Mr. Ch V S Satyamurthy",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Innovative research Opportunities and Applications of Data Science in the Industry 5.0 Paradigm",
+            "Organizing_Institute": "SRM Institute of Science and Technology",
+            "Duration_(dates)": "18th-31st August 2023"
+          },
+          {
+            "S.No": 37,
+            "Name_of_the_Faculty": "Mr A. Seetharam Nagesh",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning",
+            "Organizing_Institute": "Dr. DY Patil Institute of Engineering and Management Research. Akurdi",
+            "Duration_(dates)": "10th-14th July 2023"
+          },
+          {
+            "S.No": 38,
+            "Name_of_the_Faculty": "Mr A. Seetharam Nagesh",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Big Data Analytics",
+            "Organizing_Institute": "VNR Vignana Jyothi Institute of Engineering",
+            "Duration_(dates)": "4th-15 th Dec 2023"
+          },
+          {
+            "S.No": 39,
+            "Name_of_the_Faculty": "Mr A. Seetharam Nagesh",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Data Visualization Using Tableau",
+            "Organizing_Institute": "Mohan Babu University, Tirupati",
+            "Duration_(dates)": "1st to 5th April, 2024"
+          },
+          {
+            "S.No": 40,
+            "Name_of_the_Faculty": "Mr A Seetharam Nagesh",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Emerging Technologies",
+            "Organizing_Institute": "Vidyavardhaka College of Engineering",
+            "Duration_(dates)": "11th 15th Dec 2023"
+          },
+          
+            {
+              "S.No": 41,
+              "Name_of_the_Faculty": "B KIRANKUMAR",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Blockchain Technology",
+              "Organizing_Institute": "ExcelR",
+              "Duration_(dates)": "8th Jan to 12th Jan 2024"
+            },
+            {
+              "S.No": 42,
+              "Name_of_the_Faculty": "B KIRANKUMAR",
+              "Name_of_the_Conference/FDP/Workshop_attended": "ChatGPT and Prompt Engineering",
+              "Organizing_Institute": "ExcelR",
+              "Duration_(dates)": "18th Dec to 22nd Dec 2023"
+            },
+            {
+              "S.No": 43,
+              "Name_of_the_Faculty": "B KIRANKUMAR",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Fundamentals of Image Processing",
+              "Organizing_Institute": "CSI, CVR",
+              "Duration_(dates)": "22nd - 23rd December 2023"
+            },
+            {
+              "S.No": 44,
+              "Name_of_the_Faculty": "B KIRANKUMAR",
+              "Name_of_the_Conference/FDP/Workshop_attended": "JAVA",
+              "Organizing_Institute": "VTOF",
+              "Duration_(dates)": "24-05-2024"
+            },
+            {
+              "S.No": 45,
+              "Name_of_the_Faculty": "B KIRANKUMAR",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Guardians of the Blaxe: Empowering early forest fire detection through Machine Learning",
+              "Organizing_Institute": "ICICSET",
+              "Duration_(dates)": "30th - 31st May 2024"
+            },
+            {
+              "S.No": 46,
+              "Name_of_the_Faculty": "SWATHI AGARWAL",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Distributed Ledger Technology",
+              "Organizing_Institute": "Dr. D Y Patil Institute of Engineering and Management Research, Akurdi",
+              "Duration_(dates)": "4th - 11th December 2023"
+            },
+            {
+              "S.No": 47,
+              "Name_of_the_Faculty": "SWATHI AGARWAL",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Data Science",
+              "Organizing_Institute": "E&ICT",
+              "Duration_(dates)": "29th April - 3rd May 2024"
+            },
+            {
+              "S.No": 48,
+              "Name_of_the_Faculty": "SWATHI AGARWAL",
+              "Name_of_the_Conference/FDP/Workshop_attended": "NLP, Computer Vision and Artificial Intelligence",
+              "Organizing_Institute": "APSSDC",
+              "Duration_(dates)": "4th - 8th December 2023"
+            },
+            {
+              "S.No": 49,
+              "Name_of_the_Faculty": "SWATHI AGARWAL",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Artificial Intelligence and Machine Learning",
+              "Organizing_Institute": "ExcelR",
+              "Duration_(dates)": "26th Dec to 30th Dec 2023"
+            },
+            {
+              "S.No": 50,
+              "Name_of_the_Faculty": "SWATHI AGARWAL",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Big Data Analytics",
+              "Organizing_Institute": "ExcelR",
+              "Duration_(dates)": "04th Dec to 15th Dec 2023"
+            },
+            {
+              "S.No": 51,
+              "Name_of_the_Faculty": "SWATHI AGARWAL",
+              "Name_of_the_Conference/FDP/Workshop_attended": "ChatGPT and Prompt Engineering",
+              "Organizing_Institute": "ExcelR",
+              "Duration_(dates)": "18th Dec to 22nd Dec 2023"
+            },
+            {
+              "S.No": 52,
+              "Name_of_the_Faculty": "SWATHI AGARWAL",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Cloud Infrasturcture (AWS)",
+              "Organizing_Institute": "JNTUK",
+              "Duration_(dates)": "21st - 25th August 2023"
+            },
+            {
+              "S.No": 53,
+              "Name_of_the_Faculty": "SWATHI AGARWAL",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Applications of Machine Learning",
+              "Organizing_Institute": "KKR & KSR Institute of Technology and Sciences, Guntur",
+              "Duration_(dates)": "09th - 13th October 2023"
+            },
+            {
+              "S.No": 54,
+              "Name_of_the_Faculty": "SWATHI AGARWAL",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Emerging Technologies",
+              "Organizing_Institute": "Vidyavardhaka College of Engineering",
+              "Duration_(dates)": "11th - 15th December 2023"
+            },
+            {
+              "S.No": 55,
+              "Name_of_the_Faculty": "SWATHI AGARWAL",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Essentials of Cyber Security in Blockchain Technologies",
+              "Organizing_Institute": "Vidyavardhaka College of Engineering",
+              "Duration_(dates)": "19th - 29th Feb 2024"
+            },
+            {
+              "S.No": 56,
+              "Name_of_the_Faculty": "Shankerpally Swetha",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning Approach for Mitigating Security Threats in IoT Environment",
+              "Organizing_Institute": "RVS College of Engineering and Technology",
+              "Duration_(dates)": "3rd - 5th August 2023"
+            },
+            {
+              "S.No": 57,
+              "Name_of_the_Faculty": "Shankerpally Swetha",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning Algorithms and its Applications",
+              "Organizing_Institute": "G. Pulla Reddy Engineering College",
+              "Duration_(dates)": "10th – 14th July, 2023"
+            },
+            {
+              "S.No": 58,
+              "Name_of_the_Faculty": "Shankerpally Swetha",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Recent Trends on Research Methodologies, Tools and Techniques",
+              "Organizing_Institute": "KG college of Arts and Science",
+              "Duration_(dates)": "10th - 15th July 2023"
+            },
+            {
+              "S.No": 59,
+              "Name_of_the_Faculty": "Shankerpally Swetha",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Big Data Analytics",
+              "Organizing_Institute": "ExcelR Edtech Pvt. Ltd.",
+              "Duration_(dates)": "04th Dec to 15th Dec 2023"
+            },
+            {
+              "S.No": 60,
+              "Name_of_the_Faculty": "Shankerpally Swetha",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning",
+              "Organizing_Institute": "Dr. D Y Patil Institute of Engineering and Management Research",
+              "Duration_(dates)": "10th - 14th July 2023"
+            },
+            {
+              "S.No": 61,
+              "Name_of_the_Faculty": "Shankerpally Swetha",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Design of Efficient Matrix Multiplication Processing Elements in Systolic Arrays using Shift and Bit Dependent Conditional Add Approach",
+              "Organizing_Institute": "Vellore Institute of Technology",
+              "Duration_(dates)": "May 03 - 04, 2024"
+            },
+            {
+              "S.No": 62,
+              "Name_of_the_Faculty": "Shankerpally Swetha",
+              "Name_of_the_Conference/FDP/Workshop_attended": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+              "Organizing_Institute": "AWS Academy",
+              "Duration_(dates)": "21-06-2024"
+            },
+            {
+              "S.No": 63,
+              "Name_of_the_Faculty": "Shankerpally Swetha",
+              "Name_of_the_Conference/FDP/Workshop_attended": "AWS Academy Graduate - AWS Academy Cloud Security Foundations",
+              "Organizing_Institute": "AWS Academy",
+              "Duration_(dates)": "16-06-2024"
+            },
+            {
+              "S.No": 64,
+              "Name_of_the_Faculty": "Shankerpally Swetha",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Research Methodology on Machine Learning and Data Science",
+              "Organizing_Institute": "B.V.Raju Institute of Technology",
+              "Duration_(dates)": "10th - 14th July 2023"
+            },
+            {
+              "S.No": 65,
+              "Name_of_the_Faculty": "Shankerpally Swetha",
+              "Name_of_the_Conference/FDP/Workshop_attended": "Java",
+              "Organizing_Institute": "Virtusa Technology Orientation for Faculty",
+              "Duration_(dates)": "May-24"
+            }
+           ,{
+                "S.No": 66,
+                "Name_of_the_Faculty": "J SADANA",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Cloud Infrasturcture (AWS)",
+                "Organizing_Institute": "JNTUK",
+                "Duration_(dates)": "21st - 25th August 2023"
+              },
+              {
+                "S.No": 67,
+                "Name_of_the_Faculty": "J SADANA",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Fundamentals of Full Stack Development",
+                "Organizing_Institute": "ExcelR",
+                "Duration_(dates)": "09th Jan 2024 to 23rd Jan 2024"
+              },
+              {
+                "S.No": 68,
+                "Name_of_the_Faculty": "J SADANA",
+                "Name_of_the_Conference/FDP/Workshop_attended": "JAVA",
+                "Organizing_Institute": "VTOF",
+                "Duration_(dates)": "24-05-2024"
+              },
+              {
+                "S.No": 69,
+                "Name_of_the_Faculty": "J SADANA",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Cyber Security",
+                "Organizing_Institute": "ExcelR",
+                "Duration_(dates)": "25th Sep to 14th Oct 2023"
+              },
+              {
+                "S.No": 70,
+                "Name_of_the_Faculty": "J SADANA",
+                "Name_of_the_Conference/FDP/Workshop_attended": "NLP, Computer Vision and Artificial Intelligence",
+                "Organizing_Institute": "ExcelR",
+                "Duration_(dates)": "4th Dec to 8th Dec 2023"
+              },
+              {
+                "S.No": 71,
+                "Name_of_the_Faculty": "J SADANA",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Big Data Analytics",
+                "Organizing_Institute": "ExcelR",
+                "Duration_(dates)": "04th Dec to 15th Dec 2023"
+              },
+              {
+                "S.No": 72,
+                "Name_of_the_Faculty": "J SADANA",
+                "Name_of_the_Conference/FDP/Workshop_attended": "ChatGPT and Prompt Engineering",
+                "Organizing_Institute": "ExcelR",
+                "Duration_(dates)": "18th Dec to 22nd Dec 2023"
+              },
+              {
+                "S.No": 73,
+                "Name_of_the_Faculty": "J SADANA",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Data-Driven Precision: MachineLearning's Impact on Thyroid Disease Diagnosis and Prediction",
+                "Organizing_Institute": "Anurag University",
+                "Duration_(dates)": "25th-26th August 2023"
+              },
+              {
+                "S.No": 74,
+                "Name_of_the_Faculty": "Shailaja Gandi",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning Algorithms and its Applications",
+                "Organizing_Institute": "G. Pulla Reddy Engineering College",
+                "Duration_(dates)": "10th - 14th July 2023"
+              },
+              {
+                "S.No": 75,
+                "Name_of_the_Faculty": "Shailaja Gandi",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Recent trends on Research Methodologies, Tools, and Techniques",
+                "Organizing_Institute": "KG College of Arts and Science",
+                "Duration_(dates)": "10th -15th July 2023"
+              },
+              {
+                "S.No": 76,
+                "Name_of_the_Faculty": "Shailaja Gandi",
+                "Name_of_the_Conference/FDP/Workshop_attended": "MIWAI 2023",
+                "Organizing_Institute": "CVR College of Engineering",
+                "Duration_(dates)": "21st - 22nd July 2023"
+              },
+              {
+                "S.No": 77,
+                "Name_of_the_Faculty": "Shailaja Gandi",
+                "Name_of_the_Conference/FDP/Workshop_attended": "ChatGPT and Prompt Engineering",
+                "Organizing_Institute": "ExcelR",
+                "Duration_(dates)": "18th Dec to 22nd Dec 2023"
+              },
+              {
+                "S.No": 78,
+                "Name_of_the_Faculty": "Shailaja Gandi",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Big Data Analytics",
+                "Organizing_Institute": "ExcelR",
+                "Duration_(dates)": "04th Dec to 15th Dec 2023"
+              },
+              {
+                "S.No": 79,
+                "Name_of_the_Faculty": "Shailaja Gandi",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Building Advanced Data Analytics Application with Cloud",
+                "Organizing_Institute": "Next Gen Employability Program",
+                "Duration_(dates)": "4th - 8th December 2023"
+              },
+              {
+                "S.No": 80,
+                "Name_of_the_Faculty": "GUNDETI SRINIVAS",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Research Methodology on Machine Learning and Data Science",
+                "Organizing_Institute": "B.V.Raju Institute of Technology",
+                "Duration_(dates)": "10th-14th July, 2023"
+              },
+              {
+                "S.No": 81,
+                "Name_of_the_Faculty": "GUNDETI SRINIVAS",
+                "Name_of_the_Conference/FDP/Workshop_attended": "MIWAI 2023",
+                "Organizing_Institute": "CVR College of Engineering",
+                "Duration_(dates)": "21st - 22nd July 2023"
+              },
+              {
+                "S.No": 82,
+                "Name_of_the_Faculty": "GUNDETI SRINIVAS",
+                "Name_of_the_Conference/FDP/Workshop_attended": "ChatGPT and Prompt Engineering",
+                "Organizing_Institute": "ExcelR",
+                "Duration_(dates)": "18th Dec to 22nd Dec 2023"
+              },
+              {
+                "S.No": 83,
+                "Name_of_the_Faculty": "GUNDETI SRINIVAS",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Blockchain Technology",
+                "Organizing_Institute": "ExcelR",
+                "Duration_(dates)": "8th Jan to 12th Jan 2024"
+              },
+              {
+                "S.No": 84,
+                "Name_of_the_Faculty": "GUNDETI SRINIVAS",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Advances in Information Technology and Computing",
+                "Organizing_Institute": "SNIST, Ghatkesar",
+                "Duration_(dates)": "29th - 30th December 2023"
+              },
+              {
+                "S.No": 85,
+                "Name_of_the_Faculty": "M BHAGAVANTHU",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Advances in Information Technology and Computing",
+                "Organizing_Institute": "SNIST, Ghatkesar",
+                "Duration_(dates)": "29th - 30th December 2023"
+              },
+              {
+                "S.No": 86,
+                "Name_of_the_Faculty": "M BHAGAVANTHU",
+                "Name_of_the_Conference/FDP/Workshop_attended": "Blockchain Technology",
+                "Organizing_Institute": "ExcelR",
+                "Duration_(dates)": "8th Jan to 12th Jan 2024"
+              },
+              {
+                "S.No": 87,
+                "Name_of_the_Faculty": "M BHAGAVANTHU",
+                "Name_of_the_Conference/FDP/Workshop_attended": "ChatGPT and Prompt Engineering",
+                "Organizing_Institute": "ExcelR",
+                "Duration_(dates)": "18th Dec to 22nd Dec 2020"
+              },
+              {
+                "S.No": 88,
+                "Name_of_the_Faculty": "M BHAGAVANTHU",
+                "Name_of_the_Conference/FDP/Workshop_attended": "MIWAI 2023",
+                "Organizing_Institute": "CVR College of Engineering",
+                "Duration_(dates)": "21st - 22nd July 2023"
+              },
+                              {
+                  "S.No": 89,
+                  "Name_of_the_Faculty": "M BHAGAVANTHU",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "NLP, Computer Vision and Artificial Intelligence",
+                  "Organizing_Institute": "ExcelR",
+                  "Duration_(dates)": "4 th Dec to 8 th Dec 2023"
+                },
+                {
+                  "S.No": 90,
+                  "Name_of_the_Faculty": "Shaik Jaheda",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Building Advanced Data Analytics Application with Cloud",
+                  "Organizing_Institute": "Next Gen Employability Program",
+                  "Duration_(dates)": "4th - 8th December 2023"
+                },
+                {
+                  "S.No": 91,
+                  "Name_of_the_Faculty": "Shaik Jaheda",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Fundamentals of Full Stack Development",
+                  "Organizing_Institute": "ExcelR",
+                  "Duration_(dates)": "09th Jan 2024 to 23rd Jan 2024"
+                },
+                {
+                  "S.No": 92,
+                  "Name_of_the_Faculty": "Shaik Jaheda",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "NLP, Computer Vision and Artificial Intelligence",
+                  "Organizing_Institute": "ExcelR",
+                  "Duration_(dates)": "4 th Dec to 8 th Dec 2023"
+                },
+                {
+                  "S.No": 93,
+                  "Name_of_the_Faculty": "Shaik Jaheda",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Big Data Analytics",
+                  "Organizing_Institute": "ExcelR",
+                  "Duration_(dates)": "04th Dec to 15 th Dec 2023"
+                },
+                {
+                  "S.No": 94,
+                  "Name_of_the_Faculty": "Shaik Jaheda",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "ChatGPT and Prompt Engineering",
+                  "Organizing_Institute": "ExcelR",
+                  "Duration_(dates)": "18 th Dec to 22nd Dec 2023"
+                },
+                {
+                  "S.No": 95,
+                  "Name_of_the_Faculty": "Shaik Jaheda",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Blockchain Technology",
+                  "Organizing_Institute": "ExcelR",
+                  "Duration_(dates)": "8th Jan to 12th Jan 2024"
+                },
+                {
+                  "S.No": 96,
+                  "Name_of_the_Faculty": "Shaik Jaheda",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Product Development in IIoT",
+                  "Organizing_Institute": "CVR College of Engineering",
+                  "Duration_(dates)": "17th - 21st July 2023"
+                },
+                {
+                  "S.No": 97,
+                  "Name_of_the_Faculty": "Shaik Jaheda",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Data-Driven Precision: MachineLearning's Impact on Thyroid Disease Diagnosis and Prediction",
+                  "Organizing_Institute": "Anutag University",
+                  "Duration_(dates)": "25th- 26th August 2023"
+                },
+                {
+                  "S.No": 98,
+                  "Name_of_the_Faculty": "S SUHASINI",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Recent Advancements in Computational Techniques",
+                  "Organizing_Institute": "CVR College of Engineering",
+                  "Duration_(dates)": "12th - 17th February 2024"
+                },
+                {
+                  "S.No": 99,
+                  "Name_of_the_Faculty": "S SUHASINI",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Cloud Infrasturcture (AWS)",
+                  "Organizing_Institute": "JNTUK",
+                  "Duration_(dates)": "21st - 25th August 2023"
+                },
+                {
+                  "S.No": 100,
+                  "Name_of_the_Faculty": "Badepally Mallaiah",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Guidelines for writing Ph. D. Proposal in CSE & IT",
+                  "Organizing_Institute": "SNIST, Ghatkesar",
+                  "Duration_(dates)": "7th December 2023"
+                },
+                {
+                  "S.No": 101,
+                  "Name_of_the_Faculty": "Badepally Mallaiah",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Big Data Analytics",
+                  "Organizing_Institute": "ExcelR",
+                  "Duration_(dates)": "04th Dec to 15 th Dec 2023"
+                },
+                {
+                  "S.No": 102,
+                  "Name_of_the_Faculty": "Badepally Mallaiah",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Blockchain Technology",
+                  "Organizing_Institute": "ExcelR",
+                  "Duration_(dates)": "8th Jan to 12th Jan 2024"
+                },
+                {
+                  "S.No": 103,
+                  "Name_of_the_Faculty": "Badepally Mallaiah",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Vulnerability Assessment & Penetration Testing",
+                  "Organizing_Institute": "JNTUH",
+                  "Duration_(dates)": "19th - 20th January 2024"
+                },
+                {
+                  "S.No": 104,
+                  "Name_of_the_Faculty": "Badepally Mallaiah",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Advances in Information Technology and Computing",
+                  "Organizing_Institute": "SNIST, Ghatkesar",
+                  "Duration_(dates)": "29th - 30th December 2023"
+                },
+                {
+                  "S.No": 105,
+                  "Name_of_the_Faculty": "Badepally Mallaiah",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "MIWAI 2023",
+                  "Organizing_Institute": "CVR College of Engineering",
+                  "Duration_(dates)": "21 - 22 July 2023"
+                },
+                {
+                  "S.No": 106,
+                  "Name_of_the_Faculty": "Badepally Mallaiah",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning with Python",
+                  "Organizing_Institute": "E & ICT Academy",
+                  "Duration_(dates)": "27th - 31st May 2024"
+                },
+                {
+                  "S.No": 107,
+                  "Name_of_the_Faculty": "Badepally Mallaiah",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Data Visualization",
+                  "Organizing_Institute": "VNR Vignana Jyothi Institute of Engineering and Technology",
+                  "Duration_(dates)": "29/Jan/2024 - 03/Feb/2024"
+                },
+                {
+                  "S.No": 108,
+                  "Name_of_the_Faculty": "Badepally Mallaiah",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Research Methodology on Machine Learning and Data Science",
+                  "Organizing_Institute": "B.V.Raju Institute of Technology",
+                  "Duration_(dates)": "10th - 14th July 2023"
+                },
+                {
+                  "S.No": 109,
+                  "Name_of_the_Faculty": "Aruna Thotapalli",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning",
+                  "Organizing_Institute": "Dr. D Y Patil Institute of Engineering and Management Research, Akurdi",
+                  "Duration_(dates)": "10th July 2023 to 14th July 2023"
+                },
+                {
+                  "S.No": 110,
+                  "Name_of_the_Faculty": "Aruna Thotapalli",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Innovative Teaching Methodology-A creative Pedagogy",
+                  "Organizing_Institute": "D Y Patil College of Engineering, Akurdi",
+                  "Duration_(dates)": "31st July 2023 to 4th August"
+                },
+                {
+                  "S.No": 111,
+                  "Name_of_the_Faculty": "Aruna Thotapalli",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Big Data Analytics",
+                  "Organizing_Institute": "ExcelR",
+                  "Duration_(dates)": "04th Dec to 15 th Dec 2023"
+                },
+                {
+                  "S.No": 112,
+                  "Name_of_the_Faculty": "Aruna Thotapalli",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Recent trends on Research Methodologies, Tools, and Techniques",
+                  "Organizing_Institute": "KG College of Arts and Science",
+                  "Duration_(dates)": "10th -15th July 2023"
+                },
+                {
+                  "S.No": 113,
+                  "Name_of_the_Faculty": "Aruna Thotapalli",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "NLP, Computer Vision and Artificial Intelligence",
+                  "Organizing_Institute": "ExcelR",
+                  "Duration_(dates)": "4 th Dec to 8 th Dec 2023"
+                },
+                {
+                  "S.No": 114,
+                  "Name_of_the_Faculty": "Aruna Thotapalli",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Banana disease and deficency detection using YOLOv8",
+                  "Organizing_Institute": "Machine Vision & Augmented Intelligence",
+                  "Duration_(dates)": "24th -25th November 2023"
+                },
+                {
+                  "S.No": 115,
+                  "Name_of_the_Faculty": "Aruna Thotapalli",
+                  "Name_of_the_Conference/FDP/Workshop_attended": "Data Science",
+                  "Organizing_Institute": "E&ICT",
+                  "Duration_(dates)": "29th April - 3rd May 2024"
+                }
+              
+              
+            
+          
+          
+    ],
+    "2022":[
+      {
+          "S.No": 1,
+          "Name_of_the_Faculty": "Dr. Bipin Bihari Jayasingh",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Cyber Security and Forensics(STTP)",
+          "Organizing_Institute": "JNTUH",
+          "Duration_(dates)": "14th -19th Nov 2022"
+      },
+      {
+          "S.No": 2,
+          "Name_of_the_Faculty": "Dr. Bipin Bihari Jayasingh",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Cyber Security and Forensics",
+          "Organizing_Institute": "JNTUH Hyderabad",
+          "Duration_(dates)": "14th to 19th November 2022."
+      },
+      {
+          "S.No": 3,
+          "Name_of_the_Faculty": "Dr. Bipin Bihari Jayasingh",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Cyber Security",
+          "Organizing_Institute": "E&ICT Academy, IIT Kanpur",
+          "Duration_(dates)": "20th – 24th Feb. 2023"
+      },
+      {
+          "S.No": 4,
+          "Name_of_the_Faculty": "Dr. B. Vikranth",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Advanced Trends & Challenges in AI (STTP)",
+          "Organizing_Institute": "NIT Warangal & CVR College of Engineering",
+          "Duration_(dates)": "28-11-2022 to 02-12-2022"
+      },
+      {
+          "S.No": 5,
+          "Name_of_the_Faculty": "Dr. J Sengathir",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Emerging Trends and Technologies in Cyber Security(workshop)",
+          "Organizing_Institute": "Madanapalle Institute of Technology & Science",
+          "Duration_(dates)": "14th - 18th Nov 2022"
+      },
+      {
+          "S.No": 6,
+          "Name_of_the_Faculty": "Dr. A. Mallareddy",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Penetration Testing and Cyber Forensics",
+          "Organizing_Institute": "CVR College of Engineering",
+          "Duration_(dates)": "25-27 Aug, 2022"
+      },
+      {
+          "S.No": 7,
+          "Name_of_the_Faculty": "Dr. A. Mallareddy",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Advances in Cyber Security and Artificial Intelligence",
+          "Organizing_Institute": "NIT Warangal",
+          "Duration_(dates)": "6 - 16 June 2022"
+      },
+      {
+          "S.No": 8,
+          "Name_of_the_Faculty": "Dr. A. Mallareddy",
+          "Name_of_the_Conference/FDP/Workshop_attended": "IoT Ecosystem: Security Challenges and Opportunities",
+          "Organizing_Institute": "IIT Guwahati",
+          "Duration_(dates)": "9th January 2023"
+      },
+      {
+          "S.No": 9,
+          "Name_of_the_Faculty": "Dr. A. Mallareddy",
+          "Name_of_the_Conference/FDP/Workshop_attended": "CYBER FORENSICS",
+          "Organizing_Institute": "Centre of Excellence in Cyber Security, JNTUH",
+          "Duration_(dates)": "15th - to – 25th February, 2023"
+      },
+      {
+          "S.No": 10,
+          "Name_of_the_Faculty": "Dr. A. Mallareddy",
+          "Name_of_the_Conference/FDP/Workshop_attended": "IOT & Drone",
+          "Organizing_Institute": "E & ICT Academy, IIT Kanpur",
+          "Duration_(dates)": "27-02-2023 to 04-03-2023"
+      },
+      {
+          "S.No": 11,
+          "Name_of_the_Faculty": "Dr. A. Mallareddy",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Advanced Excel with Data Visualization",
+          "Organizing_Institute": "E & ICT Academy, IIT Kanpur",
+          "Duration_(dates)": "13-02-2023 to 17-02-2023"
+      },
+      {
+          "S.No": 12,
+          "Name_of_the_Faculty": "Ch V S Satyamurty",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Platforms & System security cyberspace",
+          "Organizing_Institute": "VNRVJIET",
+          "Duration_(dates)": "30th jan-04th Feb"
+      },
+      {
+          "S.No": 13,
+          "Name_of_the_Faculty": "Ch V S Satyamurty",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Advanced excel with data visualization",
+          "Organizing_Institute": "E&ICT Kanpur",
+          "Duration_(dates)": "13th -17th  Feb 2023"
+      },
+      {
+          "S.No": 14,
+          "Name_of_the_Faculty": "Ch V S Satyamurty",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Cyber Security",
+          "Organizing_Institute": "E&ICT Academy, IIT Kanpur",
+          "Duration_(dates)": "20th – 24th Feb. 2023"
+      },
+      {
+          "S.No": 15,
+          "Name_of_the_Faculty": "Ch V S Satyamurty",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Innovative Teaching Methodology-A creative Pedagogy",
+          "Organizing_Institute": "D Y Patil College of Engineering",
+          "Duration_(dates)": "31st July 2023 to 4th August 2023"
+      },
+      {
+          "S.No": 16,
+          "Name_of_the_Faculty": "Ch V S Satyamurty",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning",
+          "Organizing_Institute": "Patil Institute of Engineering and Management Research, Akurdi",
+          "Duration_(dates)": "10th July 2023 to 14th July 2023"
+      },
+      {
+          "S.No": 17,
+          "Name_of_the_Faculty": "Ch V S Satyamurty",
+          "Name_of_the_Conference/FDP/Workshop_attended": "LATEX- Migreate to LaTeX",
+          "Organizing_Institute": "VNRVJIET",
+          "Duration_(dates)": "4th – 9th April 2023"
+      },
+      {
+          "S.No": 18,
+          "Name_of_the_Faculty": "Ch V S Satyamurty",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Cyber Forensics",
+          "Organizing_Institute": "JNTUH",
+          "Duration_(dates)": "15th – 25th Feb 2023"
+      },
+      {
+          "S.No": 19,
+          "Name_of_the_Faculty": "Ch V S Satyamurty",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Recent Trends on Research Methodologies , Tools and Techniques",
+          "Organizing_Institute": "KG College of Arts and Science, Coimbatore",
+          "Duration_(dates)": "10.07.2023 -15.07.2023"
+      },
+      {
+          "S.No": 20,
+          "Name_of_the_Faculty": "Ch V S Satyamurty",
+          "Name_of_the_Conference/FDP/Workshop_attended": "AWS Using DevOps",
+          "Organizing_Institute": "CMREC",
+          "Duration_(dates)": "26th -30th June 2023"
+      },
+      {
+          "S.No": 21,
+          "Name_of_the_Faculty": "Ch V S Satyamurty",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Emerging Trends in Artificial Intelligent Systems",
+          "Organizing_Institute": "JAIN Faculty of Engineering and Technology",
+          "Duration_(dates)": "31st March, 1st,2nd, 8th, 9th April 2023"
+      },
+      {
+          "S.No": 22,
+          "Name_of_the_Faculty": "Mr A.Seetharam Nagesh",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Research Methodology, Design and Innovation",
+          "Organizing_Institute": "CVR College of Engineering",
+          "Duration_(dates)": "16th - 21st December 2022"
+      },
+      {
+          "S.No": 23,
+          "Name_of_the_Faculty": "Mr A.Seetharam Nagesh",
+          "Name_of_the_Conference/FDP/Workshop_attended": "AWS Using Devops",
+          "Organizing_Institute": "CMR Engineering College",
+          "Duration_(dates)": "26th - 30th June 2023"
+      },
+      {
+          "S.No": 24,
+          "Name_of_the_Faculty": "Mr A.Seetharam Nagesh",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning in Big Data Applications and Security Challenges",
+          "Organizing_Institute": "MLR Institute of Technology",
+          "Duration_(dates)": "24th - 29th April, 2023"
+      },
+      {
+          "S.No": 25,
+          "Name_of_the_Faculty": "Dr Sarangam Kodati",
+          "Name_of_the_Conference/FDP/Workshop_attended": "Natural Language Processing (NLP)",
+          "Organizing_Institute": "VNR Vignana Jyothi Institute of Engineering and Technology",
+          "Duration_(dates)": "13-02-2023 to 17-02-2023"
+      },
+      {
+          "S.No": 26,
+          "Name_of_the_Faculty": "Dr Sarangam Kodati",
+          "Name_of_the_Conference/FDP/Workshop_attended": "IOT & Drone",
+          "Organizing_Institute": "E & ICT Academy, IIT Kanpur",
+          "Duration_(dates)": "27-02-2023 to 04-03-2023"
+      },
+      
+        {
+            "S.No": 27,
+            "Name_of_the_Faculty": "Mrs A. Srichandana",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Deep Learning",
+            "Organizing_Institute": "NPTEL - AICTE",
+            "Duration_(dates)": "Jul - Oct 2022"
+        },
+        {
+            "S.No": 28,
+            "Name_of_the_Faculty": "Mrs. G. Sunitha Rekha",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Penetration Testing and Information Security",
+            "Organizing_Institute": "CVR College and Engineering",
+            "Duration_(dates)": "9th - 11th January 2023"
+        },
+        {
+            "S.No": 29,
+            "Name_of_the_Faculty": "Mrs. G. Sunitha Rekha",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Penetration Testing and Cyber Forensics",
+            "Organizing_Institute": "CVR College and Engineering",
+            "Duration_(dates)": "25th - 27th August 2022"
+        },
+        {
+            "S.No": 30,
+            "Name_of_the_Faculty": "Mrs. G. Sunitha Rekha",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Infinity Cloud",
+            "Organizing_Institute": "CVR College and Engineering",
+            "Duration_(dates)": "9-10 Dec, 2022"
+        },
+        {
+            "S.No": 31,
+            "Name_of_the_Faculty": "SWATHI AGARWAL",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Innovative Teaching Methodology- A creative Pedagogy",
+            "Organizing_Institute": "D.Y.Patil College of Engineering",
+            "Duration_(dates)": "31st July to 4th Aug 2022"
+        },
+        {
+            "S.No": 32,
+            "Name_of_the_Faculty": "SWATHI AGARWAL",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Introduction to machine learning",
+            "Organizing_Institute": "NPTEL-AICTE",
+            "Duration_(dates)": "Jan-Apr 2023"
+        },
+        {
+            "S.No": 33,
+            "Name_of_the_Faculty": "SWATHI AGARWAL",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Recent trends on Research Methodologies, Tools and Techniques",
+            "Organizing_Institute": "KE College of Arts and Science",
+            "Duration_(dates)": "10 - 15 July 2023"
+        },
+        {
+            "S.No": 34,
+            "Name_of_the_Faculty": "SWATHI AGARWAL",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Advanced Trends & Challenges in AI",
+            "Organizing_Institute": "NIT Warangal",
+            "Duration_(dates)": "28/11/2023 to 02-12-2022"
+        },
+        {
+            "S.No": 35,
+            "Name_of_the_Faculty": "SWATHI AGARWAL",
+            "Name_of_the_Conference/FDP/Workshop_attended": "AI-based Nature Inspired Optimization Methods",
+            "Organizing_Institute": "JHULELAL INSTITUTE OF TECHNOLOGY",
+            "Duration_(dates)": "9 Jan 2023 to 14 Jan 2023"
+        },
+        {
+            "S.No": 36,
+            "Name_of_the_Faculty": "SWATHI AGARWAL",
+            "Name_of_the_Conference/FDP/Workshop_attended": "APPLICATIONS OF AI , ML AND DATA SCIENCE",
+            "Organizing_Institute": "KKR & KSR INSTITUTE OF TECHNOLOGY AND SCIENCES",
+            "Duration_(dates)": "12th-17th December, 2022"
+        },
+        {
+            "S.No": 37,
+            "Name_of_the_Faculty": "SWATHI AGARWAL",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Blockchain Technology and Applications",
+            "Organizing_Institute": "Anurag University",
+            "Duration_(dates)": "2nd - 6 th January 2023"
+        },
+        {
+            "S.No": 38,
+            "Name_of_the_Faculty": "SWATHI AGARWAL",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Artificial Intelligence Machine Learning and Deep learning",
+            "Organizing_Institute": "NIT Warangal",
+            "Duration_(dates)": "27-01-2023 to 31-01-2023"
+        },
+        {
+            "S.No": 39,
+            "Name_of_the_Faculty": "SWATHI AGARWAL",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Publications, Projects and Patents(PPP-2K22)",
+            "Organizing_Institute": "CVR College of Engineering",
+            "Duration_(dates)": "28th Nov to 4th Dec 2022"
+        },
+        {
+            "S.No": 40,
+            "Name_of_the_Faculty": "Swetha G",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Cloud Infrastrucute(AWS)",
+            "Organizing_Institute": "AICTE",
+            "Duration_(dates)": "21- 25 Aug 2023"
+        },
+        {
+            "S.No": 41,
+            "Name_of_the_Faculty": "J SADANA",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning in Big Data Applications and Security challenges",
+            "Organizing_Institute": "MLR Institute of Technology",
+            "Duration_(dates)": "24th- 29th April, 2023"
+        },
+        {
+            "S.No": 42,
+            "Name_of_the_Faculty": "J SADANA",
+            "Name_of_the_Conference/FDP/Workshop_attended": "AI –based Nature Inspired Optimization methods",
+            "Organizing_Institute": "Jhulelal institute of technology",
+            "Duration_(dates)": "9th – 14th Jan 2023"
+        },
+        {
+            "S.No": 43,
+            "Name_of_the_Faculty": "J SADANA",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Machine Learning",
+            "Organizing_Institute": "E & ICT Academy",
+            "Duration_(dates)": "27th Mar – 2nd April, 2023"
+        },
+        {
+            "S.No": 44,
+            "Name_of_the_Faculty": "J SADANA",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Data-Driven Precision: Machine Learning's Impact on Thyroid Disease Diagnosis and Prediction",
+            "Organizing_Institute": "Anurag University",
+            "Duration_(dates)": "25th- 26th August 2023"
+        },
+        {
+            "S.No": 45,
+            "Name_of_the_Faculty": "J SADANA",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Cyber Security",
+            "Organizing_Institute": "Chaitanya Bharathi Institute of Technology (CBIT)",
+            "Duration_(dates)": "25th Sep to 14th Oct 2023"
+        },
+        {
+            "S.No": 46,
+            "Name_of_the_Faculty": "Shailaja Gandi",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Object Oriented Programming Through Java",
+            "Organizing_Institute": "CVR College of Engineering",
+            "Duration_(dates)": "27-30th Sep, 2022, 10-15th Oct 2022"
+        },
+        {
+            "S.No": 47,
+            "Name_of_the_Faculty": "Shailaja Gandi",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Penetration Testing and Cyber Forensics",
+            "Organizing_Institute": "CVRCOE",
+            "Duration_(dates)": "25 - 27 Aug 2022"
+        },
+        {
+            "S.No": 48,
+            "Name_of_the_Faculty": "Shailaja Gandi",
+            "Name_of_the_Conference/FDP/Workshop_attended": "One week National Level Online STTP on ”Applications of AI,ML and Data Science”",
+            "Organizing_Institute": "KKR & KSR Institute of Technology and Science",
+            "Duration_(dates)": "12-17th Dec, 2022"
+        },
+        {
+            "S.No": 49,
+            "Name_of_the_Faculty": "Shailaja Gandi",
+            "Name_of_the_Conference/FDP/Workshop_attended": "One week FDP on “AI-based Nature Inspired Optimization Methods”",
+            "Organizing_Institute": "Jhulelal Institute of Technology",
+            "Duration_(dates)": "9-14th Jan 2023"
+        },
+        {
+            "S.No": 50,
+            "Name_of_the_Faculty": "Shailaja Gandi",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Blockchain Technology and Applications",
+            "Organizing_Institute": "Anurag University",
+            "Duration_(dates)": "2nd - 6 th January 2023"
+        },
+          {
+            "S.No": 51,
+            "Name_of_the_Faculty": "GUNDETI SRINIVAS",
+            "Name_of_the_Conference/FDP/Workshop_attended": "CVR- Advanced Data Structures through Java",
+            "Organizing_Institute": "Ebox",
+            "Duration_(dates)": "Feb 2022 - Mar 2023"
+          },
+          {
+            "S.No": 52,
+            "Name_of_the_Faculty": "GUNDETI SRINIVAS",
+            "Name_of_the_Conference/FDP/Workshop_attended": "OBJECT ORIENTED PROGRAMMING THROUGH JAVA ADSTJ",
+            "Organizing_Institute": "CVRCE",
+            "Duration_(dates)": "20-02-2023 TO 11-03-2023"
+          },
+          {
+            "S.No": 53,
+            "Name_of_the_Faculty": "GUNDETI SRINIVAS",
+            "Name_of_the_Conference/FDP/Workshop_attended": "ARTIFICIAL INTELLIGENCE",
+            "Organizing_Institute": "JNTUH (HRDC)",
+            "Duration_(dates)": "23-05-2022 TO 04-06-2022"
+          },
+          {
+            "S.No": 54,
+            "Name_of_the_Faculty": "GUNDETI SRINIVAS",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Research Methodology on Machine Learning and Data Science",
+            "Organizing_Institute": "B V RAJU INTITUTE OF TECHNOLOGY",
+            "Duration_(dates)": "10-07-2023 TO 14-07-2023"
+          },
+          {
+            "S.No": 55,
+            "Name_of_the_Faculty": "M BHAGAVANTHU",
+            "Name_of_the_Conference/FDP/Workshop_attended": "UHV",
+            "Organizing_Institute": "AICTE",
+            "Duration_(dates)": "30/01/23 TO 03/02/23"
+          },
+          {
+            "S.No": 56,
+            "Name_of_the_Faculty": "Shaik Jaheda",
+            "Name_of_the_Conference/FDP/Workshop_attended": "IOT",
+            "Organizing_Institute": "CVRCE",
+            "Duration_(dates)": "9th May 2023"
+          },
+          {
+            "S.No": 57,
+            "Name_of_the_Faculty": "Shaik Jaheda",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Product Development in IIOT",
+            "Organizing_Institute": "CVRCE",
+            "Duration_(dates)": "17th - 21st July 2023"
+          },
+          {
+            "S.No": 58,
+            "Name_of_the_Faculty": "Shaik Jaheda",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Data-Driven Precision: Machine Learning's Impact on Thyroid Disease Diagnosis and Prediction",
+            "Organizing_Institute": "Anurag University",
+            "Duration_(dates)": "25th- 26th August 2023"
+          },
+          {
+            "S.No": 59,
+            "Name_of_the_Faculty": "Shaik Jaheda",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Internet of Things",
+            "Organizing_Institute": "CVRCOE",
+            "Duration_(dates)": "3rd - 4th May 2023"
+          },
+          {
+            "S.No": 60,
+            "Name_of_the_Faculty": "Shaik Jaheda",
+            "Name_of_the_Conference/FDP/Workshop_attended": "OBJECT ORIENTED PROGRAMMING THROUGH JAVA ADSTJ",
+            "Organizing_Institute": "CVRCE",
+            "Duration_(dates)": "20-02-2023 TO 11-03-2023"
+          },
+          {
+            "S.No": 61,
+            "Name_of_the_Faculty": "S SUHASINI",
+            "Name_of_the_Conference/FDP/Workshop_attended": "FDP on IOT and Drone",
+            "Organizing_Institute": "IIT Kanpur",
+            "Duration_(dates)": "13/02/2023 to 17/02/2023"
+          },
+          {
+            "S.No": 62,
+            "Name_of_the_Faculty": "S SUHASINI",
+            "Name_of_the_Conference/FDP/Workshop_attended": "FDP on Advanced Excel with Data visualization",
+            "Organizing_Institute": "IIT Kanpur",
+            "Duration_(dates)": "20/03/2023 to 24/03/2023"
+          },
+          {
+            "S.No": 63,
+            "Name_of_the_Faculty": "S SUHASINI",
+            "Name_of_the_Conference/FDP/Workshop_attended": "FDP on Block Chain",
+            "Organizing_Institute": "CVRCE",
+            "Duration_(dates)": "3rd-4th May 2023"
+          },
+          {
+            "S.No": 64,
+            "Name_of_the_Faculty": "S SUHASINI",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Cloud Infrastrucute(AWS)",
+            "Organizing_Institute": "AICTE",
+            "Duration_(dates)": "21- 25 Aug 2023"
+          },
+          {
+            "S.No": 65,
+            "Name_of_the_Faculty": "Badepally Mallaiah",
+            "Name_of_the_Conference/FDP/Workshop_attended": "PYTHON PROGRAMMING",
+            "Organizing_Institute": "E&ICT ACADEMY,IIT KANPUR",
+            "Duration_(dates)": "13-03-2023 TO 17-03-2023"
+          },
+          {
+            "S.No": 66,
+            "Name_of_the_Faculty": "Badepally Mallaiah",
+            "Name_of_the_Conference/FDP/Workshop_attended": "IOT&DRONE",
+            "Organizing_Institute": "E&ICT ACADEMY,IIT KANPUR",
+            "Duration_(dates)": "27-02-2023 TO 04-03-2023"
+          },
+          {
+            "S.No": 67,
+            "Name_of_the_Faculty": "Badepally Mallaiah",
+            "Name_of_the_Conference/FDP/Workshop_attended": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING TECHNIQUES",
+            "Organizing_Institute": "ANURAG UNIVERSITY",
+            "Duration_(dates)": "12-02-2023 TO 17-02-2023"
+          },
+          {
+            "S.No": 68,
+            "Name_of_the_Faculty": "Badepally Mallaiah",
+            "Name_of_the_Conference/FDP/Workshop_attended": "PLATFORMS&SYSTEM SECURITY IN IN CYBERSPACE",
+            "Organizing_Institute": "VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+            "Duration_(dates)": "30-01-2023 TO 04-02-2023"
+          },
+          {
+            "S.No": 69,
+            "Name_of_the_Faculty": "Aruna Thotapalli",
+            "Name_of_the_Conference/FDP/Workshop_attended": "FDP:Innovative Teaching Methodology:Creative Pedagogy",
+            "Organizing_Institute": "D.Y.P. Patil Institute of engineering Management and Research,Akurdi",
+            "Duration_(dates)": "31st July to 4th August 2023"
+          },
+          {
+            "S.No": 70,
+            "Name_of_the_Faculty": "Aruna Thotapalli",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Workshop:IOT",
+            "Organizing_Institute": "CVR COLLEGE OF ENGINEERING",
+            "Duration_(dates)": "3rd to 4th May 2023"
+          },
+          {
+            "S.No": 71,
+            "Name_of_the_Faculty": "Aruna Thotapalli",
+            "Name_of_the_Conference/FDP/Workshop_attended": "IoT",
+            "Organizing_Institute": "CVRCE",
+            "Duration_(dates)": "9th May 2023"
+          },
+          {
+            "S.No": 72,
+            "Name_of_the_Faculty": "Aruna Thotapalli",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Enhancement of Communication Skills in English",
+            "Organizing_Institute": "CVRCE",
+            "Duration_(dates)": "27th Mar – 19th April, 2023"
+          },
+          {
+            "S.No": 73,
+            "Name_of_the_Faculty": "Aruna Thotapalli",
+            "Name_of_the_Conference/FDP/Workshop_attended": "Block Chain",
+            "Organizing_Institute": "E&ICT , IIT Kanpur",
+            "Duration_(dates)": "20 - 24 Mar 2023"
+          }
+    
+  ]
+  
+  }
+}

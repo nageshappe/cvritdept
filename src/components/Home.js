@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';  // Optional: for adding styles
-
+import "./Research.css";
 const Home = () => {
   return (
     <div className="home-container">

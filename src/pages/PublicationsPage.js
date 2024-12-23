@@ -16,21 +16,16 @@ const PublicationsPage = () => {
   return (
     <div className="main-page">
      <ResearchSidebar/>     
-      {/* Dropdown to select year */}
-      <div className="year-select">
-        <label htmlFor="yearSelect">Select Year: </label>
-        <select id="yearSelect" value={selectedYear} onChange={handleYearChange}>
-          {Object.keys(publicationsdata.publicationsdata).map((year) => (
-            <option key={year} value={year}>
-              {year}
-            </option>
-          ))}
-        </select>
-      </div>
+      
       <div className='main-content'>
+      <div className="year-select">
+         {Object.keys(publicationsdata.publicationsdata).map((year)=>(
+            <button className="btn btn-info"  value={year} onClick={handleYearChange}>{year}</button>
+         ))}
         
-      {/* Display publications for the selected year */}
-      {/* <div className="publications-list"> */}
+      </div>  
+      <h2 align="center">{selectedYear} Publications</h2>
+      
         <table className="table table-bordered">
             <tr><th>S.No</th>
                  <th>Faculty Name</th>

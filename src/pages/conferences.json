@@ -1,0 +1,236 @@
+{
+    "papers":{"2023": [
+      {
+        "S.No": 1,
+        "Faculty Name": "Dr. Bipin Bihari Jaya Singh",
+        "Conference Name": "AIP Conference Proceedings",
+        "Year & Month of Publication": "Sep-23",
+        "Volume No., Issue No., Pages": "Volume 2754, Issue 1",
+        "Title": "Prediction of mental health illness using machine learning for technical employees",
+        "Authors": "Sumitra Mallick; Bipin Bihari Jayasingh",
+        "Indexing": "Scopus"
+      },
+      {
+        "S.No": 2,
+        "Faculty Name": "Dr. Bipin Bihari Jaya Singh",
+        "Conference Name": "Institute of Electrical and Electronics Engineers Inc.",
+        "Year & Month of Publication": "Mar-24",
+        "Volume No., Issue No., Pages": "",
+        "Title": "Identification of Sign Language Alphabets on Static Images Using Deep Learning",
+        "Authors": "Sumitra Mallick; Bipin Bihari Jayasingh",
+        "Indexing": "Scopus"
+      },
+      {
+        "S.No": 3,
+        "Faculty Name": "Dr. J. Sengathir",
+        "Conference Name": "Lecture Notes in Networks and Systems,Conference",
+        "Year & Month of Publication": "Oct,2023",
+        "Volume No., Issue No., Pages": "Volume 728, pp 581–594",
+        "Title": "ELECTRE I-based Zone Head Selection in WSN-Enabled Internet of Things",
+        "Authors": "Sengathir Janakiraman, M. Deva Priya, A. Christy Jeba Malar & Suma Sira Jacob",
+        "Indexing": "Springer Science and Business Media Deutschland GmbH"
+      },
+      {
+        "S.No": 4,
+        "Faculty Name": "Dr. Sarangam Kodati",
+        "Conference Name": "E3S Web of Conferences",
+        "Year & Month of Publication": "Oct,2023",
+        "Volume No., Issue No., Pages": "Volume 430 article 01070 (2023)",
+        "Title": "Ensemble Framework of Artificial immune system based on Network Intrusion Detection System for Network Security Sustainability",
+        "Authors": "Sarangam Kodati1, Nara Sreekanth, K.S.R.K. Sarma3, P. Chandra Sekhar Reddy, Archana Saxena and Boya Palajonna Narasaiah",
+        "Indexing": "Scopus"
+      },
+      {
+        "S.No": 5,
+        "Faculty Name": "Dr. Sarangam Kodati",
+        "Conference Name": "E3S Web of Conferences",
+        "Year & Month of Publication": "Oct,2023",
+        "Volume No., Issue No., Pages": "Volume 430 article 01063 (2023)",
+        "Title": "Age Classification for work sustainability using SVM using Co-occurrence features on Fibonacci Weighted Neighborhood Pattern Matrix",
+        "Authors": "P. Chandra Sekhar Reddy, K.S.R.K. Sarma, T. Raghunadha Reddy, Sarangam Kodati, Rajeev Kumar and M. Dhasaratham",
+        "Indexing": "Scopus"
+      },
+      {
+        "S.No": 6,
+        "Faculty Name": "Dr. Sarangam Kodati",
+        "Conference Name": "2nd International Conference on Integrated Circuits and Communication Systems, ICICACS 2024",
+        "Year & Month of Publication": "Feb,2024",
+        "Volume No., Issue No., Pages": "3",
+        "Title": "An Effective Trusted and Secure based Clustering and Routing using Improved Bat Optimization Algorithm",
+        "Authors": "Kassem Al-Attabi; Srinivas Aluvala; Sarangam Kodati; Anu. D; Swapna P",
+        "Indexing": "Scopus"
+      },
+      {
+        "S.No": 7,
+        "Faculty Name": "Dr. Sarangam Kodati",
+        "Conference Name": "International Conference on Distributed Computing and Optimization Techniques, ICDCOT 2024",
+        "Year & Month of Publication": "April,2024",
+        "Volume No., Issue No., Pages": "pp. 1-4",
+        "Title": "Diabetic Retinopathy Detection and Classification Using Multi-Head Self Attention Based Convolutional Neural Network",
+        "Authors": "Mohamed Kareemulla N R; Jagadevi N Kalshetty; Sarangam Kodati; Ramy Riad Al-Fatlawy; Nanditha Krishna",
+        "Indexing": "Scopus"
+      },
+      {
+        "S.No": 8,
+        "Faculty Name": "Dr. Sarangam Kodati",
+        "Conference Name": "2nd IEEE International Conference on Data Science and Information System, ICDSIS 2024",
+        "Year & Month of Publication": "May,2024",
+        "Volume No., Issue No., Pages": "3",
+        "Title": "Misbehavior Detection for Position Falsification Attacks in VANETs Using Ensemble Machine Learning",
+        "Authors": "R. Dineshkumar; Prateeksha Siddhanti; Sarangam Kodati; Ammar Hameed Shnain; V. Malathy",
+        "Indexing": "Scopus"
+      },
+      {
+        "S.No": 9,
+        "Faculty Name": "A.Seetharam Nagesh",
+        "Conference Name": "45th world conference on Applied science,Engineering and Technology",
+        "Year & Month of Publication": "July,2023",
+        "Volume No., Issue No., Pages": "",
+        "Title": "Strategic fusion : A comprehensive approach to Apple Disease classification using ensemble learning",
+        "Authors": "",
+        "Indexing": "Scopus"
+      },
+      {
+        "S.No": 10,
+        "Faculty Name": "Mr. Anupkant . S",
+        "Conference Name": "2nd IEEE International Conference on Data Science and Information System, ICDSIS",
+        "Year & Month of Publication": "May,2024",
+        "Volume No., Issue No., Pages": "3",
+        "Title": "Ensemble Based Machine Learning Classifier for Sybil Attack Detection in Vehicular AD-HOC Networks (VANETS)",
+        "Authors": "Piyush Kumar Pareek; Prateeksha Siddhanti; S. Anupkant; Saif O. Husain; I. Bhuvaneshwarri",
+        "Indexing": "Scopus"
+      }
+    ],
+    "2022":[
+        
+            {
+              "S.No": 1,
+              "Faculty Name": "Dr. Bipin Bihari Jaya Singh",
+              "Conference Name": "International Conference on Intelligent Computing and Communication (ICICC-22)",
+              "Year & Month of Publication": "Nov-22",
+              "Volume No., Issue No., Pages": "Vol 1447, PP 417-428",
+              "Title": "Normal and Pneumonia Classification Based on Deep Features using Transfer Learning",
+              "Authors": "Bipin Bihari Jayasingh & Talapaneni Jyothi",
+              "Indexing": "Scopus, WOS"
+            },
+            {
+              "S.No": 2,
+              "Faculty Name": "Dr. Bipin Bihari Jaya Singh",
+              "Conference Name": "IEEE ESCI-2023",
+              "Year & Month of Publication": "Apr-23",
+              "Title": "Online Transaction Anomaly Detection Model for Credit Card Usage Using Machine Learning Classifiers",
+              "Authors": "Bipin Bihari Jayasingh; G. Bhagya Sri",
+              "Indexing": "Scopus"
+            },
+            {
+              "S.No": 3,
+              "Faculty Name": "Dr. Bipin Bihari Jaya Singh",
+              "Conference Name": "IEEE ESCI-2024",
+              "Year & Month of Publication": "Apr-23",
+              "Title": "A marker-based AR system on image shadowing for tourists",
+              "Authors": "Bipin Bihari Jaya Singh; Siddhartha Malladi; Goli Suryachaitanya; Alwala Dheeraj",
+              "Indexing": "Scopus"
+            },
+            {
+              "S.No": 4,
+              "Faculty Name": "Dr. Bipin Bihari Jaya Singh",
+              "Conference Name": "2022 OPJU International Technology Conference on Emerging Technologies for Sustainable Development, OTCON 2022",
+              "Year & Month of Publication": "May-23",
+              "Title": "Medical Image Diagnosis Using Deep Learning Classifiers for COVID-19",
+              "Authors": "Bipin Bihari Jayasingh; Talapaneni Jyothi",
+              "Indexing": "IEEE, Scopus"
+            },
+            {
+              "S.No": 5,
+              "Faculty Name": "Dr. Suryanarayana",
+              "Conference Name": "ICDSAAI 2022 IEEE",
+              "Year & Month of Publication": "Feb-23",
+              "Title": "Using Computer Vision to enhance Safety in a Post COVID World",
+              "Authors": "S.V. Suryanarayana; G.N. Balaji",
+              "Indexing": "Scopus"
+            },
+            {
+              "S.No": 6,
+              "Faculty Name": "Dr. Suryanarayana",
+              "Conference Name": "International conference of Micro electronic and telecommunications",
+              "Year & Month of Publication": "Jun-23",
+              "Volume No., Issue No., Pages": "Vol 617 PP 555-565",
+              "Title": "Crop and Weed Detection From Images Using YOLOv5 Family",
+              "Authors": "Katakam Koushik & S. Venkata Suryanarayana",
+              "Indexing": "Scopus"
+            },
+            {
+              "S.No": 7,
+              "Faculty Name": "Dr. J. Sengathir",
+              "Conference Name": "International Conference on Recent Trends in Computing",
+              "Year & Month of Publication": "Mar-23",
+              "Volume No., Issue No., Pages": "Vol 600 PP 537-549",
+              "Title": "COPRAS-Based Decision-Making Strategy for Optimal Cluster Head Selection in WSNs",
+              "Authors": "J. Sengathir, M. Deva Priya, R. Nithiavathy & S. Sam Peter",
+              "Indexing": "Scopus"
+            },
+            {
+              "S.No": 8,
+              "Faculty Name": "Dr. J. Sengathir",
+              "Conference Name": "International Conference on IoT, Intelligent Computing and Security",
+              "Year & Month of Publication": "Apr-23",
+              "Volume No., Issue No., Pages": "volume 982 pp 355–365",
+              "Title": "Iterated Shape-Bias Graph Cut-Based Segmentation for Detecting Cervical Cancer from Pap Smear Cells",
+              "Authors": "Sengathir Janakiraman, M. Deva Priya, A. Christy Jeba Malar, S. Padmavathi & T. Raghunathan",
+              "Indexing": "Scopus"
+            },
+            {
+              "S.No": 9,
+              "Faculty Name": "Dr. J. Sengathir",
+              "Conference Name": "Micro electronic and telecommunications engineering",
+              "Year & Month of Publication": "Jun-23",
+              "Volume No., Issue No., Pages": "volume 617 pp 179–193",
+              "Title": "Honey Badger Optimization Algorithm-Based RSU Deployment for Improving Network Coverage in VANETs",
+              "Authors": "Sengathir.J., Deva Priya.M., Christy Jeba Malar,.A, Sam Peter. S",
+              "Indexing": "Scopus"
+            },
+            {
+              "S.No": 10,
+              "Faculty Name": "Dr. J. Sengathir",
+              "Conference Name": "International conference of Micro electronic and telecommunications Engineering",
+              "Year & Month of Publication": "Jun-23",
+              "Volume No., Issue No., Pages": "volume 617 pp 153–166",
+              "Title": "An Adaptive Opposition Learning-Improved Slime Mould Algorithm-Based Optimization Routing for Guaranteeing Reliable Data Dissemination in FANETs",
+              "Authors": "J. Sengathir, M. Deva Priya, A. Christy Jeba Malar & Suma Sira Jacob",
+              "Indexing": "Scopus"
+            },
+            {
+              "S.No": 11,
+              "Faculty Name": "A. Mallareddy",
+              "Conference Name": "Lecture Notes in Computer Science",
+              "Year & Month of Publication": "Jun-23",
+              "Volume No., Issue No., Pages": "volume 14078 pp 523–533",
+              "Title": "Machine learning and fuzzy logic based intelligent algorithm for energy efficient routing in wireless sensor networks",
+              "Authors": "Sagar Mekala, A. Mallareddy, Rama Rao Tandu & Konduru Radhika",
+              "Indexing": "Springer, Scopus"
+            },
+            {
+              "S.No": 12,
+              "Faculty Name": "Dr. Rakesh Kumar Godi",
+              "Conference Name": "Information Systems for Intelligent Systems",
+              "Year & Month of Publication": "Mar-23",
+              "Pages": "pp 593–609",
+              "Title": "A Review on Twitter Data Sentiment Analysis Related to COVID-19",
+              "Authors": "T Noor, RK Godi",
+              "Indexing": "Scopus"
+            },
+            {
+              "S.No": 13,
+              "Faculty Name": "Mr. C.V.S Satyamurthy",
+              "Conference Name": "Lecture notes in Computer Science(Lecture notes in AI)",
+              "Year & Month of Publication": "June-23",
+              "Volume No., Issue No., Pages": "volume 14078 pp 421–428",
+              "Title": "Dynamic twitter topic summarization using Speech acts",
+              "Authors": "Suhail Afroz, Ch. V. S. Satyamurty, P. Asifa Tazeem, M. Hanimi Reddy, Y. Md. Riyazuddin & Vijetha Jadda",
+              "Indexing": "Springer, Scopus"
+            }
+          
+          
+    ]
+  }
+}

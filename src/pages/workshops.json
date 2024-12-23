@@ -1,0 +1,85 @@
+{"workshops":{"2024":[
+    {
+      "SNO": 1,
+      "Description": "Generative AI",
+      "Dates": "24th-26th Oct 2024",
+      "Resource Persons": "Mr. Ajinkya Lohakare, CTO and Founder of Ditto Security, Tedx Speaker.",
+      "Banner": "Ingenuity",
+      "Place": "Dept. of IT, CVRCE"
+    },
+    {
+      "SNO": 2,
+      "Description": "Cloud Security",
+      "Dates": "9th & 10th Aug. 24",
+      "Resource Persons": "Mr.T.Vinay Kumar, senior Product manager",
+      "Banner": "Computer Society of India",
+      "Place": "Dept. of IT, CVRCE"
+    }
+  ],
+  "2023":[{
+    "SNO": 1,
+    "Description": "Workshop on Hands on IoT",
+    "Dates": "3rd & 4th May 2024",
+    "Resource Persons": "Mr. S. Anupkanth, Sr.Assistant Professor, IT Dept.",
+    "Banner": "Ingenuity",
+    "Place": "Dept of IT, CVRCE"
+  },
+  {
+    "SNO": 2,
+    "Description": "Foot Printing & Ethical Hacking",
+    "Dates": "8th & 9th Dec. 2023",
+    "Resource Persons": "Mr.Ajinkya Lohakare, CTO & Founder of Ditto Security",
+    "Banner": "Computer Society of India",
+    "Place": "Dept of IT, CVRCE"
+  }],
+  "2022":[
+    {
+        "SNO": 1,
+        "Description": "Python Ver-1 Workshop",
+        "Dates": "15th – 16th June 2023",
+        "Resource Persons": "Dr. Rakesh Godi, Professor, IT Dept\nDr. R.K.Selva Kumar, Professor, CSE\nMr. B. Aswin Kumar, Assistant Professor, CSE",
+        "Banner": "Department of IT",
+        "Place": "CVRCE"
+      },
+      {
+        "SNO": 2,
+        "Description": "IoT",
+        "Dates": "9th May 2023",
+        "Resource Persons": "Dr. R Raja, Associate Professor, ET Dept\nMr. Raghavendra Swamy, Assistant Professor, ET Dept",
+        "Banner": "Ingenuity",
+        "Place": "CVRCE"
+      },
+      {
+        "SNO": 3,
+        "Description": "Hackathon",
+        "Dates": "27th to 28th  February 2023",
+        "Resource Persons": "Dr. Bipin Bihari Jayasingh, professor,HOD IT Dept",
+        "Banner": "Department of IT",
+        "Place": "CVRCE"
+      },
+      {
+        "SNO": 4,
+        "Description": "Techshastra 2K23",
+        "Dates": "27th to 28th  January 2023",
+        "Resource Persons": "Dr.Mr.Bipin Bihari Jayasingh, Professor,HOD  IT Dept",
+        "Banner": "Department of IT",
+        "Place": "CVRCE"
+      },
+      {
+        "SNO": 5,
+        "Description": "Cyber Security and Ethical Hacking",
+        "Dates": "25th Jan 2023",
+        "Resource Persons": "Mr.Ajinkya Lohakare, CTO & Founder of Ditto Security",
+        "Banner": "Ingenuity",
+        "Place": "CVRCE"
+      },
+      {
+        "SNO": 6,
+        "Description": "Infinity Cloud",
+        "Dates": "9th to 10th Dec 2022",
+        "Resource Persons": "Mr. Karthik Reddy, Director, Upakriya Pvt. Ltd., Hyderabad",
+        "Banner": "Ingenuity",
+        "Place": "CVRCE"
+      }
+  ]
+}}
