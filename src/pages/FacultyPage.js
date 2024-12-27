@@ -73,6 +73,8 @@ function FacultyPage() {
                                         <tr><td><strong>Email:</strong></td><td> {selectedFaculty['email']}</td></tr>
                                         <tr><td><strong>Date of Joining:</strong></td><td> {selectedFaculty['Date of Joining']}</td></tr>
                                         <tr><td><strong>Specialization/Research Area:</strong></td><td> {selectedFaculty['specialization']}</td></tr>
+                                        <tr><td><strong>Subjects Taught:</strong></td><td> {selectedFaculty['subjects']}</td></tr>
+                                       
                                         <tr><td><strong>Profile Link:</strong> </td><td><a href={selectedFaculty['Profile Link']} target="_blank" rel="noopener noreferrer">View Profile</a></td>
                                     </tr>
                                 </table>
