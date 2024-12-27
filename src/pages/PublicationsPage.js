@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import publicationsdata from './publications.json';
+import publicationsdata from '../data/publications.json';
 import ResearchSidebar from '../components/ResearchSidebar';
 
 const PublicationsPage = () => {
@@ -26,7 +26,7 @@ const PublicationsPage = () => {
       </div>  
       <h2 align="center">{selectedYear} Publications</h2>
       
-        <table className="table table-bordered">
+        <table className="table table-bordered border-primary">
             <tr><th>S.No</th>
                  <th>Faculty Name</th>
                 <th>Title of Publication </th>

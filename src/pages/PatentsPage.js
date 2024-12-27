@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import ResearchPage from './ResearchPage';
 import ResearchSidebar from '../components/ResearchSidebar';
-import Patentsdata from "./patents.json"
+import Patentsdata from "../data/patents.json"
 
 const PatentsPage = () => {
 

@@ -19,10 +19,10 @@ const VisionMissionPage = () => {
             <Link to="/pos">PO's</Link>
           </li>
           <li>
-            <Link to="/cos">CO's</Link>
+            <Link to="/cos">CO's-R18</Link>
           </li>
           <li>
-            <Link to="/cos18">CO's18</Link>
+            <Link to="/cos18">CO's22</Link>
           </li>
         </ul>
       </div> */}

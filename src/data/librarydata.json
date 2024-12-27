@@ -1,0 +1,111 @@
+{
+    "BTech": {
+      "National": [
+        {
+          "SNO": 1,
+          "NAME_OF_THE_JOURNAL": "INTERNATIONAL JOURNAL OF COMPUTER NETWORKS AND COMMUNICATIONS",
+          "PERIODICITY": "BY",
+          "NJ_IJ": "NJ",
+          "SCOPUS_WOS": "SCOPUS",
+          "ISSN_No": "0975-2293"
+        },
+        {
+          "SNO": 2,
+          "NAME_OF_THE_JOURNAL": "JOURNAL OF NETWORK SECURITY COMPUTER NETWORKS",
+          "PERIODICITY": "Q",
+          "NJ_IJ": "NJ",
+          "SCOPUS_WOS": "",
+          "ISSN_No": ""
+        }
+      ],
+      "International": [
+        {
+          "SNO": 1,
+          "NAME_OF_THE_JOURNAL": "ADVANCES IN ELECTRICAL AND COMPUTER ENGINEERING",
+          "PERIODICITY": "Q",
+          "NJ_IJ": "IJ",
+          "SCOPUS_WOS": "SCOPUS/WOS",
+          "ISSN_No": "1582-7445"
+        },
+        {
+          "SNO": 2,
+          "NAME_OF_THE_JOURNAL": "COMPUTER SCIENCE AND INFORMATION SYSTEMS",
+          "PERIODICITY": "Q",
+          "NJ_IJ": "IJ",
+          "SCOPUS_WOS": "SCOPUS/WOS",
+          "ISSN_No": "1820-0214"
+        },
+        {
+          "SNO": 3,
+          "NAME_OF_THE_JOURNAL": "INFORMATION SCIENCES LETTERS",
+          "PERIODICITY": "",
+          "NJ_IJ": "IJ",
+          "SCOPUS_WOS": "SCOPUS",
+          "ISSN_No": "2090-9551"
+        },
+        {
+          "SNO": 4,
+          "NAME_OF_THE_JOURNAL": "INTERNATIONAL JOURNAL OF COMPUTING AND DIGITAL SYSTEMS",
+          "PERIODICITY": "",
+          "NJ_IJ": "IJ",
+          "SCOPUS_WOS": "SCOPUS",
+          "ISSN_No": "2210-142X"
+        }
+      ]
+    },
+    "MTech": {
+      "National": [
+        {
+          "SNO": 1,
+          "NAME_OF_THE_JOURNAL": "ICTACT JOURNAL OF SOFT COMPUTING",
+          "PERIODICITY": "Q",
+          "NJ_IJ": "NJ",
+          "SCOPUS_WOS": "UGC-CARE LIST",
+          "ISSN_No": "0976-6561"
+        },
+        {
+          "SNO": 2,
+          "NAME_OF_THE_JOURNAL": "i-manager's JOURNAL ON IMAGE PROCESSING",
+          "PERIODICITY": "Q",
+          "NJ_IJ": "NJ",
+          "SCOPUS_WOS": "",
+          "ISSN_No": "2349-4530"
+        },
+        {
+          "SNO": 3,
+          "NAME_OF_THE_JOURNAL": "INDIAN JOURNAL OF SIMULATION AND WIRELESS COMMUNICATION",
+          "PERIODICITY": "HY",
+          "NJ_IJ": "NJ",
+          "SCOPUS_WOS": "",
+          "ISSN_No": "NO ISSN"
+        },
+        {
+          "SNO": 4,
+          "NAME_OF_THE_JOURNAL": "INDIAN JOURNAL OF NEURAL NETWORKS AND TECHNIQUES",
+          "PERIODICITY": "HY",
+          "NJ_IJ": "NJ",
+          "SCOPUS_WOS": "",
+          "ISSN_No": "NO ISSN"
+        },
+        {
+          "SNO": 5,
+          "NAME_OF_THE_JOURNAL": "INTERNATIONAL JOURNAL OF ADVANCE COMPUTATIONAL ENGINEERING AND NETWORKING",
+          "PERIODICITY": "",
+          "NJ_IJ": "NJ",
+          "SCOPUS_WOS": "",
+          "ISSN_No": "2320-2106"
+        }
+      ],
+      "International": [
+        {
+          "SNO": 1,
+          "NAME_OF_THE_JOURNAL": "INTERNATIONAL JOURNAL OF RECONFIGURABLE AND EMBEDDED SYSTEMS",
+          "PERIODICITY": "",
+          "NJ_IJ": "IJ",
+          "SCOPUS_WOS": "SCOPUS",
+          "ISSN_No": "2089-4864"
+        }
+      ]
+    }
+  }
+  

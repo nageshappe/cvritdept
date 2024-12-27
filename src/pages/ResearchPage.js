@@ -1,8 +1,8 @@
 import React from 'react';
 import ResearchSidebar from '../components/ResearchSidebar';
 import FacultyPublicationTable from '../components/FacultyPublicationTable'
-import faculty_publications from "./totalpublications.json"
-import "../components/Research.css"
+import faculty_publications from "../data/totalpublications.json"
+import "../css/Research.css"
 function ResearchPage() {
   return (
     <div className="main-page">

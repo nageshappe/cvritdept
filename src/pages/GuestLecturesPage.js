@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import StudentSidebar from "../components/StudentSidebar";
-import "../components/Research.css"
-import guestlectures from "./GuetLectures.json"
+import "../css/Research.css"
+import guestlectures from "../data/GuestLectures.json"
 
 const GuestLecturesPage= () => {
 

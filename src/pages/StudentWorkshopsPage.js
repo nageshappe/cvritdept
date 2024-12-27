@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import StudentSidebar from "../components/StudentSidebar";
-import "../components/Research.css"
-import workshops from "./workshops.json"
+import "../css/Research.css"
+import workshops from "../data/workshops.json"
 
 const StudentsWorkshopsPage= () => {
 

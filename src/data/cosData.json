@@ -1,0 +1,537 @@
+{
+  "I Year I Sem": {
+    "Mathematics-I": {
+      "CO1": " Find rank of a matrix and solve a linear system of equations.",
+      "CO2": " Evaluate eigen values, eigen vectors and find the Modal matrix under a linear transformation.",
+      "CO3": " Evaluate surface areas and volumes of solids of revolution, Apply Mean value theorems in relevant engineering domains.",
+      "CO4": "Determine the convergence/divergence of a given infinite series.",
+      "CO5": "Find the extremum of a multi-variate function with or without constraints."
+    },
+    "Engineering Chemistry": {
+      "CO1": " Rationalise periodic properties such as ionization potential, electron affinity, oxidation states and electronegativity.",
+      "CO2": "Understanding the importance of EMF, corrosion and treatment of water.",
+      "CO3": "List major chemical reactions that are used in the synthesis of molecules.",
+      "CO4": "Analyze microscopic chemistry in terms of atomic and molecular orbitals and intermolecular forces.",
+      "CO5": "Would develop ability to handle situations involving problems associated with chemical substances in engineering situations."
+    },
+    "Problem Solving Through 'C'": {
+      "CO1": "Understand programming concepts and analyze a problem, design a solution and develop an algorithm to solve it.",
+      "CO2": "Modularize a problem and implement the solution using basic programming concepts, control statements and functions.",
+      "CO3": "Evaluate the use of macros and implement solutions to complex problems using recursion and homogeneous data types.",
+      "CO4": "Implement pointers for problems of relevance and use different dynamic memory allocation methods.",
+      "CO5": "Design and implement appropriate user-defined structures to a given problem definition and apply various functions for processing files."
+    },
+    "Environmental Science": {
+      "CO1": "Define the concepts of ecosystem and emphasize the importance of biodiversity and its conservation.",
+      "CO2": "Gain knowledge on natural resources and advantages and disadvantages of renewable energy sources and technologies.",
+      "CO3": "Develop awareness on pollution control technologies and global atmospheric changes.",
+      "CO4": "Emphasize the importance of Environmental impact assessment and green technologies.",
+      "CO5": "Understand about Environmental legislation and the concept of Sustainable development."
+    },
+    "Engineering Drawing": {
+      "CO 1": "Know the Standard conventions, design scale for drawing engineering components and draw geometrical constructions.",
+      "CO 2": "Apply fundamentals of theory of projections, and draw orthographic projections of points and lines in any position.",
+      "CO 3": "Construct orthographic projections of simple planes and regular solids in any position.",
+      "CO 4": "Draw sectional views and developments of various basic 3D objects.",
+      "CO 5": "Construct isometric views and construct multi-view drawings of simple and complex 3D objects."
+    },
+    "ELCS Lab": {
+      "CO 1": "Emerge as good speakers and listeners.",
+      "CO 2": "Develop critical and analytical thinking.",
+      "CO 3": "Write effectively.",
+      "CO 4": "Develop effective presentation skills using multimedia tools.",
+      "CO 5": "Neutralize mother tongue influence on their English and become proficient speakers."
+    },
+    "EC Lab": {
+      "CO 1": "Estimate rate constants of reactions from concentration of reactants/products as a function of time.",
+      "CO 2": "Measure molecular/system properties such as surface tension, viscosity, conductance of solutions, redox potentials, and absorbance.",
+      "CO 3": "Understand the concepts of distribution and adsorption phenomena.",
+      "CO 4": "Synthesize a small drug molecule.",
+      "CO 5": "Develop analytical skills and learn how to analyze and present results of an experiment."
+    },
+    "CP Lab": {
+      "CO 1": "Gain familiarity with the programming environment in the Linux operating system and translate given algorithms into working and correct programs.",
+      "CO 2": "Interpret syntax errors as reported by the compilers and identify and correct logical errors encountered at run time using debuggers like GDB.",
+      "CO 3": "Write iterative as well as recursive programs.",
+      "CO 4": "Represent data in arrays, pointers, strings, and structures, and manipulate them through programs, designing user-defined data types.",
+      "CO 5": "Implement file processing functions to store, retrieve, and process data in text and binary formats."
+    },
+    "ITWS Lab": {
+      "CO 1": "Identify the peripherals of a PC, assemble and disassemble PC components.",
+      "CO 2": "Install the system software MS Windows, Linux, and required device drivers.",
+      "CO 3": "Work with productivity tools for Word Processing, Spreadsheet, and Presentations along with designing basic Web Pages.",
+      "CO 4": "Understand the main features of the SCILAB program development environment for usage in higher learning.",
+      "CO 5": "Interpret and visualize simple mathematical functions and operations using plots or display."
+    }
+  },
+  "I Year II Sem": {
+    "English": {
+      "CO 1": "Write coherent, unified, and complete sentences.",
+      "CO 2": "Identify word meaning and know the use of familiar lexical items.",
+      "CO 3": "Understand explicit and implicit information and draw inferences for the given task.",
+      "CO 4": "Communicate according to place, relation, and medium.",
+      "CO 5": "Know, emphasize, conceptualize, comprehend, apply, synthesize, and evaluate the given text and other authentic texts such as magazines/newspaper articles."
+    },
+    "M-II": {
+      "CO 1": "Solve the first order O.D.E and appreciate their applications.",
+      "CO 2": "Solve higher order O.D.E and appreciate their applications in engineering problems.",
+      "CO 3": "Evaluate double and triple integrals and apply them in engineering problems.",
+      "CO 4": "Evaluate the line, surface, and volume integrals and convert them from one to another.",
+      "CO 5": "Solve first-order linear and non-linear P.D.E."
+    },
+    "CM": {
+      "CO 1": "Find the real roots of Algebraic and Transcendental equations.",
+      "CO 2": "Understand interpolation and obtain approximate solutions for evenly and unevenly spaced data.",
+      "CO 3": "Fit a given data to a linear/non-linear curve and appreciate the concepts of numerical differentiation and integration.",
+      "CO 4": "Develop the skill of finding approximate solutions to problems arising in first-order initial value problems in differential equations.",
+      "CO 5": "Find finite difference solutions of certain P.D.E."
+    },
+    "Applied Physics": {
+      "CO 1": "Understand the physics of lasers, lasing action, construction, and working of He-Ne laser, semiconductor laser, and propagation of light through optical fibers.",
+      "CO 2": "Schrodinger wave equation and its application, free electron models, formation of bands in solids, and electron occupation in bands.",
+      "CO 3": "Estimation of charge carrier concentration in semiconductors and understanding the formation of pn junction, construction, and characteristics of different diodes like rectifying, Zener, and Tunnel diodes.",
+      "CO 4": "Understand transistor current components, characteristics of CB, CE, and CC configurations, and the construction, working, and characteristics of JFET and MOSFET.",
+      "CO 5": "Understand the principles of nanotechnology, types of nanomaterials, and synthesis methods: Top-down and bottom-up, characterization: XRD, SEM, and TEM."
+    },
+    "DSC": {
+      "CO 1": "Understand basic concepts, design and implement linear data structures such as linked lists, stacks, queues using C as the programming language with static or dynamic implementations.",
+      "CO 2": "Understand, analyze, differentiate, and implement elementary algorithms: sorting, searching, and hashing, and compare algorithms with respect to time and space complexity.",
+      "CO 3": "Implement non-linear data structures like trees and graphs and apply appropriate data structures to design solutions to real-world complex problems.",
+      "CO 4": "Demonstrate understanding of graph traversals and implement various algorithms on graphs.",
+      "CO 5": "Implement hashing techniques for efficient storage and searching."
+    },
+    "ELCS Lab-II": {
+      "CO 1": "Evolve as effective communicators and develop narrative skills.",
+      "CO 2": "Emerge as decision-makers and autonomous learners.",
+      "CO 3": "Develop critical and analytical skills.",
+      "CO 4": "Gather ideas and information and organize them coherently.",
+      "CO 5": "Develop leadership and team-building skills."
+    },
+    "CM Lab": {
+      "CO 1": "Write a program to find real roots of Algebraic and Transcendental equations.",
+      "CO 2": "Write a program to determine the functional value at any given intermediate point of the given data using interpolation.",
+      "CO 3": "Write a program for a best-fit curve by Least Squares method for a given set of data points.",
+      "CO 4": "Write a program for numerical integration using Trapezoidal, Simpson's 1/3, and 3/8 rules.",
+      "CO 5": "Write a program to find the value of the solution of a given first-order initial value problem of O.D.E."
+    },
+    "AP Lab": {
+      "CO 1": "Understand errors and their estimation in the determination of Physical quantities.",
+      "CO 2": "Understand the laws of physics associated with the experiments.",
+      "CO 3": "Develop skills in handling various laboratory instruments.",
+      "CO 4": "Become aware of the magnitudes of different physical parameters and learn how to present observations and results.",
+      "CO 5": "Understand the physical concepts involved in the experiments."
+    },
+    "DSC Lab": {
+      "CO 1": "Understand basic data structures such as arrays, linked lists, stacks, and queues.",
+      "CO 2": "Interpret syntax errors reported by compilers and identify and correct logical errors using debuggers like GDB.",
+      "CO 3": "Apply algorithms for sorting, searching, insertion, and deletion of data.",
+      "CO 4": "Solve problems involving graphs, trees, and heaps.",
+      "CO 5": "Apply hashing techniques for efficient data storage and retrieval."
+    },
+    "EW": {
+      "CO 1": "Acquire skills in basic engineering trades like Carpentry, Tin Smithy, etc.",
+      "CO 2": "Understand and comply with workshop safety regulations.",
+      "CO 3": "Identify and use marking out tools, hand tools, measuring equipment, and work to prescribed tolerances.",
+      "CO 4": "Apply knowledge of these trades in daily activities.",
+      "CO 5": "Select appropriate equipment and consumables for required applications."
+    }
+  },
+  "II Year I Sem": {
+    "OOPJ": {
+      "CO1": "Design and implement object-oriented concepts like encapsulation, abstraction and data hiding using programming constructs offered by java language.",
+      "CO2": "Realize the power of inheritance, polymorphism, interfaces and packages.",
+      "CO3": "Understand and demonstrate the concepts of exception handling and java I/O packages.",
+      "CO4": "Demonstrate knowledge and understanding of multithreading, annotations and applets in java.",
+      "CO5": "Design and develop java applications using AWT and Swings for providing solutions to real world problems."
+    },
+    "RDBMS": {
+      "CO1": "Perform conceptual modeling and logical design of centralized databases. Data modeling using Entity- Relationship (ER) model. Learn the use of constraints and relational algebra operations.",
+      "CO2": "Learn how relational algebra and calculus can be used in SQL. Demonstrate the mathematical approach towards querying the database. Learn DML.",
+      "CO3": "Implement the relational database logical design using normalization.",
+      "CO4": "Learn the database transaction processing and concurrency control.",
+      "CO5": "Learn backup and recovery techniques, Query optimization and PL/SQL."
+    },
+    "EEE": {
+      "CO1": "Identify basic circuit components and solve basic electrical and electronic problems using different principles.",
+      "CO2": "Understand the construction and working of different types of DC machines and calculate the losses and efficiency.",
+      "CO3": "Understand the Construction and working principle of AC machines and their applications in real time.",
+      "CO4": "Analyze and design different types of diodes and rectifiers.",
+      "CO5": "Study different transistor biasing methods."
+    },
+    "BACD": {
+      "CO1": "Understand and master different number systems and realize the binary operations of Boolean algebra using logic gates.",
+      "CO2": "Solve gate-level minimization problems using K-map and Quine-Mc Cluskey methods.",
+      "CO3": "Analyze a given combinational circuit and design a new optimized circuit for a given specification.",
+      "CO4": "Analyze a given sequential circuit and design an optimal circuit to implement a memory element or a counter.",
+      "CO5": "Realize Programmable logic elements used in the design of processors and embedded systems."
+    },
+    "P&S": {
+      "CO1": "Compute probabilities using theorems in probability and probability distributions.",
+      "CO2": "Find estimates of parameters and test hypothesis about parameters.",
+      "CO3": "Establish relationship between variables using correlation and regression.",
+      "CO4": "Apply the tools in Probability and Statistics in engineering.",
+      "CO5": "Take decisions using testing of hypothesis techniques."
+    },
+    "OOPJ Lab": {
+      "CO1": "Implement object-oriented concepts like encapsulation, abstraction and data hiding using programming constructs offered by java language.",
+      "CO2": "Develop java programs to realize the power of inheritance, interfaces and packages.",
+      "CO3": "Develop java programs to demonstrate the concepts of exception handling and I/O streams.",
+      "CO4": "Implement java applications using multithreading mechanism.",
+      "CO5": "Use graphical user interfaces to create Applets & Swing applications for providing solutions to real world problems."
+    },
+    "RDBMS Lab": {
+      "CO1": "Explain the underlying concepts of database technologies. Design E-R diagram and implement a database schema for a given problem-domain.",
+      "CO2": "Populate and query a database using SQL DML/DDL/TCL commands.",
+      "CO3": "Demonstrate the sequence of various clauses (select, from, where, group-by, having) aggregate functions used in writing a query.",
+      "CO4": "Demonstrate functions and procedures (IN/OUT) parameters.",
+      "CO5": "Declare and enforce integrity constraints on a database, create triggers, cursors and administrative commands."
+    },
+    "EEE Lab": {
+      "CO1": "Simplify and verify various electrical circuits.",
+      "CO2": "Conduct investigation on the experimental setup for various electrical circuits.",
+      "CO3": "Study working and applications of various electrical machines.",
+      "CO4": "Analyze and Design Rectifier circuits.",
+      "CO5": "Design the basic transistor biasing techniques."
+    }
+  },
+  "II Year II Sem": {
+    "ADSJ": {
+      "CO1": "Realize the power of generics in java.",
+      "CO2": "Understand Java's Collection class hierarchy and implement stacks, queues, dictionaries and trees using them.",
+      "CO3": "Implement dictionaries using linear lists and hashing and compare their performances.",
+      "CO4": "Implement dictionaries using various height balanced trees and also analyze the advantages and disadvantages of height balanced trees.",
+      "CO5": "Evaluate various patterns and word matching algorithms in terms of their complexity and efficiency."
+    },
+    "CO": {
+      "CO1": "Represent floating-point numbers according to IEEE standard and realize Booth's algorithm for multiplication and division operations on integers.",
+      "CO2": "Figure out functional units of the processor such as registers and Arithmetic Logical unit, instruction execution timing, bus operation, addressing modes, instruction formats.",
+      "CO3": "Attain the knowledge of micro programming and understand the concepts and design of memory hierarchy.",
+      "CO4": "Demonstrate the basics of the system topics: Multi stage instruction pipeline and hazards, super scalar and Parallel architectures.",
+      "CO5": "Understand the vector processing and parallelism in terms of a single processor and multi-processors."
+    },
+    "OS": {
+      "CO1": "Acquire basic knowledge about different functions, structures and design features of contemporary operating systems, to aid in apply and solve complex engineering problems.",
+      "CO2": "Analyze and formulate the problems, design the solutions, implement and demonstrate different process scheduling, Synchronization, and deadlock related algorithms.",
+      "CO3": "Design algorithmic experiments, analyze and interpret the data for different memory management techniques and their implementations.",
+      "CO4": "Differentiate and Demonstrate secondary storage structures, file systems, directory structures and their implementations. Select and apply appropriate disk scheduling algorithms.",
+      "CO5": "Understand the impact of the different protection and security threats in the context of social, safety, ethical, legal issues and design solutions and mechanisms including access control and information assurance."
+    },
+    "SE": {
+      "CO1": "The student will have a clear understanding of underlying principles of software engineering, software myths and thorough understanding of SE process models.",
+      "CO2": "The students will have exposure to requirements engineering process and related system models.",
+      "CO3": "The student will be able to appreciate software design process, design quality, design models and will be able to create architectural designs, component designs and UI designs.",
+      "CO4": "The students will develop a strategic approach to testing and will be able to appreciate the art of debugging.",
+      "CO5": "The students will understand the importance of software metrics and risk management."
+    },
+    "MFCS": {
+      "CO1": "Understand the process of concluding argument validity using propositional and predicate logic.",
+      "CO2": "Appreciate the applications of relations and functions with their suitability in the mathematical context.",
+      "CO3": "Explore diversified number of combinatorial techniques that form the primitive basics for solving the problems in counting process.",
+      "CO4": "Analyze the characteristic properties of algebraic structures for estimating their suitability in the field of Computer Science.",
+      "CO5": "Investigate the significance and role of Graph Theory in the process of modelling entities and events in the real time application domains."
+    },
+    "ADSJ Lab": {
+      "CO1": "Implement stacks and queues using user defined generic classes.",
+      "CO2": "Implement hashing, sets, stacks and queues using collection classes in java.util package.",
+      "CO3": "Implement dictionaries using various data structures like sorted list, and hashing.",
+      "CO4": "Implement dictionaries using various height balanced trees and analyze the advantages and disadvantages of height balanced trees.",
+      "CO5": "Implement Pattern Matching Algorithms."
+    },
+    "CASE Tools Lab": {
+      "CO1": "Design and implement projects using OO concepts.",
+      "CO2": "Use the UML analysis and design diagrams.",
+      "CO3": "Create code from design."
+    },
+    "OS Lab": {
+      "CO1": "Choose the best CPU scheduling algorithm for a given problem instance.",
+      "CO2": "Understand and implement deadlock avoidance algorithm.",
+      "CO3": "Identify the performance of various page replacement algorithms.",
+      "CO4": "Understand how file system and directories are managed at Kernel level.",
+      "CO5": "Appreciate how multiple processes are run, sharing the physical memory."
+    }
+  },
+  "III Year I Sem": {
+    "WT": {
+      "CO1": "To build a custom website with HTML, CSS, and Bootstrap.",
+      "CO2": "Demonstrate JavaScript, XML, DHTML and related Technologies.",
+      "CO3": "Implement the Database Connectivity and Component Technologies like Beans.",
+      "CO4": "Develop and deploy Servlet based web applications.",
+      "CO5": "Develop Server-side programming using JSP."
+    },
+    "ACD": {
+      "CO1": "Thoroughly understand formal language principles, employ finite state machines to solve problems in computing for recognizing languages and work with LEX tool to write lexical analyzer for programming languages like C, C++ and Java.",
+      "CO2": "Understand various parsing techniques and YAAC tool to write parser for programming languages like C, C++.",
+      "CO3": "Understand how to incorporate semantic actions and type information for identifiers and use them in performing type checking.",
+      "CO4": "Understand various storage organizations, allocation strategies, intermediate code representations and generation for various programming language constructs.",
+      "CO5": "Apply optimization techniques on intermediate code and learn to generate the target code using various target code generation techniques."
+    },
+    "DM": {
+      "CO1": "Display a comprehensive understanding of different data mining tasks and the algorithms most appropriate for addressing them. Evaluate and select appropriate Data mining algorithm for different Data Mining tasks.",
+      "CO2": "Assess raw input data and process it to provide suitable input for a range of Data mining algorithms.",
+      "CO3": "Discover and measure interesting patterns from different kinds of databases.",
+      "CO4": "Apply technique of classification to implement supervised learning mechanisms.",
+      "CO5": "Apply the techniques of clustering, and outlier data to implement unsupervised learning mechanisms."
+    },
+    "MPI": {
+      "CO1": "Describe the architecture of 8086 microprocessor, pin diagram, and timing diagrams of reading and write cycles.",
+      "CO2": "Understand how to use the instructions, assembler directives and operators to write an assembly language program.",
+      "CO3": "Understand the stack and interrupt structure related details and programming techniques.",
+      "CO4": "Interface peripherals like memories and I/O devices to 8086.",
+      "CO5": "Describe the architecture of 8051 microcontrollers with signal descriptions."
+    },
+    "MEFA": {
+      "CO1": "Familiarize with the fundamentals of Economics such as Demand function, Law of demand, Elasticity of demand and Demand Forecasting methods etc.",
+      "CO2": "Evaluate Economies of Scale and the Break-Even Point of the business activity.",
+      "CO3": "Understand the different Market Structures and Macro Economic concepts.",
+      "CO4": "Able to understand the accounting system and preparation of Final Accounts.",
+      "CO5": "Analyze Accounting Statements like Income Statement and Balance Sheet to understand financial performance of the business."
+    },
+    "WT Lab": {
+      "CO1": "Build a custom website with HTML, CSS, and Bootstrap.",
+      "CO2": "Demonstrate JavaScript, XML, DHTML and related Technologies.",
+      "CO3": "Implement the Database Connectivity and Component Technologies like Beans.",
+      "CO4": "Deploy the servlet technology & API.",
+      "CO5": "Construct the fundamentals of JSP."
+    },
+    "MPI Lab": {
+      "CO1": "Execute different programs for 8086 microprocessor in ASM.",
+      "CO2": "Interface various I/O Devices like a stepper motor, ADC, DAC etc. with 8086 microprocessor.",
+      "CO3": "Set up communication between two microprocessors.",
+      "CO4": "Execute programs for 8051 microcontrollers using IDE software."
+    },
+    "AECSS Lab": {
+      "CO1": "Evolve as effective communicators.",
+      "CO2": "Emerge as decision makers, time managers and good negotiators.",
+      "CO3": "Gain proficiency in resume writing and requisite interview skills.",
+      "CO4": "Collate ideas and information and organize them relevantly and coherently.",
+      "CO5": "Be empowered to use soft skills in the global context."
+    }
+  },
+  "III Year II Sem": {
+    "PSTP": {
+      "CO1": "Structure simple Python programs for solving problems.",
+      "CO2": "Decompose a Python program into functions.",
+      "CO3": "Read and write data from/to files and explore the Object-Oriented concepts.",
+      "CO4": "Create Framework and explore the Database connectivity.",
+      "CO5": "Handle data and make analysis with Numpy and Matplot lib."
+    },
+    "AWT": {
+      "CO1": "To understand the use of prototyping, ES6 classes, advanced JavaScript concepts and make use of the XMLHttpRequest API.",
+      "CO2": "To define, compare and use of the four types of NoSQL Databases.",
+      "CO3": "To design and build robust REST APIs using Node.js, demonstrate the Express framework and work with Typescript.",
+      "CO4": "To implement one way / two-way data binding for data interpolation, dependency injection and design single page application using Angular2.",
+      "CO5": "To create smaller components to build Interactive User interfaces using ReactJS."
+    },
+    "DAA": {
+      "CO1": "Understand asymptotic notations to analyze the performance of algorithms.",
+      "CO2": "Apply algorithms for performing operations on graphs and trees.",
+      "CO3": "Identify the differences in design techniques and apply to solve optimization problems.",
+      "CO4": "To apply algorithm design paradigms for complex problems and solve novel problems, by choosing the appropriate algorithm design technique for their solution and justify their selection.",
+      "CO5": "Understand concepts of non-deterministic algorithms."
+    },
+    "CN": {
+      "CO1": "Understand network hardware and software issues and reference models.",
+      "CO2": "Demonstrate various error correction and detection techniques, framing techniques & channel access protocols.",
+      "CO3": "Realize address mapping and routing protocols in network layer.",
+      "CO4": "Identify the differences between connection oriented & connection less services congestion control techniques and QOS in transport layer.",
+      "CO5": "Demonstrate user-level network programs using the underlying network protocols at application layer."
+    },
+    "PE-I PAI": {
+      "CO1": "Identify the scope for agent-based engineering solutions using AI based tools.",
+      "CO2": "Demonstrate advanced search strategies.",
+      "CO3": "Master the knowledge representation-based AI solutions.",
+      "CO4": "Understand the role of multi-agent systems in AI.",
+      "CO5": "Give a complete basic knowledge about PSO and AI."
+    },
+    "PE-I ADB": {
+      "CO1": "Understand issues related to Distributed database Design.",
+      "CO2": "Apply Partitioning techniques to databases.",
+      "CO3": "Design and develop query processing strategies.",
+      "CO4": "Understand transaction processing and concurrency control in distributed databases.",
+      "CO5": "Learn distributed concurrency control based on the distinguished copy techniques and the voting methods."
+    },
+    "PE-I ES": {
+      "CO1": "Understand inherent complexity in the design of an embedded system.",
+      "CO2": "Explore different functional units of a micro-controller with 8051 as an example.",
+      "CO3": "Explore tools and techniques in an embedded environment and will be able to develop assembly language programs for 8051 based systems.",
+      "CO4": "Appreciate the primitives of a real time operating system and will be able to differentiate between a generic OS and an RTOS.",
+      "CO5": "Develop and deploy an assembly language program from host machine to target machine."
+    },
+    "PE-I BDA": {
+      "CO1": "Describe big data and use cases from selected business domains.",
+      "CO2": "Explain NoSQL big data management.",
+      "CO3": "Install, configure, and run Hadoop and HDFS.",
+      "CO4": "Perform map-reduce analytics using Hadoop.",
+      "CO5": "Use Hadoop related tools such as HBase, Cassandra, Pig, and Hive for big data."
+    },
+    "PSTP Lab": {
+      "CO1": "Write Python programs using control statements and data structures.",
+      "CO2": "Develop modular programming skills using modules and packages.",
+      "CO3": "Develop applications to read and write data from/to files and explore the Object-Oriented concepts.",
+      "CO4": "Familiar with Django framework and develop sample applications.",
+      "CO5": "Familiarize with Numpy and Matplot lib and apply them for data visualization-based applications."
+    },
+    "AWT Lab": {
+      "CO1": "To understand the use of prototyping, ES6 classes, advanced JavaScript concepts and make use of the XMLHttpRequest API.",
+      "CO2": "To define, compare and use of the four types of NoSQL Databases.",
+      "CO3": "To design and build robust REST APIs using Node.js, demonstrate the Express framework and work with Typescript.",
+      "CO4": "To implement one way / two way data binding for data interpolation, dependency injection and design single page application using Angular2.",
+      "CO5": "To create smaller components to build Interactive User interfaces using ReactJS."
+    },
+    "MAD Lab": {
+      "CO1": "Comprehend the role of Activities in Android applications and develop apps using two or more activities.",
+      "CO2": "Develop Layouts and views in android using sample applications.",
+      "CO3": "Demonstrate the ways of storing data persistently in Android using databases, shared preferences and files.",
+      "CO4": "Appreciate and apply content providers for sharing data between applications.",
+      "CO5": "Comprehend the scheme of storing and reading data from internal and external memory."
+    }
+  },
+  "IV Year I Sem": {
+    "ILP": {
+      "CO1": "Apply the concepts of basic commands, filters and write simple scripts to automate application building.",
+      "CO2": "Appreciate File abstraction and understand the implementation of basic commands on files and directories using system calls and library functions.",
+      "CO3": "Demonstrate process abstraction and event handling through signal dispositions.",
+      "CO4": "Implement concurrent applications using Processes and Thread API.",
+      "CO5": "Demonstrate process communication semantics using SVR4 IPC objects and sockets."
+    },
+    "CNS": {
+      "CO1": "Understand the theory of fundamental cryptography, encryption and decryption algorithm.",
+      "CO2": "Build a secure authentication system.",
+      "CO3": "Understand the key management principles and implement the digital signature.",
+      "CO4": "Develop the secured IP and the secured Web for electronic transactions.",
+      "CO5": "Familiarize with the classification of intruders, viruses and study the mechanisms to counter them and be familiar with the concepts of Firewalls, Trusted systems and IDS."
+    },
+    "PE-II ANN&FL": {
+      "CO1": "Understand the basics of neural networks and organization of Biological Neural Network (BNN) model and illustrates the idea of applications of Artificial Neural Networks (ANN). To learn how to solve problems of ANN with different architectures.",
+      "CO2": "Get idea of layered and feed forward neural network. To know how to use convergence in artificial networks and to get idea of multilayer feed forward neural networks. To learn how to simulate back-propagation algorithm with computer gradient method.",
+      "CO3": "Learn how to calculate associative memories and associative matrix memories. To design Bi-directional Associative memories and memory-based learning algorithms.",
+      "CO4": "Design a fuzzy based system and membership functions of different systems which consists of triangular and trapezoidal functions.",
+      "CO5": "Understand fuzzification and de-fuzzification methods."
+    },
+    "PE-II WNMC": {
+      "CO1": "Apply advanced data communication methods and networking protocols for wireless and mobile environment.",
+      "CO2": "Utilize and employ application frame works for developing mobile applications including under disconnected and weakly connected environment.",
+      "CO3": "Select components and networks for particular application.",
+      "CO4": "Understand issues related to client server computing with adaptation, power aware and context aware computing and MANET Protocols.",
+      "CO5": "Have a good understanding of how the underlying wireless and mobile communication networks work, their technical features, and what kinds of applications they can support."
+    },
+    "PE-II CC": {
+      "CO1": "Learn about Cloud Provider, User and Services provided by Cloud.",
+      "CO2": "Explore the Cloud Architecture, SOA.",
+      "CO3": "Realize the importance of Virtualization, how it is useful to Cloud Computing.",
+      "CO4": "Learn federation presence, identity and privacy in the cloud, common standards in cloud computing.",
+      "CO5": "Know about end user access to cloud computing and also mobile platform virtualization."
+    },
+    "PE-II IOT": {
+      "CO1": "Understand the characteristics, protocols and communication models required for logical design of IoT.",
+      "CO2": "Realize the hardware platforms for implementing and interfacing the IoT based board with different peripheral devices and serial communication devices.",
+      "CO3": "Gain knowledge on protocol stacks for IoT and M2M networks and configurations.",
+      "CO4": "Able to integrate devices and develop an application that can communicate through IoT Cloud.",
+      "CO5": "Implement various case studies in IoT design."
+    },
+    "PE-III AML": {
+      "CO1": "Differentiate between Supervised, Unsupervised, Semi –Supervised Machine Leaning Approaches.",
+      "CO2": "Apply Specific Supervised Machine Learning Algorithm for a Particular Problem using decision trees. Design a neural network to solve a classification problem.",
+      "CO3": "Evaluate a hypothesis and apply Bayesian learning to a classification problem.",
+      "CO4": "Apply the basics of Computational learning theory and instance-based learning to solve a problem.",
+      "CO5": "Build optimal classifier using Genetic Algorithm."
+    },
+    "PE-III STM": {
+      "CO1": "Apply basic concepts of testing, path testing, path expression, flow graph and predicate testing for testing code.",
+      "CO2": "Acquire knowledge of domain errors, type’s domain bugs and sources of domain errors.",
+      "CO3": "Appreciate the purpose of logic-based testing using decision tables, reduction using KV charts and integration testing as a phase of testing.",
+      "CO4": "Represent a problem using graph matrices, node reduction algorithm, understand the functional and non-functional system testing techniques.",
+      "CO5": "Select test cases for Acceptance testing based on required criteria, and understand different concepts of Object Oriented testing."
+    },
+    "PE-III DC": {
+      "CO1": "Discuss trends in Distributed Systems.",
+      "CO2": "Apply network virtualization.",
+      "CO3": "Apply remote method invocation and objects.",
+      "CO4": "Design process and resource management systems."
+    },
+    "PE-III CF": {
+      "CO1": "Implement the computer forensics methodology and steps taken by computer forensic scientist.",
+      "CO2": "Recover and backup the data along with verification, authentication and practical implementation.",
+      "CO3": "Collect the evidence by following data seizure methods.",
+      "CO4": "Understand the standard procedures for network forensics and develop various network forensic tools.",
+      "CO5": "Understand mobile device forensics and file systems."
+    },
+    "LP Lab": {
+      "CO1": "Apply the concepts of basic commands, filters and write simple scripts to automate application building.",
+      "CO2": "Realize the implementation of basic commands on files and directories.",
+      "CO3": "Demonstrate process creation and exception handling using signals.",
+      "CO4": "Implement concurrent applications using Processes and Threads.",
+      "CO5": "Implement client server applications using SVR4 IPC objects."
+    },
+    "CN&S Lab": {
+      "CO1": "Implement framing, error detection techniques of data link layer.",
+      "CO2": "Design and Implement different routing algorithms in network layer.",
+      "CO3": "Design and Implement security algorithms in application layer."
+    },
+    "Technical Seminar": {
+      "CO1": "Understand recent trends in Information Technology.",
+      "CO2": "Able to prepare Power Point Presentation and Present it to the committee.",
+      "CO3": "Able to understand Advanced Topics by going through various research papers(IEEE) and understand the concepts.",
+      "CO4": "Prepare a detailed report on the topic being allocated.",
+      "CO5": "Ready to pursue higher studies(MS,Ph.D) in the advanced specializations of Information Technology."
+    }
+  },
+  "IV Year II Sem": {
+    "PE-IV DL": {
+      "CO1": "Use Deep networks for solving different problems related to data visualization.",
+      "CO2": "Formalize tasks in terms of Computational Complexity via neural networks and Deep Learning architectures.",
+      "CO3": "Design deep learning models to solve data-rich tasks.",
+      "CO4": "Build datasets, tune and train deep learning models with deep learning libraries.",
+      "CO5": "Understand the inner mechanisms of Deep learning neural techniques during training process and Vectorization."
+    },
+    "PE-IV WASN": {
+      "CO1": "Understand basics of MANETs and routing protocols.",
+      "CO2": "Understand how TCP modified for wireless networks.",
+      "CO3": "Design of different layers of WSN.",
+      "CO4": "Understand issues and challenges of security in WSNs.",
+      "CO5": "Design and implement sensor network protocols in the NesC/TinyOS."
+    },
+    "PE-IV GPUC": {
+      "CO1": "Understand the role of Multi-core and Many core processors.",
+      "CO2": "Understand the topology and architecture of GPUs.",
+      "CO3": "Write programs using CUDA, identify issues and debug them.",
+      "CO4": "Implement efficient algorithms in GPUs for common application kernels, such as matrix multiplication.",
+      "CO5": "Write simple programs using OpenCL."
+    },
+    "PE-IV IRS": {
+      "CO1": "Understand the data structures like Inverted Indices used in Information retrieval systems.",
+      "CO2": "Understand the basics of web search.",
+      "CO3": "Understand the different techniques for compression of an index including the dictionary and its posting list.",
+      "CO4": "Understand various text search algorithms.",
+      "CO5": "Understand the evaluation metrics of information system."
+    },
+    "PE-V DP": {
+      "CO1": "Appreciate the basic concepts of design patterns and able to know how to select and use the design patterns.",
+      "CO2": "Identify the design pattern in the existing code and use of creational patterns.",
+      "CO3": "Apply and use the structural patterns.",
+      "CO4": "Identify and use the behavioral patterns.",
+      "CO5": "Find and catalog patterns in the object-oriented software."
+    },
+    "PE-V EC": {
+      "CO1": "Understand various types of e-commerce and business models.",
+      "CO2": "Understand various Technologies used for ecommerce and their limitations.",
+      "CO3": "Understand various benefits of online marketing & advertising strategies.",
+      "CO4": "Explore various payment systems and security issues in e-payments.",
+      "CO5": "Explore different Applications and their usage."
+    },
+    "PE-V CG": {
+      "CO1": "Know the application areas of computer graphics, overview of graphics systems and output primitives.",
+      "CO2": "Understand OpenGL as a cross platform application programming interface (API).",
+      "CO3": "Apply 2D geometric transforms,2D viewing using OpenGl transformation matrices.",
+      "CO4": "Create programs using OpenGL APIs for rendering 2D and 3D vector graphics.",
+      "CO5": "Use visible surface detection methods and computer animation."
+    },
+    "PE-V BCT": {
+      "CO1": "Understand the structure of a blockchain and why/when it is better than a simple distributed database.",
+      "CO2": "Evaluate the setting where a blockchain based structure may be applied, its potential and its limitations.",
+      "CO3": "Understand what constitutes a “smart” contract, what are its legal implications and what it can and cannot do, now and in the near future.",
+      "CO4": "Attain awareness of the new challenges that exist in monetizing businesses around blockchains and smart contracts.",
+      "CO5": "Describe and understand the differences between the most prominent blockchain structures and permissioned blockchain service providers, as well as rising alliances and networks."
+    }
+  }
+}

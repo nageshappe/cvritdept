@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import "./VisionMission.css"
+import "../css/VisionMission.css"
 
 function ResearchSidebar() {
   return (

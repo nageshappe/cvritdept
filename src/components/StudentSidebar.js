@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import "./VisionMission.css"
+import "../css/VisionMission.css"
 
-function ResearchSidebar() {
+function StudentSidebar() {
   return (
     <div className="sidebar">
             <ul>
@@ -27,4 +27,4 @@ function ResearchSidebar() {
   );
 }
 
-export default ResearchSidebar;
+export default StudentSidebar;

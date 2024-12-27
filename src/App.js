@@ -6,11 +6,9 @@ import VisionMissionPage from './pages/VisionMissionPage';
 import FacultyPage from './pages/FacultyPage';
 import ResearchPage from './pages/ResearchPage';
 import Home from './components/Home';
-import './App.css';
 import PEOsPage from './pages/PEOsPage';
 import POsPage from './pages/POsPage';
 import CourseOutcomes from './pages/COsPage';
-import COS18Page from './pages/COS18Page';
 import PatentsPage from './pages/PatentsPage';
 import PublicationsPage from './pages/PublicationsPage';
 import FDPsPage from './pages/FDPsPage';
@@ -21,6 +19,11 @@ import IngenuityPage from './pages/IngenuityPage';
 import NityGrityPage from './pages/NityGrityPage';
 import StudentWorkshopsPage from './pages/StudentWorkshopsPage';
 import GuestLecturesPage from './pages/GuestLecturesPage';
+import CourseOutcomes22 from './pages/COs22Page';
+import './App.css';
+import InfrastructurePage from './pages/InfrastructurePage';
+import LabInfoPage from './pages/LabInfoPage';
+import LibraryInfoPage from './pages/LibraryInfoPage';
 
 function App() {
   return (
@@ -28,6 +31,7 @@ function App() {
       <div className="App">
         <Navbar />
         <div className="main-layout">
+          
           <div className="content">
             <Routes>
               <Route path="/" element={<Home />} />
@@ -37,8 +41,8 @@ function App() {
               
               <Route path="/peos" element={<PEOsPage/>} />
               <Route path="/pos" element={<POsPage/>} />
-              <Route path="/cos" element={<CourseOutcomes/>} />
-              <Route path="/cos18" element={<COS18Page/>} />
+              <Route path="/cos18" element={<CourseOutcomes/>} />
+              <Route path="/cos" element={<CourseOutcomes22/>} />
               
               <Route path="/patents" element={<PatentsPage/>} />
               <Route path="/publications" element={<PublicationsPage/>} />
@@ -50,6 +54,11 @@ function App() {
               <Route path="/nitygrity" element={<NityGrityPage/>} />
               <Route path="/workshops" element={<StudentWorkshopsPage/>} />
               <Route path="/guestlectures" element={<GuestLecturesPage/>} />
+              
+              
+              <Route path="/infrastructure" element={<InfrastructurePage/>} />
+              <Route path="/labs" element={<LabInfoPage/>} />
+              <Route path="/library" element={<LibraryInfoPage/>} />
 
             </Routes>
           </div>

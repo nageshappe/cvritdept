@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import papers from './conferences.json'
+import papers from '../data/conferences.json'
 import ResearchSidebar from '../components/ResearchSidebar';
 const ConferencesPage = () => {
     const [selectedYear, setSelectedYear] = useState(Object.keys(papers.papers)[0]);

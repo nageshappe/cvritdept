@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import ResearchSidebar from '../components/ResearchSidebar';
-import "../components/Research.css"
-import fdps from  "./fdps.json"
+import "../css/Research.css"
+import fdps from  "../data/fdps.json"
 const FDPsPage = () => {
 
   // const [selectedYear, setSelectedYear] = useState(Object.keys(fdps.faculty_workshops)[0]);

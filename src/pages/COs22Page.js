@@ -1,15 +1,15 @@
 // export default CourseOutcomes;
 import React, { useState } from 'react';
 // Static import of JSON file
-import courseOutcomesData from '../data/cosData.json';
+import courseOutcomes22Data from '../data/co22Data.json';
 import Sidebar from '../components/Sidebar';
 
-const CourseOutcomes = () => {
+const CourseOutcomes22 = () => {
   const [selectedSemester, setSelectedSemester] = useState('');
   const [selectedSubject, setSelectedSubject] = useState('All'); // Default to 'All'
 
   // Use the imported JSON data directly
-  const courseOutcomes = courseOutcomesData;
+  const courseOutcomes = courseOutcomes22Data;
 
   // Handle semester selection change
   const handleSemesterChange = (e) => {
@@ -50,14 +50,10 @@ const CourseOutcomes = () => {
   return (
     <div className='main-page'>
         <Sidebar/>
-      {/* Semester Selection */}
-      
-
-        
+             
       {/* Display Course Outcomes */}
       <div className="main-content">
-        <h1 align="center"> R18 Course Outcomes</h1>      
-      
+      <h1 align="center">R22 Course Outcomes</h1>
       <label>Select Semester: </label>
         <select value={selectedSemester} onChange={handleSemesterChange}>
           <option value="">Select Semester</option>
@@ -111,4 +107,4 @@ const CourseOutcomes = () => {
   );
 };
 
-export default CourseOutcomes;
+export default CourseOutcomes22;

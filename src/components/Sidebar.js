@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import "./VisionMission.css"
+import "../css/VisionMission.css"
 function Sidebar() {
   return (
     <div className="sidebar">
@@ -15,10 +15,10 @@ function Sidebar() {
                 <Link to="/pos">PO's</Link>
               </li>
               <li>
-                <Link to="/cos">CO's</Link>
+                <Link to="/cos18">CO-R18</Link>
               </li>
               <li>
-                <Link to="/cos18">CO's18</Link>
+                <Link to="/cos">CO-R22</Link>
               </li>
             </ul>
           </div>
