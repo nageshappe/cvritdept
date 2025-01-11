@@ -7,12 +7,12 @@ const POsPage = () => {
         <div className='main-page'>
             <Sidebar />
             <div className="main-content">
-                <h2>Program Outcomes (POs)</h2>
+                <h2 className="text-center">Program Outcomes (POs)</h2>
 
-                <table>
+                <table className='table table-bordered'>
                     <thead>
                         <tr>
-                            <th>PO Number</th>
+                            <th>PO No.</th>
                             <th>Description</th>
                         </tr>
                     </thead>
@@ -69,7 +69,7 @@ const POsPage = () => {
                 </table>
                 <h2>Program Specific Outcomes (PSOs)</h2>
 
-        <table>
+        <table className="table table-bordered">
           <thead>
             <tr>
               <th>PSO No.</th>

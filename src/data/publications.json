@@ -1,378 +1,419 @@
 {
   "publicationsdata": {
-    "2024": [
+    "2024-25": [
       {
         "S.No": 1,
-        "Name of the Faculty": "Dr.J. Sengathir",
-        "Title of Publication / Paper": "Deep Learning-Based Multiclass Classification of Cotton Leaf Images Using ResNet and Transfer Learning",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "Communications in Computer and Information Science",
-        "Year": "July, 2024"
+        "Name of the Faculty": "Dr. Bipin Bihari Jayasingh",
+        "Venue/Place Or Publications": "International Journal of Computer Engineering Systems",
+        "Year": "Nov 2024",
+        "Title of Publication / Paper": "Deep Reinforcement Learning for Dynamic Task Scheduling in Edge-Cloud Environments",
+        "Authors": "",
+        "Indexing (Scopus/ DBLP/ SCI)": "",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 2,
-        "Name of the Faculty": "Dr.J. Sengathir",
-        "Title of Publication / Paper": "Snow Leopard Optimization Algorithm-Based Energy Efficient Cluster Head Selection in Internet of Things",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "Lecture Notes in Networks and Systems",
-        "Year": "July, 2024"
+        "Name of the Faculty": "Dr. K.Sarangam",
+        "Venue/Place Or Publications": "International Journal of Computational and Experimental Science and Engineering",
+        "Year": "Nov 2024",
+        "Title of Publication / Paper": "A Smart Irrigation System Using the IoT and Advanced Machine Learning Model- A Systematic Literature Review",
+        "Authors": "Ponugoti Kalpana, L. Smitha, Dasari Madhavi, Shaik Abdul Nabi, G. Kalpana, Sarangam Kodati",
+        "Indexing (Scopus/ DBLP/ SCI)": "",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 3,
-        "Name of the Faculty": "Dr.J. Sengathir",
-        "Title of Publication / Paper": "Hybrid Sentiment Polarity Prediction Scheme in Social Networks using Attention Mechanism and Improved CNN",
+        "Name of the Faculty": "Mr. Anupkant S.",
+        "Venue/Place Or Publications": "International Journal of Communication Systems",
+        "Year": "Aug 2024",
+        "Title of Publication / Paper": "Hybrid Red Deer and Improved Fireworks Optimization Algorithm–based Clustering Protocol for Improving Network Longevity with Energy Stability in WSNs",
+        "Authors": "Sabnekar Anupkant, Garapati Yugandhar",
         "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "Lecture Notes in Networks and Systems",
-        "Year": "July, 2024"
+        "Journal Type": "International Journal"
+      }
+    ],
+    "2023-2024": [
+      {
+        "S.No": 1,
+        "Name of the Faculty": "Dr. Bipin Bihari Jayasingh",
+        "Venue/Place Or Publications": "Journal of Theoretical and Applied Information Technology",
+        "Year": "Nov-23",
+        "Title of Publication / Paper": "Reinforcement Learning for Energy Efficient Task Scheduling in cloud",
+        "Authors": "D Mamatha Rani, Supteethi K P, Bipinbihari Jayasingh",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
+      },
+      {
+        "S.No": 2,
+        "Name of the Faculty": "Dr.A.Malla Reddy",
+        "Venue/Place Or Publications": "J. Electrical Systems",
+        "Year": "Dec-23",
+        "Title of Publication / Paper": "Enhancing Cloud Data Privacy with a Scalable Hybrid Approach: HE-DP-SMC",
+        "Authors": "Dr. Jaibir Singh, Dr.A.MallaReddy, Dr.Vasavi Bande, A.Lakshmanarao, Dr. Goda Srinivasa Rao, K.Samunnisa",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
+      },
+      {
+        "S.No": 3,
+        "Name of the Faculty": "Dr.A.Malla Reddy",
+        "Venue/Place Or Publications": "SSRG International Journal of Electronics and Communication Engineering",
+        "Year": "Mar-24",
+        "Title of Publication / Paper": "Adaptive Fog Computing Framework (AFCF): Bridging IoT and Blockchain for Enhanced Data Processing and Security",
+        "Authors": "K. Vinod Kumar Reddy, Vasavi Bande, Novy Jacob, A. MallaReddy, Sk Khaja Shareef, Sriharsha Vikruthi",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 4,
-        "Name of the Faculty": "Dr J Sengathir",
-        "Title of Publication / Paper": "American Zebra Optimization Algorithm-based Clustering Protocol for Reliable Data Routing in Internet of Things",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "Lecture Notes in Networks and Systems",
-        "Year": "July, 2024"
+        "Name of the Faculty": "Dr.J.Sengathir",
+        "Venue/Place Or Publications": "Wireless Personal Communications",
+        "Year": "Aug-23",
+        "Title of Publication / Paper": "A Review on Machine Learning-based Malware Detection Techniques for Internet of Things (IoT) Environments",
+        "Authors": "S. Sasikala & Sengathir Janakiraman",
+        "Indexing (Scopus/ DBLP/ SCI)": "SCI and Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 5,
         "Name of the Faculty": "Dr.J.Sengathir",
-        "Title of Publication / Paper": "Energy-Proficient Adaptive Queuing Model-Based Clustering Scheme for Improving Network Lifetime in Wireless Sensor Networks",
+        "Venue/Place Or Publications": "Transactions on Emerging Telecommunications Technologies",
+        "Year": "Nov-23",
+        "Title of Publication / Paper": "Adaptive Guided Differential Evolution-based Slime Mould Algorithm-based efficient Multi-objective Task Scheduling for Cloud Computing Environments",
+        "Authors": "R. Nithiavathy, Sengathir Janakiraman, M. Deva Priya",
         "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "Lecture Notes in Networks and Systems",
-        "Year": "July, 2024"
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 6,
-        "Name of the Faculty": "A.Seetharam Nagesh",
-        "Title of Publication / Paper": "Applications of Deep learning techniques for sentiment analysis in amazon reviews",
-        "Indexing (Scopus/ DBLP/ SCI)": "",
-        "Venue/Place Or Publications": "Data science and applications",
-        "Year": "2024"
+        "Name of the Faculty": "Dr.J.Sengathir",
+        "Venue/Place Or Publications": "Multimedia Tools and Applications",
+        "Year": "Jan-24",
+        "Title of Publication / Paper": "Energy efficient clustering protocol using hybrid bald eagle search optimization algorithm for improving network longevity in WSNs",
+        "Authors": "Sengathir Janakiraman",
+        "Indexing (Scopus/ DBLP/ SCI)": "SCI and Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 7,
-        "Name of the Faculty": "A.Seetharam Nagesh",
-        "Title of Publication / Paper": "Generative Adversial quest : Enhancing question and answer generation through GAN",
-        "Indexing (Scopus/ DBLP/ SCI)": "",
-        "Venue/Place Or Publications": "Lecture notes in Networks and systems",
-        "Year": "2024"
+        "Name of the Faculty": "Dr. K.Sarangam",
+        "Venue/Place Or Publications": "Wireless Networks",
+        "Year": "Jan-24",
+        "Title of Publication / Paper": "Mlora-CBF: efficient cluster-based routing protocol against resource allocation using modified location routing algorithm with cluster-based flooding",
+        "Authors": "Amjad Aldweesh, Sarangam Kodati, Mohammad Alauthman, Ibrahim Aqeel, Ibrahim Mohsen Khormi, M. Dhasaratham & R. Lakshmana Kumar",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 8,
-        "Name of the Faculty": "A.Seetharam Nagesh",
-        "Title of Publication / Paper": "Enhancing brain cancer detection and localization using Yolov8 object detection : A Deep Learning Approach",
-        "Indexing (Scopus/ DBLP/ SCI)": "",
-        "Venue/Place Or Publications": "Hand book on Machine Learning and Generative AI in image health care",
-        "Year": "2024"
+        "Name of the Faculty": "Dr. K.Sarangam",
+        "Venue/Place Or Publications": "International Journal of Communication Systems",
+        "Year": "May-24",
+        "Title of Publication / Paper": "Hybrid grasshopper and Harris hawk optimization algorithm-based energy efficient routing protocol for extending network lifetime in wireless sensor networks",
+        "Authors": "Sarangam Kodati, Meghavath Dhasaratham, Bodla Kishor, Garlapati Narayana",
+        "Indexing (Scopus/ DBLP/ SCI)": "SCIE and Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 9,
-        "Name of the Faculty": "Mr.Anupkant .S",
-        "Title of Publication / Paper": "Hybrid Red Deer and Improved Fireworks Optimization Algorithm–based Clustering Protocol for improving network longevity with energy stability in WSNs",
+        "Name of the Faculty": "A.SeethaRam Nagesh",
+        "Venue/Place Or Publications": "The open access journal for Computer Science Research",
+        "Year": "Jul-23",
+        "Title of Publication / Paper": "CAM-YOLO: tomato detection and classification based on improved YOLOv5 using combining attention mechanism",
+        "Authors": "Seetharam Nagesh Appe, Arulselvi G, Balaji GN",
         "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "International Journal of Communication Systems",
-        "Year": "August, 2024"
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 10,
-        "Name of the Faculty": "Swathi Agarwal",
-        "Title of Publication / Paper": "A Novel way of finding the irregularity present in the system through design of cps system",
+        "Name of the Faculty": "Mr. K. Veeranjaneyulu",
+        "Venue/Place Or Publications": "Archives of Computational Methods in Engineering",
+        "Year": "May-24",
+        "Title of Publication / Paper": "Swarm Intelligent Metaheuristic Optimization Algorithms-Based Artificial Neural Network Models for Breast Cancer Diagnosis: Emerging Trends, Challenges and Future Research Directions",
+        "Authors": "K. Veeranjaneyulu, M. Lakshmi & Sengathir Janakiraman",
         "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "2024 4th International Conference on Advance Computing and Innovative Technologies in Engineering, ICACITE 2024",
-        "Year": "August, 2024"
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 11,
-        "Name of the Faculty": "Ms. G.Shailaja",
-        "Title of Publication / Paper": "A Way to Enhance the Energy Efficient Level in the Field of WN using APSORM",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "2024 4th International Conference on Advance Computing and Innovative Technologies in Engineering, ICACITE 2024",
-        "Year": "August, 2024"
+        "Name of the Faculty": "Swathi Agarwal",
+        "Venue/Place Or Publications": "Wireless Personal Communications, Journal",
+        "Year": "Jul-23",
+        "Title of Publication / Paper": "Region Threshold Distributed Energy Efficient Clustering (R-TDEEC): A Protocol For Area Monitoring Wireless Sensor Networks Using Reinforcement Learning",
+        "Authors": "Rakesh Kumar Godi & Swathi Agarwal",
+        "Indexing (Scopus/ DBLP/ SCI)": "IEEE, Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 12,
-        "Name of the Faculty": "Ms. S.Swetha",
-        "Title of Publication / Paper": "Design of Efficient Matrix Multiplication Processing Elements in Systolic Arrays using Shift and Bit Dependent Conditional Add Approach",
+        "Name of the Faculty": "Swathi Agarwal",
+        "Venue/Place Or Publications": "Knowledge and Information systems, Journal",
+        "Year": "Dec-23",
+        "Title of Publication / Paper": "A smart intelligent approach based on hybrid group search and pelican optimization algorithm for data stream clustering",
+        "Authors": "Swathi Agarwal & C. R. K. Reddy",
         "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "2024 3rd International Conference on Artificial Intelligence for Internet of Things, AIIoT 2024",
-        "Year": "July, 2024"
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 13,
-        "Name of the Faculty": "Ms. Suhasini S",
-        "Title of Publication / Paper": "The Efficient Energy Routing Strategy Making Through Hybrid Techniques of ANFIS and SVM",
+        "Name of the Faculty": "Dr.A.Malla Reddy",
+        "Venue/Place Or Publications": "Strad Research",
+        "Year": "Jul-23",
+        "Title of Publication / Paper": "Audio Sentiment Analysis for Outline of Classification and segmentation using Artificial Neural Networks Approach",
+        "Authors": "",
         "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "2024 4th International Conference on Advance Computing and Innovative Technologies in Engineering, ICACITE 2024",
-        "Year": "August, 2024"
+        "Journal Type": "National Journal"
       },
       {
         "S.No": 14,
-        "Name of the Faculty": "Ms. Suhasini S",
-        "Title of Publication / Paper": "A Deep Review to Find the Most Accurate Method among KNN,RF and MLP for Predicting Alzheimer Disease",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "2024 4th International Conference on Advance Computing and Innovative Technologies in Engineering, ICACITE 2024",
-        "Year": "August, 2024"
+        "Name of the Faculty": "Mr. C.V.S. Satyamurthy",
+        "Venue/Place Or Publications": "CVR Journal of Science and Technology",
+        "Year": "Jun-24",
+        "Title of Publication / Paper": "An Analysis on Recent Approaches for Image Captioning",
+        "Authors": "C.V.S. Satyamurthy",
+        "Indexing (Scopus/ DBLP/ SCI)": "Google Scholar",
+        "Journal Type": "National Journal"
       }
     ],
-    "2023": [
-      {
-        "S.No": 1,
-        "Name of the Faculty": "Dr. Bipin Bihari Jaya Singh",
-        "Title of Publication / Paper": "Prediction of mental health illness using machine learning for technical employees",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "AIP Conference Proceedings",
-        "Year": "Sept, 2023"
-      },
-      {
-        "S.No": 2,
-        "Name of the Faculty": "Dr. Bipin Bihari Jaya Singh",
-        "Title of Publication / Paper": "Reinforcement Learning for Energy Efficient Task Scheduling in cloud",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "Journal of Theoretical and Applied Information Technology",
-        "Year": "Nov, 2023"
-      },
-      {
-        "S.No": 3,
-        "Name of the Faculty": "Dr. Bipin Bihari Jaya Singh",
-        "Title of Publication / Paper": "Identification of Sign Language Alphabets on Static Images Using Deep Learning",
-        "Indexing (Scopus/ DBLP/ SCI)": "IEEE, Scopus",
-        "Venue/Place Or Publications": "Institute of Electrical and Electronics Engineers Inc.",
-        "Year": "March, 2024",
-        "DOI": "10.1109/ESCI59607.2024.10497208"
-      },
-      {
-        "S.No": 4,
-        "Name of the Faculty": "Dr. A. Malla Reddy",
-        "Title of Publication / Paper": "Enhancing Cloud Data Privacy with a Scalable Hybrid Approach: HE-DP-SMC",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "Journal of Electrical Systems",
-        "Year": "Dec, 2023"
-      },
-      {
-        "S.No": 5,
-        "Name of the Faculty": "Dr. A. Malla Reddy",
-        "Title of Publication / Paper": "Adaptive Fog Computing Framework (AFCF): Bridging IoT and Blockchain for Enhanced Data Processing and Security",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "SSRG International Journal of Electronics and Communication Engineering",
-        "Year": "March, 2024"
-      },
-      {
-        "S.No": 6,
-        "Name of the Faculty": "Dr. A. Malla Reddy",
-        "Title of Publication / Paper": "The Potential of Cloud Computing in Medical Big Data Processing Systems",
-        "Indexing (Scopus/ DBLP/ SCI)": "Wiley",
-        "Venue/Place Or Publications": "",
-        "Year": "Feb, 2024"
-      },
-      {
-        "S.No": 7,
-        "Name of the Faculty": "Dr. J. Sengathir",
-        "Title of Publication / Paper": "A Review on Machine Learning-based Malware Detection Techniques for Internet of Things (IoT) Environments",
-        "Indexing (Scopus/ DBLP/ SCI)": "Springer",
-        "Venue/Place Or Publications": "Wireless Personal Communications",
-        "Year": "Aug, 2023"
-      },
-      {
-        "S.No": 8,
-        "Name of the Faculty": "Dr. J. Sengathir",
-        "Title of Publication / Paper": "Dynamic butterfly optimization algorithm-based task scheduling for minimizing energy consumption in distributed green data centers",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "Self-Powered Cyber Physical Systems",
-        "Year": "Sept, 2023"
-      },
-      {
-        "S.No": 9,
-        "Name of the Faculty": "Dr. J. Sengathir",
-        "Title of Publication / Paper": "Energy efficient clustering protocol using hybrid bald eagle search optimization algorithm for improving network longevity in WSNs",
-        "Indexing (Scopus/ DBLP/ SCI)": "Springer",
-        "Venue/Place Or Publications": "Multimedia Tools and Applications",
-        "Year": "Jan, 2024"
-      },
-      {
-        "S.No": 10,
-        "Name of the Faculty": "Dr. J. Sengathir",
-        "Title of Publication / Paper": "Adaptive Guided Differential Evolution-based Slime Mould Algorithm-based efficient Multi-objective Task Scheduling for Cloud Computing Environments",
-        "Indexing (Scopus/ DBLP/ SCI)": "John Wiley and Sons Inc",
-        "Venue/Place Or Publications": "Transactions on Emerging Telecommunications Technologies",
-        "Year": "Nov, 2023"
-      },
-      {
-        "S.No": 11,
-        "Name of the Faculty": "Dr. J. Sengathir",
-        "Title of Publication / Paper": "ELECTRE I-based Zone Head Selection in WSN-Enabled Internet of Things",
-        "Indexing (Scopus/ DBLP/ SCI)": "Springer Science and Business Media Deutschland GmbH",
-        "Venue/Place Or Publications": "Lecture Notes in Computer Science",
-        "Year": "Dec, 2023"
-      },
-      {
-        "S.No": 12,
-        "Name of the Faculty": "Dr. J. Sengathir",
-        "Title of Publication / Paper": "Efficient Data Storage in Distributed Cloud with Smart Contract Based on Blockchain Technology",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "Journal of Systems and Software",
-        "Year": "Sept, 2023"
-      }
-    ],
-    "2022":[
+    "2022-2023":[
       {
         "S.No": 1,
         "Name of the Faculty": "Dr.B.Vikranth",
-        "Title of Publication / Paper": "Spread Spectrum based QoS aware Energy Efficient Clustering Algorithm for Wireless Sensor Networks",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
         "Venue/Place Or Publications": "International Journal on Recent and Innovation Trends in Computing and Communication",
-        "Year": "Jan-23"
+        "Year": "Jan-23",
+        "Title of Publication / Paper": "Spread Spectrum based QoS aware Energy Efficient Clustering Algorithm for Wireless Sensor Networks",
+        "Authors": "Rambabu B., Vikranth B., Anupkaiith S., Samya B., Satyanarayana N.",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 2,
         "Name of the Faculty": "Dr. Suryanarayana",
-        "Title of Publication / Paper": "Conditional - Aware Sequential Text Generation in Knowledge-enhanced Conversational System",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
         "Venue/Place Or Publications": "Journal of Theoretical and Applied Information Technology",
-        "Year": "Apr-23"
+        "Year": "Apr-23",
+        "Title of Publication / Paper": "Conditional - Aware Sequential Text Generation in Knowledge-enhanced Conversational System",
+        "Authors": "",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 3,
-        "Name of the Faculty": "Dr. J. Sengathir",
-        "Title of Publication / Paper": "An intelligent multi-floor indoor positioning system for cloud-based environment",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Name of the Faculty": "Dr.J.Sengathir",
         "Venue/Place Or Publications": "International Journal of Computers and Applications",
-        "Year": "Dec-22"
+        "Year": "Dec-22",
+        "Title of Publication / Paper": "An intelligent multi-floor indoor positioning system for cloud-based environment",
+        "Authors": "Christy Jeba Malar A., Deva Priya M., Sengathir J., Kiruthiga N., Anitha R., Sangeetha T.",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 4,
-        "Name of the Faculty": "Dr. J. Sengathir",
-        "Title of Publication / Paper": "An improved ensemble classification-based secure two stage bagging pruning technique for guaranteeing privacy preservation of DNA sequences in electronic health records",
-        "Indexing (Scopus/ DBLP/ SCI)": "SCIE and Scopus",
+        "Name of the Faculty": "Dr.J.Sengathir",
         "Venue/Place Or Publications": "Journal of Intelligent & Fuzzy Systems",
-        "Year": "Jan-23"
+        "Year": "Jan-23",
+        "Title of Publication / Paper": "An improved ensemble classification-based secure two stage bagging pruning technique for guaranteeing privacy preservation of DNA sequences in electronic health records",
+        "Authors": "Muthu Shankar",
+        "Indexing (Scopus/ DBLP/ SCI)": "SCIE and scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 5,
-        "Name of the Faculty": "Dr. J. Sengathir",
+        "Name of the Faculty": "Dr.J.Sengathir",
+        "Venue/Place Or Publications": "EAI endorsed Transactions",
+        "Year": "Feb-23",
         "Title of Publication / Paper": "Selfish Node Detection Scheme based on Btes Distribution Inspired Trust Factor for MANETs",
+        "Authors": "M. Deva Priya",
         "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "EAI endorsed Transactions, Journal",
-        "Year": "Feb-23"
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 6,
-        "Name of the Faculty": "Dr. J. Sengathir",
-        "Title of Publication / Paper": "Improved bat optimization algorithm and enhanced artificial bee colony-based cluster routing scheme for extending network lifetime in wireless sensor networks",
-        "Indexing (Scopus/ DBLP/ SCI)": "SCIE and Scopus",
+        "Name of the Faculty": "Dr.J.Sengathir",
         "Venue/Place Or Publications": "International Journal of Communication Systems",
-        "Year": "Mar-23"
+        "Year": "Mar-23",
+        "Title of Publication / Paper": "Improved bat optimization algorithm and enhanced artificial bee colony‐based cluster routing scheme for extending network lifetime in wireless sensor networks",
+        "Authors": "",
+        "Indexing (Scopus/ DBLP/ SCI)": "SCIE and scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 7,
-        "Name of the Faculty": "Dr. J. Sengathir",
-        "Title of Publication / Paper": "A Deep Reinforcement Learning-based DDoS Attack Mitigation Scheme for Securing Big Data in Fog-Assisted Cloud Environment",
-        "Indexing (Scopus/ DBLP/ SCI)": "SCIE and Scopus",
+        "Name of the Faculty": "Dr.J.Sengathir",
         "Venue/Place Or Publications": "Wireless Personal Communications",
-        "Year": "Apr-23"
+        "Year": "Apr-23",
+        "Title of Publication / Paper": "A Deep Reinforcement Learning-based DDoS Attack Mitigation Scheme for Securing Big Data in Fog-Assisted Cloud Environment",
+        "Authors": "Janakiraman S., Deva Priya M.",
+        "Indexing (Scopus/ DBLP/ SCI)": "SCIE and scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 8,
-        "Name of the Faculty": "Dr. J. Sengathir",
-        "Title of Publication / Paper": "Hybrid grey wolf and improved particle swarm optimization with adaptive intertial weight-based multi-dimensional learning strategy for load balancing in cloud environments",
-        "Indexing (Scopus/ DBLP/ SCI)": "SCIE and Scopus",
+        "Name of the Faculty": "Dr.J.Sengathir",
         "Venue/Place Or Publications": "Sustainable Computing: Informatics and Systems",
-        "Year": "Apr-23"
+        "Year": "Apr-23",
+        "Title of Publication / Paper": "Hybrid grey wolf and improved particle swarm optimization with adaptive intertial weight-based multi-dimensional learning strategy for load balancing in cloud environments",
+        "Authors": "Janakiraman S., Priya M.D.",
+        "Indexing (Scopus/ DBLP/ SCI)": "SCIE and scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 9,
         "Name of the Faculty": "Dr. Rakesh Kumar Godi",
-        "Title of Publication / Paper": "Power control management system model using wireless sensor network",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
         "Venue/Place Or Publications": "Measurement Sensors Journal , Elsevier",
-        "Year": "Feb-23"
+        "Year": "Feb-23",
+        "Title of Publication / Paper": "Power control management system model using wireless sensor network",
+        "Authors": "",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 10,
         "Name of the Faculty": "Dr. Rakesh Kumar Godi",
-        "Title of Publication / Paper": "IOT-based power control systems framework for healthcare applications",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
         "Venue/Place Or Publications": "Measurement Sensors Journal , Elsevier",
-        "Year": "Feb-23"
+        "Year": "Feb-23",
+        "Title of Publication / Paper": "IOT-based power control systems framework for healthcare applications",
+        "Authors": "",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 11,
         "Name of the Faculty": "Dr. Rakesh Kumar Godi",
-        "Title of Publication / Paper": "Novel IoT framework for event processing in healthcare applications",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
         "Venue/Place Or Publications": "Measurement Sensors Journal , Elsevier",
-        "Year": "Jun-23"
+        "Year": "Jun-23",
+        "Title of Publication / Paper": "Novel IoT framework for event processing in healthcare applications",
+        "Authors": "",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 12,
         "Name of the Faculty": "Dr. Rakesh Kumar Godi",
-        "Title of Publication / Paper": "A novel framework for optimizing the edge network node for wearable devices",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
         "Venue/Place Or Publications": "Measurement Sensors Journal , Elsevier",
-        "Year": "Jun-23"
+        "Year": "Jun-23",
+        "Title of Publication / Paper": "A novel framework for optimizing the edge network node for wearable devices",
+        "Authors": "",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 13,
-        "Name of the Faculty": "A. Malla Reddy",
-        "Title of Publication / Paper": "Edge Computing and Blockchain in Smart Agriculture Systems",
+        "Name of the Faculty": "Dr.A.Malla Reddy",
+        "Venue/Place Or Publications": "Recent and Innovation Trends in Computing and Innovation",
+        "Year": "Oct-22",
+        "Title of Publication / Paper": "Edge Computing and Block chain in Smart Agriculture Systems",
+        "Authors": "Ch G V N Prasad",
         "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "International Journal on Recent and Innovation Trends in Computing and Communication",
-        "Year": "Oct-22"
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 14,
-        "Name of the Faculty": "A. Malla Reddy",
+        "Name of the Faculty": "Dr.A.Malla Reddy",
+        "Venue/Place Or Publications": "Measurement: Sensors",
+        "Year": "Jun-23",
         "Title of Publication / Paper": "LRDADF: An AI enabled framework for detecting low-rate DDoS attacks in cloud computing environments",
+        "Authors": "Pasha M.J., Rao K.P., A.MallaReddy A., Bande V.",
         "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "Measurement: Sensors, Article",
-        "Year": "Jun-23"
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 15,
-        "Name of the Faculty": "A. Malla Reddy",
-        "Title of Publication / Paper": "EASAND: Energy Adaptive Secure Neighbour Discovery Scheme for Wireless Sensors Networks",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Name of the Faculty": "Dr.A.Malla Reddy",
         "Venue/Place Or Publications": "International Journal on Recent and Innovation Trends in Computing and Communication",
-        "Year": "May-23"
+        "Year": "May-23",
+        "Title of Publication / Paper": "EASAND: Energy Adaptive Secure Neighbour Discovery Scheme for Wireless Sensors Networks",
+        "Authors": "",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 16,
-        "Name of the Faculty": "A. Malla Reddy",
-        "Title of Publication / Paper": "Enhancing Cloud Security with AuthPrivacyChain: A Blockchain-based Approach for Access Control and Privacy Protection",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Name of the Faculty": "Dr.A.Malla Reddy",
         "Venue/Place Or Publications": "International Journal of Intelligent Systems and Applications in Engineering",
-        "Year": "May-23"
+        "Year": "May-23",
+        "Title of Publication / Paper": "Enhancing Cloud Security with AuthPrivacyChain: A Blockchain-based Approach for Access Control and Privacy Protection",
+        "Authors": "Mahalakshmi J., Reddy A.Malla Reddy., Sowmya T., Chowdary B.V., Raju P.R.",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 17,
-        "Name of the Faculty": "A. Seetharam Nagesh",
-        "Title of Publication / Paper": "Tomato Ripeness Detection and Classification using VGG based CNN Models",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Name of the Faculty": "A.SeethaRam Nagesh",
         "Venue/Place Or Publications": "International Journal of Intelligent Systems and Applications in Engineering",
-        "Year": "Jan-23"
+        "Year": "Mar-23",
+        "Title of Publication / Paper": "Tomato Ripeness Detection and Classification using VGG based CNN Models",
+        "Authors": "Appe S.R.N., Arulselvi G., Balaji G.N.",
+        "Indexing (Scopus/ DBLP/ SCI)": "International Journal",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 18,
         "Name of the Faculty": "Swathi Agarwal",
+        "Venue/Place Or Publications": "Measurement: Sensors",
+        "Year": "Dec-22",
         "Title of Publication / Paper": "Assessment on economic power management for smart city through IoT sensor model",
+        "Authors": "Khan B., S K., Agarwal Swathi., M P., Thupakula B., Raja Ambethkar M.",
         "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "Measurement: Sensors, Journal",
-        "Year": "Dec-22"
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 19,
         "Name of the Faculty": "Nayini Sateesh Kumar",
-        "Title of Publication / Paper": "Big Data Predictive Analysis for Type-2 Diabetes Based Heart Disease Using Feature Extraction and Classification by Machine Learning Architectures",
-        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
         "Venue/Place Or Publications": "International Journal of Intelligent Systems and Applications in Engineering",
-        "Year": "Dec-22"
+        "Year": "Dec-22",
+        "Title of Publication / Paper": "Big Data Predictive Analysis for Type-2 Diabetes Based Heart Disease Using Feature Extraction and Classification by Machine Learning Architectures",
+        "Authors": "Pandey A.K., Shreyanth S., Prabhakaran J., Bodhankar A., Kumar A., Sateesh N.",
+        "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
+        "Journal Type": "International Journal"
       },
       {
         "S.No": 20,
         "Name of the Faculty": "Shaik Jaheda",
+        "Venue/Place Or Publications": "International Journal on resent and innovation trends in computing and communication",
+        "Year": "Mar-23",
         "Title of Publication / Paper": "Empowering Visually Impaired through the Assistance of SAHAYAK – A Walking Aid for the Blind",
+        "Authors": "Dr. M Sunitha, Sravan Kumar G, K Manasa, B.Rajani, Shaik Jaheda",
         "Indexing (Scopus/ DBLP/ SCI)": "Scopus",
-        "Venue/Place Or Publications": "International Journal on Recent and Innovation Trends in Computing and Communication",
-        "Year": "Mar-23"
+        "Journal Type": "International Journal"
+      },
+      {
+        "S.No": 21,
+        "Name of the Faculty": "Dr. Bipin Bihari Jayasingh",
+        "Venue/Place Or Publications": "CVR Journal of Science and Technology",
+        "Year": "Dec-22",
+        "Title of Publication / Paper": "Classification of Covid-19 and Pneumonia from Chest X-Ray images using deep learning Techniques",
+        "Authors": "Talapaneni Jyothi",
+        "Indexing (Scopus/ DBLP/ SCI)": "Google Scholar",
+        "Journal Type": "National Journal"
+      },
+      {
+        "S.No": 22,
+        "Name of the Faculty": "Dr. Bipin Bihari Jayasingh",
+        "Venue/Place Or Publications": "Journal of data acquisition and processing",
+        "Year": "Jun-23",
+        "Title of Publication / Paper": "Topic based feature extraction message classification and visualization of sentiment polarity",
+        "Authors": "",
+        "Indexing (Scopus/ DBLP/ SCI)": "UGC",
+        "Journal Type": "National Journal"
+      },
+      {
+        "S.No": 23,
+        "Name of the Faculty": "Dr.A.Malla Reddy",
+        "Venue/Place Or Publications": "CVR Journal of Science and Technology",
+        "Year": "Dec-22",
+        "Title of Publication / Paper": "Deep Learning Model to Predict the Risk of Developing Diabetic Retinopathy",
+        "Authors": "M. Pratyusha",
+        "Indexing (Scopus/ DBLP/ SCI)": "Google Scholar",
+        "Journal Type": "National Journal"
+      },
+      {
+        "S.No": 24,
+        "Name of the Faculty": "Mallaiah",
+        "Venue/Place Or Publications": "International Journal of Innovative Science and Research Technology",
+        "Year": "Apr-23",
+        "Title of Publication / Paper": "An Android Mobile App for Women safety",
+        "Authors": "",
+        "Indexing (Scopus/ DBLP/ SCI)": "UGC",
+        "Journal Type": "National Journal"
       }
     ]
     

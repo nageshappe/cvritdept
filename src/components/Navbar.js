@@ -5,8 +5,9 @@ function Navbar() {
 
   return (
     <div className="main-nav">
-      <h1><img src={process.env.PUBLIC_URL + '/images/it_cvr_logo1.webp'} width="50px" height="50px" alt="Logo" />
-
+       <h1 className="header"><img src={process.env.PUBLIC_URL + '/images/it_cvr_logo1.webp'} width="50px" height="50px" alt="Logo" />CVR College of Engineering </h1>
+      <h1>
+     
       Department of Information Technology</h1>
 
       <div className="navbar">
@@ -19,9 +20,17 @@ function Navbar() {
             <li><Link to="/research">Research</Link></li>
             <li><Link to="/student">Student Activities</Link></li>
             <li><Link to="/infrastructure">Infrastructure</Link></li>
+            <li><Link to="/resources">E-resources</Link></li>
+            <li><Link to="/message">Message From HoD</Link></li>
           </ul>
         </nav>
       </div>
+      {/* <footer className="footer">
+      <div className="container">
+        <p>&copy; 2024 IT Department. All rights reserved.</p>
+        <p> Developed and Mantained by A.SeethaRam Nagesh ,Assoc.Professor,IT Dept.</p>
+      </div>
+    </footer> */}
     </div>
   );
 }

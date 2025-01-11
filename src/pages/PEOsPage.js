@@ -8,10 +8,10 @@ const PEOsPage = () => {
       <div className="main-content">
         <h2>Program Educational Objectives (PEOs)</h2>
 
-        <table>
+        <table className="table table-bordered">
           <thead>
             <tr>
-              <th>PEO Number</th>
+              <th>PEO No.</th>
               <th>Program Educational Objective</th>
             </tr>
           </thead>

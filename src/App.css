@@ -1,6 +1,7 @@
 /* App layout styling */
 .App {
   font-family: 'Arial', sans-serif;
+  background-color:aquamarine;
 }
 
 .navbar {
@@ -62,12 +63,12 @@ h1 {
   color: #004080;
 }
 .footer {
-  /* position: fixed; */
+  position:fixed;
   left: 0;
   bottom: 0;
   width: 100%;
   height: 80px;
-  background-color: #0000f1;
+  background-color: #b6b6df;
   color: white;
   text-align: center;
   padding: 1px 0;
@@ -83,3 +84,4 @@ button.active {
   color: white;  /* White text color */
   font-weight: bold; /* Make text bold */
 }
+

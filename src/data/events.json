@@ -1,0 +1,373 @@
+{
+  "events": [
+    {
+      "year": "2024-2025",
+      "faculty_development_programmes": [
+        {
+          "sno": 1,
+          "description": "Deep Learning",
+          "dates": "2nd Dec – 5th Dec 2024",
+          "resource_persons": "P Rambabu, Lead Data Scientist at Deloitte, Hyderabad",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 2,
+          "description": "Generative AI",
+          "dates": "21th Aug – 31th Aug 2024",
+          "resource_persons": "IIT Kanpur",
+          "under_the_banner_of": "MOU with EICT, IIT Kanpur",
+          "place": "Dept. of IT, CVRCE"
+        },
+        {
+          "sno": 3,
+          "description": "IoT with Drone",
+          "dates": "23rd Sep - 28th Sep 2024",
+          "resource_persons": "IIT Kanpur",
+          "under_the_banner_of": "MOU with EICT, IIT Kanpur",
+          "place": "Dept. of IT, CVRCE"
+        }
+      ],
+      "workshops": [
+        {
+          "sno": 1,
+          "description": "Generative AI",
+          "dates": "24th - 26th Oct 2024",
+          "resource_persons": "Mr. Ajinkya Lohakare, CTO and Founder of Ditto Security, Tedx Speaker",
+          "under_the_banner_of": "Ingenuity",
+          "place": "Dept. of IT, CVRCE"
+        },
+        {
+          "sno": 2,
+          "description": "Cloud Security",
+          "dates": "9th & 10th Aug 2024",
+          "resource_persons": "Mr. T. Vinay Kumar, Senior Product Manager",
+          "under_the_banner_of": "Computer Society of India",
+          "place": "Dept. of IT, CVRCE"
+        }
+      ]
+    },
+    {
+      "year": "2023-2024",
+      "faculty_development_programmes": [
+        {
+          "sno": 1,
+          "description": "Machine learning with Python",
+          "dates": "27th May – 31st May 2024",
+          "resource_persons": "IIT Kanpur",
+          "under_the_banner_of": "MOU with EICT, IIT Kanpur",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 2,
+          "description": "Data Science (ML & AI)",
+          "dates": "11th March – 15th March 2024",
+          "resource_persons": "IIT Kanpur",
+          "under_the_banner_of": "MOU with EICT, IIT Kanpur",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 3,
+          "description": "Securing Blockchain Applications",
+          "dates": "22nd - 26th April 2024",
+          "resource_persons": "Mr. Ajith Menon, Senior Project Engineer for Information Service",
+          "under_the_banner_of": "Computer Society of India",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 4,
+          "description": "Data Structures through C",
+          "dates": "5th Feb – 17th Feb 2024",
+          "resource_persons": "Dr. A. Malla Reddy, Professor, CVRCE; Dr. B. Vikranth, Professor, CVRCE",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 5,
+          "description": "Problem Solving through C",
+          "dates": "21st Aug – 2nd Sept 2023",
+          "resource_persons": "Dr. B. Vikranth, Professor, CVRCE",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        }
+      ],
+      "workshops": [
+        {
+          "sno": 1,
+          "description": "Workshop on Hands-on IoT",
+          "dates": "3rd & 4th May 2024",
+          "resource_persons": "Mr. S. Anupkanth, Sr. Assistant Professor, IT Dept.",
+          "under_the_banner_of": "Ingenuity",
+          "place": "Dept of IT, CVRCE"
+        },
+        {
+          "sno": 2,
+          "description": "Foot Printing & Ethical Hacking",
+          "dates": "8th & 9th Dec 2023",
+          "resource_persons": "Mr. Ajinkya Lohakare, CTO & Founder of Ditto Security",
+          "under_the_banner_of": "Computer Society of India",
+          "place": "Dept of IT, CVRCE"
+        }
+      ],
+      "guest_lectures": [
+        {
+          "sno": 1,
+          "description": "Breaking Boundaries: Innovations in Engineering",
+          "dates": "28th March 2024",
+          "resource_persons": "Dr. R Seetha Ramaiah, Professor, IT Dept",
+          "under_the_banner_of": "National Digital Library of India",
+          "place": "Dept of IT, CVRCE"
+        },
+        {
+          "sno": 2,
+          "description": "Exploring Power of Spring Boot",
+          "dates": "17th Oct 2023",
+          "resource_persons": "Mr. Anil Kumar Banti, Technical Lead, HCL Technologies",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        }
+      ]
+    },
+    {
+      "year": "2022-2023",
+      "faculty_development_programmes": [
+        {
+          "sno": 1,
+          "description": "Refresher Course on Data Structure through 'C'",
+          "dates": "13th to 25th March 2023",
+          "resource_persons": "Dr. B. Vikranth, Professor, IT Dept; Mr. A. MallaReddy, Professor, IT Dept",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 2,
+          "description": "IoT and Drone",
+          "dates": "20th Feb to 3rd March 2023",
+          "resource_persons": "IIT Kanpur",
+          "under_the_banner_of": "MOU with EICT, IIT Kanpur",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 3,
+          "description": "Cyber Security Premises Hacking",
+          "dates": "20th Feb to 24th Feb 2023",
+          "resource_persons": "Mr. Rahul Guptha, IIT Kanpur",
+          "under_the_banner_of": "MOU with EICT, IIT Kanpur",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 4,
+          "description": "Advanced Excel with Data Analysis",
+          "dates": "13th Feb to 17th Feb 2023",
+          "resource_persons": "IIT Kanpur",
+          "under_the_banner_of": "MOU with EICT, IIT Kanpur",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 5,
+          "description": "ECIS FDP",
+          "dates": "7th to 8th Nov 2022",
+          "resource_persons": "Dr. B Vikranth, Professor, IT Dept; Mr. N. Sateesh, Sr. Assistant Professor, IT Dept",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 6,
+          "description": "FDP on Effective Teaching Practices of Problem Solving through C",
+          "dates": "17th to 22nd October 2022",
+          "resource_persons": "Dr. Vikranth; Dr. S. Suguna Mallika",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 7,
+          "description": "Boot Camp on Penetration Testing & Cyber Forensics",
+          "dates": "25th to 27th August 2022",
+          "resource_persons": "M. Ajith Menon, Senior Project Engineer, CDAC, Hyderabad",
+          "under_the_banner_of": "Department of IT & CSE",
+          "place": "CVRCE"
+        }
+      ],
+      "workshops": [
+        {
+          "sno": 1,
+          "description": "Python Ver-1 Workshop",
+          "dates": "15th – 16th June 2023",
+          "resource_persons": "Dr. Rakesh Godi, Professor, IT Dept; Dr. R.K. Selva Kumar, Professor, CSE; Mr. B. Aswin Kumar, Assistant Professor, CSE",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 2,
+          "description": "IoT",
+          "dates": "9th May 2023",
+          "resource_persons": "Dr. R Raja, Associate Professor, ET Dept; Mr. Raghavendra Swamy, Assistant Professor, ET Dept",
+          "under_the_banner_of": "Ingenuity",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 3,
+          "description": "Hackathon",
+          "dates": "27th to 28th February 2023",
+          "resource_persons": "Dr. Bipin Bihari Jayasingh, Professor, HOD IT Dept",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 4,
+          "description": "Techshastra 2K23",
+          "dates": "27th to 28th January 2023",
+          "resource_persons": "Dr. Bipin Bihari Jayasingh, Professor, HOD IT Dept",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 5,
+          "description": "Cyber Security and Ethical Hacking",
+          "dates": "25th Jan 2023",
+          "resource_persons": "Mr. Ajinkya Lohakare, CTO & Founder of Ditto Security",
+          "under_the_banner_of": "Ingenuity",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 6,
+          "description": "Infinity Cloud",
+          "dates": "9th to 10th Dec 2022",
+          "resource_persons": "Mr. Karthik Reddy, Director, Upakriya Pvt. Ltd., Hyderabad",
+          "under_the_banner_of": "Ingenuity",
+          "place": "CVRCE"
+        }
+      ],
+      "guest_lectures": [
+        {
+          "sno": 1,
+          "description": "Natural Language Processing (NDLI Tech Talk)",
+          "dates": "29th March 2023",
+          "resource_persons": "Mr. Swayam Prakash, Advisor-Consultant, Allmact Management Pvt Ltd.",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 2,
+          "description": "Mapping a Profession",
+          "dates": "27th August 2022",
+          "resource_persons": "Dr. H.K. Mohanty, Emeritus Professor, CSE",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        }
+      ]
+    },
+    {
+      "year": "2021-2022",
+      "faculty_development_programmes": [
+        {
+          "sno": 1,
+          "description": "AICTE & JNTUH Joint STTP Program on Blockchain & its Applications",
+          "dates": "4th to 12th October 2021",
+          "resource_persons": "Dr. S Venkatraman, Scientist H, ISRO; Dr. Manas Ranjan Patra, Professor, Berhampur University, Berhampur; Dr. Y V Subba Rao, Assistant Professor; Dr. P E Shubhakar, Associate Professor & Head, MNIT- Jaipur; Dr. Lalitha Surya Kumari, Professor, Dept. of CSE, KL University; Dr. T V Rajinikanth, Prof. & Dean R&D, SNIST; Dr. Ashok Kumar Das, Associate Professor, IIIT Hyderabad; Mr. T Ramkumar, Project Manager, Aditi Software, Hyderabad; Mr. V Sinivasa Raju, Project Lead, MSR IT Service, Hyderabad; Dr. Shanthi Makka, Professor, Dept. of CSE, Geethanjali College of Engineering and Technology; Dr. Prasanta Kumar Sahoo, Professor, Dept. of CSE, Sreenidhi Institute of Science & Technology; Mr. S. Vigneswari, Joint Director, CDAC Chennai; Mr. Gokul Alex, Founder, Semiott Society; Mr. Rajashekar Kodi, Project Lead, TechMahendra, Hyderabad.",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 2,
+          "description": "FDP on Machine Learning with Python (In Association with E&ICT Academy, IIT Kanpur)",
+          "dates": "23rd August to 4th September 2021",
+          "resource_persons": "Mr. Kuldeep S. Gussain, Senior Trainer, RCPL, E&ICT Academy, IIT Kanpur; Mr. Jeetendra Singh, Senior Trainer, RCPL, E&ICT Academy, IIT Kanpur",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 3,
+          "description": "FDP on Citation Tools",
+          "dates": "19th to 21st July 2021",
+          "resource_persons": "Mr. Ch. Pradeep Kumar, Academic Associate, IIM Indore",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        }
+      ],
+      "workshops": [
+        {
+          "sno": 1,
+          "description": "Online Programming Contest",
+          "dates": "23rd March 2022",
+          "resource_persons": "Number of NDLI student members registered: 121; Total users/teams who made a submission: 70; Total Submissions: 568; Number of distinct users/teams with correct submissions: 47; Number of distinct users/teams who visited during contest: 83",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 2,
+          "description": "HACKATHON",
+          "dates": "25th to 26th November 2021",
+          "resource_persons": "Dr. Bipin Bihari Jayasingh, Professor and Head, CVRCE; Dr. Rakesh Kumar Godi, Associate Professor, CVRCE; Mrs. Swathi Agarwal, Assistant Professor, CVRCE",
+          "under_the_banner_of": "Department of IT, CSI-SB & CSE",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 3,
+          "description": "Workshop on Tools and Techniques of Machine Learning (In Association with NDLI)",
+          "dates": "8th and 9th October 2021",
+          "resource_persons": "Dr. Mrutyunjaya Panda, Associate Professor and Head, Dept of CSE and Applications",
+          "under_the_banner_of": "National Digital Library of India",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 4,
+          "description": "Workshop on Cloud Adoption Trends",
+          "dates": "9th to 13th August 2021",
+          "resource_persons": "Mr. Devadity Gautam, Mr. Sriharsh Angadi",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        }
+      ],
+      "guest_lectures": [
+        {
+          "sno": 1,
+          "description": "Building Enterprise Grade Apps using Micro Services",
+          "dates": "3rd July 2021",
+          "resource_persons": "Mr. Hemanth Chakravartula, Software Engineer, Service Now, Hyderabad",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        }
+      ]
+    },
+    {
+      "year": "2020-2021",
+      "faculty_development_programmes": [
+        {
+          "sno": 1,
+          "description": "AI&ML in Computation, Optimization, Communication",
+          "dates": "18th to 22nd January 2021",
+          "resource_persons": "Dr. Ashish Ghosh, Professor & Head, MI Unit, ISI Kolkata; Dr. Ningrinla Marchang, Associate Professor, Dept. of CSE, NERIST; Dr. Tandra Pal, Professor, Department of CSE, NIT Durgapur",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 2,
+          "description": "Big Data Analytics Using Spark",
+          "dates": "4th to 8th January 2021",
+          "resource_persons": "Mr. Sachin Govind, Senior Data Engineer at Yellow Messenger",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        },
+        {
+          "sno": 3,
+          "description": "One Week FDP on Journey of Statistics to Data Sciences",
+          "dates": "21st to 26th September 2020",
+          "resource_persons": "Mr. Maneesh, Senior Business Analyst at Synchrony",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        }
+      ],
+      "workshops": [
+        {
+          "sno": 1,
+          "description": "TECHSHASTRA 2K21 - An Annual Technical Fest",
+          "dates": "4th to 6th March 2021",
+          "resource_persons": "There were 7 technical events, 5 non-technical events, along with 6 technical paper presentations and 6 idea presentations arranged for the students. Day 1 attracted 378 participants, and Day 2 attracted 103 participants for technical and non-technical events.",
+          "under_the_banner_of": "Department of IT",
+          "place": "CVRCE"
+        }
+      ]
+    }
+  ]
+}

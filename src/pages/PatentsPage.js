@@ -5,7 +5,7 @@ import Patentsdata from "../data/patents.json"
 
 const PatentsPage = () => {
 
-    const [selectedYear, setSelectedYear] = useState('2023');
+    const [selectedYear, setSelectedYear] = useState(Object.keys(Patentsdata.patent_data)[0]);
     const patents = Patentsdata.patent_data[selectedYear] || [];
     return (
 

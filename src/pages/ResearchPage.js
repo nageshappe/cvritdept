@@ -9,7 +9,7 @@ function ResearchPage() {
       <ResearchSidebar/>
         {/* console.log({faculty_publications.faculty_publications}) */}
       <div className="main-content">
-      <h1>Research & Publications</h1>
+      <h1 className="text-center">Research & Publications</h1>
       <p>Our department is involved in cutting-edge research in fields like AI, Cloud Computing, and more.</p>
       <FacultyPublicationTable data={faculty_publications.faculty_publications}/>
     </div>

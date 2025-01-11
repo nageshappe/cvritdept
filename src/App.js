@@ -24,6 +24,9 @@ import './App.css';
 import InfrastructurePage from './pages/InfrastructurePage';
 import LabInfoPage from './pages/LabInfoPage';
 import LibraryInfoPage from './pages/LibraryInfoPage';
+import ResourcesPage from './pages/ResourcesPage';
+import  EventsSummary from './pages/EventsSummary';
+import MessagePage from './pages/MessagePage';
 
 function App() {
   return (
@@ -48,7 +51,8 @@ function App() {
               <Route path="/publications" element={<PublicationsPage/>} />
               <Route path="/fdps" element={<FDPsPage/>} />
               <Route path="/conferences" element={<ConferencesPage/>} />
-
+              <Route path="/events" element={<EventsSummary/>}/>
+              
               <Route path="/student" element={<StudentPage/>} />
               <Route path="/ingenuity" element={<IngenuityPage/>} />
               <Route path="/nitygrity" element={<NityGrityPage/>} />
@@ -59,12 +63,15 @@ function App() {
               <Route path="/infrastructure" element={<InfrastructurePage/>} />
               <Route path="/labs" element={<LabInfoPage/>} />
               <Route path="/library" element={<LibraryInfoPage/>} />
+     
+              <Route path="/resources" element={<ResourcesPage/>} />
+              <Route path="/message" element={<MessagePage/>} />
 
             </Routes>
           </div>
         </div>
       </div>
-      {/* <Footer/> */}
+         <footer/>
     </Router>
   );
 }

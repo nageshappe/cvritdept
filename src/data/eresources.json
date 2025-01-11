@@ -1,0 +1,311 @@
+ [
+      {
+        "Subject": "Engineering Drawing/Engineering Graphics-I",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=ZIZyQbCX30E&list=PLbMVogVj5nJRgBjyxu0PfH3Ucdq_mDo4o",
+          "https://www.youtube.com/watch?v=WG6H2pISUzQ&list=PLIhUrsYr8yHwDUrVYmUNYkEeZgZTvoIfS"
+        ],
+        "Year&Semester": "B.Tech I Year-I Semester"
+      },
+      {
+        "Subject": "Engineering Mechanics",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=LG0YzGeAFxk&list=PL63F5D8638872CC3E",
+          "https://www.youtube.com/watch?v=7kt9AoxZlLo&list=PLm_MSClsnwm85S4l1fI0WkG8clqLoy3w"
+        ],
+        "Year&Semester": "B.Tech I Year-II Semester"
+      },
+      {
+        "Subject": "Object Oriented Programming Through Java",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=OjdT2l-EZJA&list=PLfn3cNtmZdPOe3R_wO_h540QNfMkCQ0ho&index=1",
+          "https://www.youtube.com/watch?v=6rYOyIGfy3w&list=PLfn3cNtmZdPOe3R_wO_h540QNfMkCQ0ho&index=27",
+          "https://www.youtube.com/watch?v=cC_Ij7WmP_k&list=PLfn3cNtmZdPOe3R_wO_h540QNfMkCQ0ho&index=34"
+        ],
+        "Year&Semester": "B.Tech II Year-I Semester"
+      },
+      {
+        "Subject": "Relational Database Management Systems",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=Co12LqzGpTA",
+          "https://www.youtube.com/watch?v=IoL9Ve2SRwQ&list=PLIwC9bZ0rmjSkm1VRJROX4vP2YMIf4Ebh",
+          "https://www.youtube.com/watch?v=DRSog3SA4-Y&list=PLIwC9bZ0rmjSkm1VRJROX4vP2YMIf4Ebh&index=5",
+          "https://www.youtube.com/watch?v=w1XdPholzWY&list=PLIwC9bZ0rmjSkm1VRJROX4vP2YMIf4Ebh&index=6",
+          "https://www.youtube.com/watch?v=ywUn5qNmxNo&list=PLIwC9bZ0rmjSkm1VRJROX4vP2YMIf4Ebh&index=7"
+        ],
+        "Year&Semester": "B.Tech II Year-I Semester"
+      },
+      {
+        "Subject": "Advanced Data Structures through Java",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=NH5icmQJpV4",
+          "https://www.youtube.com/watch?v=n5uxF_zBhOA",
+          "https://www.youtube.com/watch?v=weiBZkHS6oE"
+        ],
+        "Year&Semester": "B.Tech II Year-II Semester"
+      },
+      {
+        "Subject": "Computer Organization",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=msqxkEKFg8I&list=PLgHucKw979AvcnTpPNZMZyORdL5HvTr9m&index=1",
+          "https://www.youtube.com/watch?v=cipkWLPAsKE&list=PLgHucKw979AvcnTpPNZMZyORdL5HvTr9m&index=4",
+          "https://www.youtube.com/watch?v=_dHOOFI2VzE&list=PLgHucKw979AvcnTpPNZMZyORdL5HvTr9m&index=6"
+        ],
+        "Year&Semester": "B.Tech II Year-II Semester"
+      },
+      {
+        "Subject": "Operating Systems",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=jciGIvn7UfM&list=PLEAYkSg4uSQ2PAch478muxnoeTNz_QeUJ",
+          "https://www.youtube.com/watch?v=kYzQvSTogjk&list=PLeUP77TwO-u4-R-8Kg2bJb95Lk-uXrL2Q",
+          "https://www.youtube.com/watch?v=vK5ohY3wInc"
+        ],
+        "Year&Semester": "B.Tech II Year-II Semester"
+      },
+      {
+        "Subject": "Software Engineering",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=Ln_LP7c23WM&list=PLbRMhDVUMngf8oZR3DpKMvYhZKga90JVt",
+          "https://www.youtube.com/watch?v=OT2O7uNldQk&list=PLbRMhDVUMngf8oZR3DpKMvYhZKga90JVt&index=6",
+          "https://www.youtube.com/watch?v=PR_ZwLfjWrA&list=PLbRMhDVUMngf8oZR3DpKMvYhZKga90JVt&index=17"
+        ],
+        "Year&Semester": "B.Tech II Year-II Semester"
+      },
+      {
+        "Subject": "Mathematical Foundations of Computer Science",
+        "Web-links": [
+          "https://www.youtube.com/playlist?list=PL0862D1A947252D20",
+          "https://www.youtube.com/watch?v=w85NYMqr9uI&list=PLHgkOdsvZ-17wDnvV6SZ3CwojjzD6g8w0",
+          "https://www.youtube.com/watch?v=-D149nxihaE&list=PLsptxgQdqTVfS_6tg6DpbOqHlI0JLIpOj"
+        ],
+        "Year&Semester": "B.Tech II Year-II Semester"
+      },
+      {
+        "Subject": "Web Technologies",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=JsbxB2l7QGY&list=PLVlQHNRLflP_hIZuBNjr6rZzqa2HZFkny",
+          "https://www.youtube.com/watch?v=Tj9h9BHmbU0&list=PLOZyfu4IYm88b-B3sgiHAlLKl21IkVDa-",
+          "https://www.youtube.com/watch?v=8VWu_8c_7NE&list=PLV8vIYTIdSnbwIFENjqBK7yyAkSVSoLBC"
+        ],
+        "Year&Semester": "B.Tech III Year-I Semester"
+      },
+      {
+        "Subject": "Automata and Compiler Design",
+        "Web-links": [
+          "https://www.youtube.com/playlist?list=PL85CF9F4A047C7BF7",
+          "https://www.youtube.com/watch?v=A-cJBuwLUx8&list=PL85CF9F4A047C7BF7&index=3",
+          "https://www.youtube.com/watch?v=Km45DNEa9mI&list=PL85CF9F4A047C7BF7&index=15"
+        ],
+        "Year&Semester": "B.Tech III Year-I Semester"
+      },
+      {
+        "Subject": "Data Mining",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=ykZ-_UGcYWg&list=PLLspfyoOYoQcI6Nno3gPkq0h5YSe81hsc",
+          "https://www.youtube.com/watch?v=Ta3yuE1zub0&list=PLYNoBatBddmBRINEhWqde5_4Fw8_PrIYy&index=18"
+        ],
+        "Year&Semester": "B.Tech III Year-I Semester"
+      },
+      {
+        "Subject": "Microprocessor and Interfacing",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=0t4LROuEVnw&list=PLwdnzlV3ogoXgNjr_oe5cWQIbf72ZY4Zf",
+          "https://www.youtube.com/watch?v=HYsKtXdcQg4&list=PLWstaH1Hk3IMdTxyC0dZatsqrFF2Loin8"
+        ],
+        "Year&Semester": "B.Tech III Year-I Semester"
+      },
+      {
+        "Subject": "Problem Solving through Python",
+        "Web-links": [
+          "https://www.youtube.com/playlist?list=PLqftY2uRk7oXvERQEgATSr-KzAh8WLW_D",
+          "https://www.youtube.com/watch?v=9MmC_uGjBsM&list=PLyqSpQzTE6M_Fu6l8irVwXkUyC9Gwqr6_",
+          "https://www.youtube.com/watch?v=WWso6gVuKpI&list=PLqftY2uRk7oXvERQEgATSr-KzAh8WLW_D&index=40"
+        ],
+        "Year&Semester": "B.Tech III Year-II Semester"
+      },
+      {
+        "Subject": "Design & Analysis of Algorithms",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=gY0MwGLq9W8&list=PLyqSpQzTE6M9DKhN7z2fOpKTJWu-639_P",
+          "https://www.youtube.com/watch?v=hT1dIbFQoGE&list=PLEAYkSg4uSQ1YxqcmBjCdK9oX1m-JDEx2&index=9"
+        ],
+        "Year&Semester": "B.Tech III Year-II Semester"
+      },
+      {
+        "Subject": "Principles of Artificial Intelligence",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=pKeVMlkFpRc&list=PLwdnzlV3ogoXaceHrrFVZCJKbm_laSHcH",
+          "https://www.youtube.com/watch?v=fV2k2ivttL0&list=PLCD819D1E1C4F91C3",
+          "https://www.youtube.com/watch?v=GHpchgLoDvI&list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz"
+        ],
+        "Year&Semester": "B.Tech III Year-II Semester"
+      },
+      {
+        "Subject": "Advanced Data Bases",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=SdW5RKUboKc&list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O",
+          "https://www.youtube.com/watch?v=IZWTduVCrf8&list=PLBEDalwGmREACEgLEgEefy6PXRN5aZCW_",
+          "https://www.youtube.com/watch?v=sEaYXwmsLw0&list=PLyqSpQzTE6M-xymXgqewlzcC3U4cdRoSu",
+          "https://www.youtube.com/watch?v=LWS8LEQAUVc&list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn"
+        ],
+        "Year&Semester": "B.Tech III Year-II Semester"
+      },
+      {
+        "Subject": "Big Data Analytics",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=La-NZ6jOfoQ&list=PLRueFtKLr0QN7MmQ8pdpQerOe_s8vGJG4",
+          "https://www.youtube.com/watch?v=4SJ7bEILPJk",
+          "https://www.youtube.com/watch?v=ZU-N7dmmEqI&list=PLwdnzlV3ogoXmoCXczKiu6WGW0r05Zw02"
+        ],
+        "Year&Semester": "B.Tech III Year-II Semester"
+      },
+      {
+        "Subject": "Introduction to Linux Programming",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=akU1Ji8Vzdk&list=PLZ5dJPlUQexlMzytxuLk2uVHttBKV-1HH",
+          "https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As",
+          "https://www.youtube.com/watch?v=rRGCGZ6OHw8"
+        ],
+        "Year&Semester": "B.Tech IV Year-I Semester"
+      },
+      {
+        "Subject": "Cryptography and Network Security",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=1plMO7ChXMU&list=PLJ5C_6qdAvBFAuGoLC2wFGruY_E2gYtev",
+          "https://www.youtube.com/watch?v=iTVyKbDCJrA&list=PLgMDNELGJ1CbdGLyn7OrVAP-IKg-0q2U2"
+        ],
+        "Year&Semester": "B.Tech IV Year-I Semester"
+      },
+      {
+        "Subject": "Artificial Neural Networks & Fuzzy Logic",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=IZWTduVCrf8&list=PLBEDalwGmREACEgLEgEefy6PXRN5aZCW_",
+          "https://www.youtube.com/watch?v=dSZOwqzeAS8&list=PLbRMhDVUMngeASctgzkLEIpgFNZmWwqRl&index=18"
+        ],
+        "Year&Semester": "B.Tech IV Year-I Semester"
+      },
+      {
+        "Subject": "Wireless Networks and Mobile Computing",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=ytLkrvyIf6g&list=PLsK7K7rfGYke2ZfFugu2cppvNHNrdjD-u",
+          "https://www.youtube.com/watch?v=f2wlHL1Sok8&list=PLuv3GM6-gsE3ypUYh43pPuZsXxJVG1e7F",
+          "https://www.youtube.com/watch?v=CUyF0YGIA5Y&list=PL1A4AFAC7AC1909C9"
+        ],
+        "Year&Semester": "B.Tech IV Year-I Semester"
+      },
+      {
+        "Subject": "Cloud Computing",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=NzZXz3fJf6o&list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J",
+          "https://www.youtube.com/watch?v=ZHCtVZ6cjdg&list=PLmmuEIIZy1cbwIMvGF1EsV4ZtAe8vA_7I"
+        ],
+        "Year&Semester": "B.Tech IV Year-I Semester"
+      },
+      {
+        "Subject": "Internet of Things",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=WUYAjxnwjU4&list=PLE7VH8RC_N3bpVn-e8QzOAHziEgmjQ2qE",
+          "https://www.youtube.com/watch?v=urUBLmXFKl0&list=PLgMDNELGJ1CaBrefq-0eYatfOnoncW0y-"
+        ],
+        "Year&Semester": "B.Tech IV Year-I Semester"
+      },
+      {
+        "Subject": "Applied Machine Learning",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=_M-nDb0MIa4&list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K",
+          "https://www.youtube.com/watch?v=FeN-WP1YIXI&list=PLH5_eZVldmtUJMrhN2h52FE6B6JpRs7HZ"
+        ],
+        "Year&Semester": "B.Tech IV Year-I Semester"
+      },
+      {
+        "Subject": "Software Testing Methodologies",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=Ln_LP7c23WM&list=PLbRMhDVUMngf8oZR3DpKMvYhZKga90JVt",
+          "https://www.youtube.com/watch?v=KMj49syT8JM&list=PLyqSpQzTE6M-sBjDcT21Gpnj8grR2fDgc",
+          "https://www.youtube.com/watch?v=OGImfxO2TEU"
+        ],
+        "Year&Semester": "B.Tech IV Year-I Semester"
+      },
+      {
+        "Subject": "Distributed Computing",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=dlBVWMdGhqw&list=PLUJ7JmcrTifBROWODSG8wgyl20XgBuE-N",
+          "https://www.youtube.com/watch?v=A3FPxuKlnkU&list=PLFW6lRTa1g82dte3YD_7-GoZXcBiK6K9G",
+          "https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N"
+        ],
+        "Year&Semester": "B.Tech IV Year-I Semester"
+      },
+      {
+        "Subject": "Computer Forensics",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=BaaJwFrLtOQ&list=PLjGbUPQu3fSRslKy7CooGVDenLgGaf0Nc",
+          "https://www.youtube.com/watch?v=VGuiiFJVqjc&list=PLqrmzsjOpq5jKAIukDCX-TZYMtPOaKLRT",
+          "https://www.youtube.com/watch?v=LqwAUW6mvnA&list=PL0zT05L6T1YVSiPn_n4lUiRd-HCNqoLZK"
+        ],
+        "Year&Semester": "B.Tech IV Year-I Semester"
+      },
+      {
+        "Subject": "Deep Learning",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLEAYkSg4uSQ1r-2XrJ_GBzzS6I-f8yfRU",
+          "https://www.youtube.com/watch?v=W3_yaf3HvHU&list=PLbRMhDVUMngc7NM-gDwcBzIYZNFSK2N1a"
+        ],
+        "Year&Semester": "B.Tech IV Year-II Semester"
+      },
+      {
+        "Subject": "Wireless Ad Hoc & Sensor Networks",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=ycaz99NogS4&list=PLJ5C_6qdAvBHroAfekCO7K4xphEF74UPc",
+          "https://www.youtube.com/watch?v=IR4jIFiHwgc"
+        ],
+        "Year&Semester": "B.Tech IV Year-II Semester"
+      },
+      {
+        "Subject": "GPU Computing",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=SnKgEuUfV4k",
+          "https://www.youtube.com/watch?v=GOam2jFb700&list=PLbRMhDVUMngfj_NXI7jqMYLnhcRhRKAGq",
+          "https://www.youtube.com/watch?v=OSks4GxOyrA"
+        ],
+        "Year&Semester": "B.Tech IV Year-II Semester"
+      },
+      {
+        "Subject": "Information Retrieval Systems",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=7XUVGUDzGxE",
+          "https://www.youtube.com/watch?v=y_AGY6AHDP8&list=PLz_RRnOnUTWETaBcpAMOd1evVIT3t8NSH",
+          "https://www.youtube.com/watch?v=kNkCfaH2rxc&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi"
+        ],
+        "Year&Semester": "B.Tech IV Year-II Semester"
+      },
+      {
+        "Subject": "Design Patterns",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=mE3qTp1TEbg&list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc",
+          "https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd"
+        ],
+        "Year&Semester": "B.Tech IV Year-II Semester"
+      },
+      {
+        "Subject": "Computer Graphics",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=fwzYuhduME4&list=PLAEF6EC8DF4DCC1AE"
+        ],
+        "Year&Semester": "B.Tech IV Year-II Semester"
+      },
+      {
+        "Subject": "Block Chain Technologies",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=GstOwbLyeYE&list=PLrKK422S1aMma8lDA2JJjEUpC2ycuApuC"
+        ],
+        "Year&Semester": "B.Tech IV Year-II Semester"
+      },
+      {
+        "Subject": "E-Commerce",
+        "Web-links": [
+          "https://www.youtube.com/watch?v=BGEQCn6EEDA&list=PLYuTvKb3AO_4u8C5dfBnZUk-zRUw95xpU"
+        ],
+        "Year&Semester": "B.Tech IV Year-II Semester"
+      }
+    ]
+  

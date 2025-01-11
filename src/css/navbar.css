@@ -33,5 +33,9 @@ nav ul li a:hover {
 }
 
 .main-nav{
+    
     text-align: center  ;
+}
+.header h1{
+    font-family: "CG Omega"
 }

@@ -1,4 +1,4 @@
-{"workshops":{"2024":[
+{"workshops":{"2024-25":[
     {
       "SNO": 1,
       "Description": "Generative AI",
@@ -16,7 +16,7 @@
       "Place": "Dept. of IT, CVRCE"
     }
   ],
-  "2023":[{
+  "2023-24":[{
     "SNO": 1,
     "Description": "Workshop on Hands on IoT",
     "Dates": "3rd & 4th May 2024",
@@ -32,7 +32,7 @@
     "Banner": "Computer Society of India",
     "Place": "Dept of IT, CVRCE"
   }],
-  "2022":[
+  "2022-23":[
     {
         "SNO": 1,
         "Description": "Python Ver-1 Workshop",

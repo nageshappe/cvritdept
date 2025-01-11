@@ -1,4 +1,4 @@
-{"guestlectures":{"2023":[
+{"guestlectures":{"2023-24":[
     {
       "SNO": 1,
       "Description": "Breaking Boundaries: Innovations in Engineering",
@@ -16,7 +16,7 @@
       "Place": "CVRCE"
     }
   ],
-  "2022":[
+  "2022-23":[
     {
         "SNO": 1,
         "Description": "Natural Language Processing (NDLI Tech Talk)",

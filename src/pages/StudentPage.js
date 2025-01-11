@@ -32,7 +32,7 @@ function StudentPage() {
           </li>
           <li>A magazine that portrays the events conducted during CIENCIA- annual national level technical symposium conducted at CVR College of Engineering.
           </li>
-          <li><b>DigITal lITeraty</b>- A technical magzine prepared by students of IT under the guidance of senior faculty and is published half yearly. Dr.BB Jayasingh is the Chief Editor.
+          <li><b>DigITal lITeraty</b>- A technical magzine prepared by students of IT under the guidance of senior faculty and is published half yearly. Dr.J.Sengathir is the Chief Editor.
           </li>
           <li><b>NiITy-GrITty</b>- A non-techical magzine prepared by students of IT under the guidance of senior faculty and is published half yearly. Dr. BB Jaya Singh is the chief editors.
           </li>

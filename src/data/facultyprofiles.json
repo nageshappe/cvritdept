@@ -9,7 +9,7 @@
     "Date of Joining": "26-06-2006",
     "email": "bipinbjayasingh@cvr.ac.in,bbjayasingh9@rediffmail.com",
     "specialization": "Cyber Security & Forensics, Data Mining & Analytics, Machine Learning, Intrusion detection systems, Agent based computing, Software Engineering, Blockchain Technologies.",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 2,
@@ -21,7 +21,7 @@
     "Date of Joining": "03-08-2015",
     "email": "malla.reddy@cvr.ac.in",
     "specialization": "Cloud Security, Network Security, Operating Systems, Data Structures, C Programming",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 3,
@@ -33,7 +33,7 @@
     "Date of Joining": "08-12-2017",
     "email": "dr.sengathir@cvr.ac.in",
     "specialization": "Information Security, Wireless Networks, Optimization Algorithms, Cloud Computing",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 4,
@@ -43,9 +43,9 @@
     "Qualifications": "M.Tech., Ph.D.",
     "Department": "IT",
     "Date of Joining": "07-01-2023",
-    "email": "",
+    "email": "k.sarangam@cvr.ac.in",
     "specialization": "Data Mining, Text Mining, Computer Networking",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 5,
@@ -57,7 +57,7 @@
     "Date of Joining": "01-06-2005",
     "email": "brahma@cvr.ac.in",
     "specialization": "Software Engineering, Computer Networks, System Administration",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 6,
@@ -69,11 +69,11 @@
     "Date of Joining": "01-06-2005",
     "email": "satyamurty@cvr.ac.in",
     "specialization": "Business Intelligence, Data Mining, Computer Networks, Wireless Networks, Cyber Security",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 7,
-    "img": "/images/nagesh.jpg",
+    "img": "/images/nagesh.jpeg",
     "Faculty Name": "Mr. A.SeethaRam Nagesh",
     "Position": "Associate Professor",
     "Qualifications": "M.Tech., (Ph.D.)",
@@ -82,7 +82,7 @@
     "email": "asr.nagesh@cvr.ac.in,nageshf25@gmail.com",
     "specialization": "Deep Learning, Full Stack Development  and Cloud Computing",
     "subjects":"Web Technologies, Advanced Web technologies, Programming Using Python,Linux Programming, Crypotgraphy & Netwrok Security, C Programming,Object Oriented Programming Through Java,Design Patterns, Cloud Computing,Mobile Application Development,Multimedia Application Development,Operating Systems,Object Oriented Analysis and Design",
-    "Profile Link": "http://linkedin.com/in/seetharamnagesh-appe-4584281aa"
+    "Profile Link": "https://cvr.irins.org/profile/370072"
   },
   {
     "S.No": 8,
@@ -94,11 +94,11 @@
     "Date of Joining": "27-10-2004",
     "email": "s.anupkant@cvr.ac.in",
     "specialization": "Wireless Sensor Networks, IoT, Computer Architecture, Augmented Reality",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 9,
-    "img": "",
+    "img": "/images/veeru.jpeg",
     "Faculty Name": "Mr. K Veeranjaneyulu",
     "Position": "Sr. Assistant Professor",
     "Qualifications": "M.Tech., (Ph.D.)",
@@ -106,7 +106,7 @@
     "Date of Joining": "04-10-2023",
     "email": "veeru@cvr.ac.in",
     "specialization": "Cloud Computing, Network Security",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 10,
@@ -118,7 +118,7 @@
     "Date of Joining": "08-07-2019",
     "email": "swathiagarwal@cvr.ac.in",
     "specialization": "Data Mining, Big data Analytics, Machine Learning, Streaming Data",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 11,
@@ -130,11 +130,11 @@
     "Date of Joining": "27-05-2015",
     "email": "satheesh.bandi@cvr.ac.in",
     "specialization": "Big Data",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 12,
-    "img": "",
+    "img": "/images/kiran.jpeg",
     "Faculty Name": "Mr.B.Kiran Kumar",
     "Position": "Assistant Professor",
     "Qualifications": "M.Tech.",
@@ -142,11 +142,11 @@
     "Date of Joining": "17-06-2019",
     "email": "kiran.kumar@cvr.ac.in",
     "specialization": "Data mining, Cloud Computing",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 13,
-    "img": "",
+    "img": "/images/swetha.jpg",
     "Faculty Name": "Mrs.S.Swetha",
     "Position": "Assistant Professor",
     "Qualifications": "M.Tech.",
@@ -154,11 +154,11 @@
     "Date of Joining": "02-03-2020",
     "email": "swetha.s@cvr.ac.in",
     "specialization": "Information Retrieval System",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 14,
-    "img": "",
+    "img": "/images/sadana.jpg",
     "Faculty Name": "Mrs. Jannam Sadana",
     "Position": "Assistant Professor",
     "Qualifications": "M.Tech.",
@@ -166,11 +166,12 @@
     "Date of Joining": "07-03-2020",
     "email": "j.sadana@cvr.ac.in",
     "specialization": "Machine Learning, Cloud Computing",
-    "Profile Link": "#"
+    "subjects":"Web technology, Advanced web technology, C language, Data structure,Design and Analysis of Algorithms, Universal Human Values, Compiler Design, Database Management System, Linux programming",
+    "Profile Link": ""
   },
   {
     "S.No": 15,
-    "img": "",
+    "img": "/images/shailaja.jpeg",
     "Faculty Name": "Mrs. G. Shailaja",
     "Position": "Assistant Professor",
     "Qualifications": "M.Tech.,(Ph.D.)",
@@ -178,11 +179,11 @@
     "Date of Joining": "07-03-2020",
     "email": "g.shailaja@cvr.ac.in",
     "specialization": "Data Mining, Artificial Intelligence",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 16,
-    "img": "",
+    "img": "/images/srinivas.jpg",
     "Faculty Name": "Mr. Gundeti Srinivas",
     "Position": "Assistant Professor",
     "Qualifications": "M.Tech.",
@@ -190,11 +191,11 @@
     "Date of Joining": "07-03-2020",
     "email": "g.srinivas@cvr.ac.in",
     "specialization": "Computer Networks",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 17,
-    "img": "",
+    "img": "/images/bhagavanthulu.jpg",
     "Faculty Name": "Mr.M.Bhagavanthu",
     "Position": "Assistant Professor",
     "Qualifications": "M.Tech.",
@@ -202,7 +203,8 @@
     "Date of Joining": "27-07-2020",
     "email": "Bhagavanthu@cvr.ac.in",
     "specialization": "Machine Learning",
-    "Profile Link": "#"
+     "subjects":"UHV and Data visualization",
+    "Profile Link": ""
   },
   {
     "S.No": 18,
@@ -214,11 +216,12 @@
     "Date of Joining": "14-03-2022",
     "email": "sony.jaheda@cvr.ac.in",
     "specialization": "Cloud Computing, Machine Learning",
-    "Profile Link": "#"
+     "subjects":"Operating systems, Software testing methodologies, Distributed data bases, Wireless Networks and Mobile computing,Essentials of computer and information science.",
+    "Profile Link": ""
   },
   {
     "S.No": 19,
-    "img": "",
+    "img": "/images/aruna.jpg",
     "Faculty Name": "Ms. T. Aruna",
     "Position": "Assistant Professor",
     "Qualifications": "M.Tech.",
@@ -226,7 +229,7 @@
     "Date of Joining": "06-03-2023",
     "email": "arunareddy510@cvr.ac.in",
     "specialization": "IOT, Machine Learning",
-    "Profile Link": "#"
+    "Profile Link": ""
   },
   {
     "S.No": 20,
@@ -238,6 +241,18 @@
     "Date of Joining": "17-03-2023",
     "email": "mallaiah79@cvr.ac.in",
     "specialization": "Cloud Computing, Network Security",
-    "Profile Link": "#"
+    "Profile Link": ""
+  },
+  {
+    "S.No": 21,
+    "img": "/images/suhashini.jpeg",
+    "Faculty Name": "Mr. S. Suhashini",
+    "Position": "Assistant Professor",
+    "Qualifications": "M.Tech.",
+    "Department": "IT",
+    "Date of Joining": "",
+    "email": "",
+    "specialization": "Cloud Computing, Network Security",
+    "Profile Link": ""
   }
 ]

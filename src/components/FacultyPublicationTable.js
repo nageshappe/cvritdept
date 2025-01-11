@@ -1,6 +1,6 @@
 const FacultyPublicationTable = ({ data }) => {
     return (
-      <table className="table table-bordered">
+      <table className="table table-bordered text-center">
         <thead>
           <tr>
             <th>S.No.</th>
@@ -9,7 +9,7 @@ const FacultyPublicationTable = ({ data }) => {
             <th>Total Publications</th>
             <th>International Journals</th>
             <th>National Journals</th>
-            <th>Quality Publications Count</th>
+            {/* <th>Quality Publications Count</th> */}
             <th>International Conferences</th>
             <th>National Conferences</th>
             <th>Books/Book Chapters</th>
@@ -25,7 +25,7 @@ const FacultyPublicationTable = ({ data }) => {
               <td>{faculty['Total Publications']}</td>
               <td>{faculty['International Journals']}</td>
               <td>{faculty['National Journals']}</td>
-              <td>{faculty['Quality Publications Count (Web of Science, Scopus Only)']}</td>
+              {/* <td>{faculty['Quality Publications Count (Web of Science, Scopus Only)']}</td> */}
               <td>{faculty['International Conferences']}</td>
               <td>{faculty['National Conferences']}</td>
               <td>{faculty['Books/Book Chapters']}</td>

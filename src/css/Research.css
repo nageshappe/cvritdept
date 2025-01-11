@@ -8,5 +8,7 @@ button{
     font-weight: bold; /* Make text bold */
   }
   table.table-bordered td, table.table-bordered th {
-    border: 1px solid #007bff; /* Use the primary color for borders */
+    border: 2px solid #007bff; /* Use the primary color for borders */
+    /* background-color: aqua; */
+    font-size: 16px;
 }

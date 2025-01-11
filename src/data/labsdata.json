@@ -1,0 +1,164 @@
+{
+  "labs":{
+    "IT Lab –I & II":
+    {
+      "name": "IT Lab –I & II",
+      "location": "PG 120 & PG 121",
+      "lab_incharge": ["Mr. G. Srinivas", "Mrs. Jannam Sadana"],
+      "programmer": "Mr. G. Vijay",
+      "hardware": {
+        "server": "IBM E-SERVERX3400",
+        "server_configuration": "INTEL R III XEON Processor 2GHZ, 4GB RAM with Linux Release (Ubuntu with Linux 3.2.0 and Windows 2003 Server) dual boot OS",
+        "workstations": 70,
+        "workstation_configuration": "Lenovo ThinkCentre Neo 50T i5 & 13th Generation processor with DDR4 16GB RAM, 512GB SSD, Keyboard, Optical Mouse, Monitors",
+        "printer": "Canon LBP2900B Laser Printer",
+        "switches": "5 D-LINK DES 1024 24 PORT 10/100 MBPS Ethernet Switches",
+        "ups": "20KVA UPS",
+        "air_conditioner": "Voltas 2.0 Ton Vertis Plus SPLIT AC",
+        "projector": "Infocus Projector"
+      },
+      "software": {
+        "os": "Windows 10, Libre Office 5.0",
+        "development_tools": ["Java 1.7", "Tomcat 7.0", "NetBeans 8.0", "Eclipse Kepler", "Notepad++ 6.8.8"]
+      }
+    },
+    "IT Lab –III & IV":
+    {
+      "name": "IT Lab –III & IV",
+      "location": "PG 220 & PG 221",
+      "lab_incharge": ["Mr. S. Anupkanth", "Mrs. Shaik Jaheda"],
+      "programmer": "Ms. D. Parvathi",
+      "hardware": {
+        "server": "IBM E-SERVERX3400",
+        "server_configuration": "INTEL R III XEON Processor 2GHZ, 4GB RAM with Linux Release 9 and Windows 2003 Server OS",
+        "workstations": 69,
+        "workstation_configuration": "Intel Pentium® Gold G7400 3.70 GHz Processor, 8GB RAM, 500GB SSD, DVD Drive, Onboard 10/100 Mbps Ethernet, Logitech Keyboard & Mouse",
+        "printer": "Canon LBP2900B Laser Printer",
+        "switches": "5 D-LINK DES 1024 24 PORT 10/100 MBPS, 1 D-LINK DES 1016D 16 PORT 10/100 MBPS",
+        "ups": "20KVA UPS",
+        "air_conditioner": ["Voltas central AC 8.5 ton", "Voltas 2.0 Ton Vertis Plus SPLIT AC"],
+        "projector": "Epson EB-X02 Projector"
+      },
+      "software": {
+        "os": "Ubuntu Linux 3.2.0, Windows 10, Libre Office 4.3.5.2",
+        "development_tools": ["Java 1.7", "Tomcat 7.0", "Eclipse Kepler", "Notepad++ 6.8.8", "MySQL", ".NET Framework 4.0"]
+      }
+    },
+    "IT Lab –V & VI":
+    {
+      "name": "IT Lab –V & VI",
+      "location": "PG 210 & PG 211",
+      "lab_incharge": ["Mrs. G. Shailaja", "Mr. B. Kiran Kumar"],
+      "programmer": "Mr. B. V. Sivannarayana",
+      "hardware": {
+        "server": "IBM E-SERVERX3400",
+        "server_configuration": "INTEL R III XEON Processor 2GHZ, 4GB RAM with Linux Release 9 and Windows 2003 Server OS",
+        "workstations": 70,
+        "workstation_configuration": "Intel Pentium Dual Core G3240 4th Generation, 8GB DDR3 RAM, Intel H81 Chipset M4, 500GB SATA Hard Disk, Acer PS/2 Keyboard, Acer PS/2 Optical Mouse, Acer 18.5” LED Monitors",
+        "printer": "Canon LBP2900B Laser Printer",
+        "switches": "5 D-LINK DES 1024 24 PORT 10/100 MBPS Ethernet Switches",
+        "ups": "20KVA UPS",
+        "air_conditioner": "Voltas 2.0 Ton Vertis Plus SPLIT AC",
+        "projector": "Infocus Projector"
+      },
+      "software": {
+        "os": "Windows 10, Libre Office 5.0",
+        "development_tools": ["Java 1.7", "Tomcat 7.0", "NetBeans 8.0", "Eclipse Kepler", "Rational Rose", "Notepad++ 6.8.8", "ADT Bundle"]
+      }
+    },"IT Lab –VII & VIII":
+    {
+      "name": "IT Lab –VII & VIII",
+      "location": "FB 116 & FB 117",
+      "lab_incharge": ["Mr. B. Mallaiah", "Mrs. S. Swetha"],
+      "programmer": "Mr. M. Bhaskar Raj",
+      "hardware": {
+        "workstations": 70,
+        "workstation_configuration": "Intel Pentium® Gold G7400 3.70 GHz Processor, 8GB RAM, 500GB SSD, DVD Drive, Onboard 10/100 Mbps Ethernet, Logitech Keyboard & Mouse",
+        "printer": "H.P LASERJET 1015 Printer",
+        "switches": "5 D-LINK DES 1024 24 PORT 10/100 MBPS Ethernet Switches",
+        "ups": "20KVA UPS",
+        "air_conditioner": ["2 Voltas 8.5 Ton Dustable AC", "1 Voltas 2.0 Ton Vertis Plus SPLIT AC"],
+        "projector": "Epson EB-X02 Projector"
+      },
+      "software": {
+        "os": "Windows 10, Ubuntu, Libre Office 4.3.5.2",
+        "development_tools": [
+          "ACROBAT READER-9",
+          "MOZILLA FIREFOX",
+          "GOOGLE CHROME",
+          "MICROSOFT VIRTUAL BOX SOFTWARE (ISOFILES: xp.iso, ubuntu, fedora.iso)",
+          "PC HARDWARE DEMO CD",
+          "VISUAL STUDIO-X64-1.78.2",
+          "PYTHON-3.11.2",
+          "PYCHARM COMMUNITY-2022.3.3",
+          "WordPress",
+          "Xampp-Window-X64-8.2"
+        ]
+      }
+    },"IT Lab –IX":
+    {
+      "name": "IT Lab –IX",
+      "location": "PG 208",
+      "lab_incharge": ["Mr. A. Seetharam Nagesh", "Mrs. Swathi Agarwal"],
+      "programmer": "Mr. S. Subhash Chandra Bose",
+      "hardware": {
+        "server_configuration": "i5 Processor, 8GB RAM with Linux Release 9 and Windows 2003 Server OS",
+        "workstations": 48,
+        "workstation_configuration": "Intel Pentium Dual Core G3240 6th Generation, 8GB DDR4 RAM, 1TB Hard Disk",
+        "printer": "Hp laserjet 1020 plus Printer",
+        "switches": "2 D-LINK DES 1024 24 PORT 10/100 MBPS Ethernet Switches",
+        "ups": "20KVA UPS",
+        "projector": "Infocus Projector"
+      },
+      "software": {
+        "os": "Windows 10, Libre Office 5.0",
+        "development_tools": ["Java 1.7", "Tomcat 7.0", "NetBeans 8.0", "Eclipse Kepler", "Notepad++ 6.8.8", "ADT Bundle"]
+      }
+    },"IT Lab –X":
+    {
+      "name": "IT Lab –X",
+      "location": "PG 209",
+      "lab_incharge": ["Mr. C.V.S. Satyamurty", "Mrs. S. Suhasini"],
+      "programmer": "Mr. M S Sankar",
+      "hardware": {
+        "server_configuration": "i5 Processor, 8GB RAM with Linux Release 9 and Windows 2003 Server OS",
+        "workstations": 20,
+        "workstation_configuration": "Intel Pentium Dual Core G3240 6th Generation, 8GB DDR4 RAM, 1TB Hard Disk",
+        "printer": "Hp laserjet 1020 plus Printer",
+        "switches": "1 D-LINK DES 1024 24 PORT 10/100 MBPS Ethernet Switch",
+        "ups": "20KVA UPS",
+        "projector": "Infocus Projector",
+        "additional_equipment": {
+          "Arduino Kits": 20,
+          "Raspberry Pi Kits": 20,
+          "Projector screen stand": 1,
+          "Sensors": 20,
+          "Relay": 5,
+          "Web Cam": 2,
+          "Light transducers": 3
+        }
+      },
+      "software": {
+        "os": "Windows 10, Libre Office 5.0",
+        "development_tools": ["Java 1.7", "Tomcat 7.0", "NetBeans 8.0", "Eclipse Kepler", "Spark", "Notepad++ 6.8.8", "ADT Bundle"]
+      }
+    },"IT Lab –XI":
+    {
+      "name": "IT Lab –XI",
+      "location": "PG 402",
+      "lab_incharge": ["Ms. T Aruna Reddy", "Mr. M Bhagavanth"],
+      "programmer": "Mr. M. Bhaskar Raj",
+      "hardware": {
+        "workstation_configuration": "Intel Pentium(R) CPU G4400 3.30 GHz, 4GB RAM, 1TB Hard Disk, ACER Keyboard & Mouse, DVD Drive, Onboard 10/100 Mbps Ethernet",
+        "printer": "H.P LASERJET 1015 Printer",
+        "switches": "5 D-LINK DES 1024 24 PORT 10/100 MBPS Ethernet Switches",
+        "ups": "20KVA UPS",
+        "projector": "Epson EB-X02 Projector"
+      },
+      "software": {
+        "os": "Windows 10, Ubuntu 20.04.3, Libre Office 4.3.5.2",
+        "development_tools": ["Java 1.7", "Tomcat 7.0", "NetBeans 8.0", "Eclipse Kepler", "Spark", "Notepad++ 6.8.8", "ADT Bundle"]
+      }
+    }
+  }}
+  

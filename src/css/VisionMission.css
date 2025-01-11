@@ -38,11 +38,22 @@
   flex-grow: 1;
   padding: 40px;
   font-family: 'Times New Roman', Times, serif;
-  font-size: 14px;
+  font-size: 20px;
   text-align: justify;
   /* background-color: #ecf0f1; */
 }
-
+.msg-header {
+  display: flex;
+  flex-direction: column; /* Stacks the image and text vertically */
+  align-items: center; /* Centers the items horizontally */
+  justify-content: center; /* Centers the items vertically (if needed) */
+  text-align: center;
+}
+.msg-header img {
+  width: 50%; /* Make the image fill the width of the parent div */
+  height: 50%; /* Make the image fill the height of the parent div */
+  object-fit: cover; /* Ensures the image covers the div without distortion */
+}
 .main-content h1,
 .main-content p {
   color: #2c3e50;
